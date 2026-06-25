@@ -1,7 +1,7 @@
 {
   "date": "2026-06-25",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-06-25T09:41:22.364285+00:00",
+  "generated_at": "2026-06-25T09:54:56.571613+00:00",
   "coverage": {
     "jobs": {
       "count": 10,
@@ -26,10 +26,10 @@
   },
   "summary": [
     "agents 在 21 条记录中出现，中文主题可理解为：智能体。",
-    "ai_coding 在 10 条记录中出现，中文主题可理解为：AI 编程。",
+    "ai_coding 在 11 条记录中出现，中文主题可理解为：AI 编程。",
     "llm 在 10 条记录中出现，中文主题可理解为：大模型。",
     "rag 在 10 条记录中出现，中文主题可理解为：RAG。",
-    "evals 在 8 条记录中出现，中文主题可理解为：评测与可观测性。"
+    "ai 在 7 条记录中出现，中文主题可理解为：ai。"
   ],
   "jobs": [
     {
@@ -51,7 +51,7 @@
       "relevance_score": 16,
       "company": "Cohere",
       "location": "",
-      "jd": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers. Cohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of the best in the world at what they do. We believe that a diverse range of perspectives is a requirement for building great products. Join us on our mission and shape the future! About North: North is Cohere's cutting-edge AI workspace platform, designed to revolutionize the way enterprises utilize AI. It offers a secure and customizable environment, allowing companies to deploy AI while maintaining control over sensitive data. North integrates seamlessly with existing workflows, providing a trusted platform that connects AI agents with workplace tools and applications. Why This Role? This role offers a unique opportunity to shape how enterprises harness the power of AI in real-world applications. As a bridge between our core North product and our clients’ engineering teams, you’ll be at the forefront of solving complex problems and securely integrating AI into critical sectors such as finance, healthcare, and telecommunications. We are seeking engineers with diverse skill sets, including backend, infrastructure, agent development, and deployments, who deeply care about customers and want to work at the cutting edge of Agentic AI. Note: between 20 - 40% travel anticipated In this role, you will: Build and ship features for North, our AI workspace platform Develop autonomous agents that talk to sensitive enterprise data Experiment at a high velocity and with a high level of quality to engage our customers and ultimately deliver solutions that exceed their expectations Work across the entire product lifecycle from conceptualization through production You may be a good fit if: You have experience with and enjoy working directly with customers You are fluent in both English and Arabic You have shipped (lots of) Python in production You have built and deployed highly performant client-side or server-side RAG/agentic applications You have strong coding abilities and are comfortable working across the stack. You’re able to read and understand, and even fix issues outside of the main code base You excel in fast-paced environments and can execute while priorities and objectives are a moving target We are open to candidates currently based in the Middle East or who are open to travelling or relocating. If some of the above doesn’t line up perfectly with your experience, we still encourage you to apply! We value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form , and we will work together to meet your needs. Full-Time Employees at Cohere enjoy these Perks: 🤝 An open and inclusive culture and work environment 🧑‍💻 Work closely with a team on the cutting edge of AI research 🍽 Weekly lunch stipend, in-office lunches & snacks 🦷 Full health and dental benefits, including a separate budget to take care of your mental health 🐣 100% Parental Leave top-up for up to 6 months 🎨 Personal enrichment benefits towards arts and culture, fitness and well-being, quality time, and workspace improvement 🏙 Remote-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co-working stipend ✈️ 6 weeks of vacation (30 working days!) Please mention the word **LIKABLE** and tag RMTQwLjgyLjQuMjMz when applying to show you read the job post completely (#RMTQwLjgyLjQuMjMz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers. Cohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of the best in the world at what they do. We believe that a diverse range of perspectives is a requirement for building great products. Join us on our mission and shape the future! About North: North is Cohere's cutting-edge AI workspace platform, designed to revolutionize the way enterprises utilize AI. It offers a secure and customizable environment, allowing companies to deploy AI while maintaining control over sensitive data. North integrates seamlessly with existing workflows, providing a trusted platform that connects AI agents with workplace tools and applications. Why This Role? This role offers a unique opportunity to shape how enterprises harness the power of AI in real-world applications. As a bridge between our core North product and our clients’ engineering teams, you’ll be at the forefront of solving complex problems and securely integrating AI into critical sectors such as finance, healthcare, and telecommunications. We are seeking engineers with diverse skill sets, including backend, infrastructure, agent development, and deployments, who deeply care about customers and want to work at the cutting edge of Agentic AI. Note: between 20 - 40% travel anticipated In this role, you will: Build and ship features for North, our AI workspace platform Develop autonomous agents that talk to sensitive enterprise data Experiment at a high velocity and with a high level of quality to engage our customers and ultimately deliver solutions that exceed their expectations Work across the entire product lifecycle from conceptualization through production You may be a good fit if: You have experience with and enjoy working directly with customers You are fluent in both English and Arabic You have shipped (lots of) Python in production You have built and deployed highly performant client-side or server-side RAG/agentic applications You have strong coding abilities and are comfortable working across the stack. You’re able to read and understand, and even fix issues outside of the main code base You excel in fast-paced environments and can execute while priorities and objectives are a moving target We are open to candidates currently based in the Middle East or who are open to travelling or relocating. If some of the above doesn’t line up perfectly with your experience, we still encourage you to apply! We value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form , and we will work together to meet your needs. Full-Time Employees at Cohere enjoy these Perks: 🤝 An open and inclusive culture and work environment 🧑‍💻 Work closely with a team on the cutting edge of AI research 🍽 Weekly lunch stipend, in-office lunches & snacks 🦷 Full health and dental benefits, including a separate budget to take care of your mental health 🐣 100% Parental Leave top-up for up to 6 months 🎨 Personal enrichment benefits towards arts and culture, fitness and well-being, quality time, and workspace improvement 🏙 Remote-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co-working stipend ✈️ 6 weeks of vacation (30 working days!) Please mention the word **LIKABLE** and tag RMTcyLjE4NC4xNzQuMTUy when applying to show you read the job post completely (#RMTcyLjE4NC4xNzQuMTUy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to...",
       "jd_language": "en",
       "skills": [
@@ -82,7 +82,7 @@
       "relevance_score": 15,
       "company": "Spotify",
       "location": "",
-      "jd": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers. What if the systems you built changed how millions of developers work â not just at Spotify, but across the industry? The Platform Developer Experience (PDX) team builds the infrastructure and internal products that power how Spotify engineers ship software. Within PDX, the Wingspan team is building the next generation of fleet management and reimagining how we interact with AI agents â and bringing those capabilities to market through Portal, Spotifyâs external developer platform built on Backstage. We are redesigning platform engineering around intelligent agents, large language models, and decision-aware automation. In this role, youâll lead a team shaping how AI becomes a core operating layer of modern platform infrastructure, directly improving how developers ship and maintain software at scale. \\n What You'll Do â¢ Lead and grow a team building AI-native backend systems that orchestrate large-scale, autonomous fleet changes â¢ Define the technical vision for integrating LLM-powered reasoning and agent-based execution into production infrastructure â¢ Architect systems where AI agents analyze service metadata, generate safe change plans, execute updates, and validate outcomes â¢ Establish safety boundaries, evaluation frameworks, and observability models for AI-driven automation at scale â¢ Drive responsible AI adoption by embedding governance, auditability, and human-in-the-loop safeguards into system design â¢ Balance rapid experimentation with platform reliability, ensuring intelligent automation meets production-grade standards â¢ Partner with product and go-to-market teams to position Portal and AI fleet management as a leading developer platform â¢ Build a team culture grounded in curiosity, technical rigor, and continuous learning in emerging AI systems Who You Are â¢ You have 3+ years of experience leading engineering teams working on distributed systems or developer platforms at scale â¢ You have 5+ years of experience in backend engineering with strong expertise in Java, Python, and/or Node.js â¢ You have experience integrating AI/ML systems, LLMs, agent frameworks, or AI-assisted tooling into real-world systems â¢ You understand how autonomous systems make decisions and how to design guardrails that ensure safety, reliability, and traceability â¢ You think in systems, considering data flows, model behavior, orchestration layers, and operational impact â¢ You are comfortable leading in emerging technical domains where patterns are still forming â¢ You create inclusive environments where diverse perspectives strengthen technical and product decisions â¢ You communicate clearly across engineers, product leaders, and executives about both the opportunities and risks of AI-driven systems Where You'll Be â¢ We offer you the flexibility to work where you work best! For this role, you can be within the EMEA region as long as we have a work location (excluding France due to on-call restrictions). â¢This team operates within the Central European and GMT time zone for collaboration \\n Please mention the word **SAINT** and tag RMTQwLjgyLjQuMjMz when applying to show you read the job post completely (#RMTQwLjgyLjQuMjMz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers. What if the systems you built changed how millions of developers work â not just at Spotify, but across the industry? The Platform Developer Experience (PDX) team builds the infrastructure and internal products that power how Spotify engineers ship software. Within PDX, the Wingspan team is building the next generation of fleet management and reimagining how we interact with AI agents â and bringing those capabilities to market through Portal, Spotifyâs external developer platform built on Backstage. We are redesigning platform engineering around intelligent agents, large language models, and decision-aware automation. In this role, youâll lead a team shaping how AI becomes a core operating layer of modern platform infrastructure, directly improving how developers ship and maintain software at scale. \\n What You'll Do â¢ Lead and grow a team building AI-native backend systems that orchestrate large-scale, autonomous fleet changes â¢ Define the technical vision for integrating LLM-powered reasoning and agent-based execution into production infrastructure â¢ Architect systems where AI agents analyze service metadata, generate safe change plans, execute updates, and validate outcomes â¢ Establish safety boundaries, evaluation frameworks, and observability models for AI-driven automation at scale â¢ Drive responsible AI adoption by embedding governance, auditability, and human-in-the-loop safeguards into system design â¢ Balance rapid experimentation with platform reliability, ensuring intelligent automation meets production-grade standards â¢ Partner with product and go-to-market teams to position Portal and AI fleet management as a leading developer platform â¢ Build a team culture grounded in curiosity, technical rigor, and continuous learning in emerging AI systems Who You Are â¢ You have 3+ years of experience leading engineering teams working on distributed systems or developer platforms at scale â¢ You have 5+ years of experience in backend engineering with strong expertise in Java, Python, and/or Node.js â¢ You have experience integrating AI/ML systems, LLMs, agent frameworks, or AI-assisted tooling into real-world systems â¢ You understand how autonomous systems make decisions and how to design guardrails that ensure safety, reliability, and traceability â¢ You think in systems, considering data flows, model behavior, orchestration layers, and operational impact â¢ You are comfortable leading in emerging technical domains where patterns are still forming â¢ You create inclusive environments where diverse perspectives strengthen technical and product decisions â¢ You communicate clearly across engineers, product leaders, and executives about both the opportunities and risks of AI-driven systems Where You'll Be â¢ We offer you the flexibility to work where you work best! For this role, you can be within the EMEA region as long as we have a work location (excluding France due to on-call restrictions). â¢This team operates within the Central European and GMT time zone for collaboration \\n Please mention the word **SAINT** and tag RMTcyLjE4NC4xNzQuMTUy when applying to show you read the job post completely (#RMTcyLjE4NC4xNzQuMTUy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers. What if the systems you built changed how millions of developers work â not just...",
       "jd_language": "en",
       "skills": [
@@ -261,7 +261,7 @@
       "relevance_score": 9,
       "company": "Access Softek",
       "location": "Remote USA",
-      "jd": "Access Softek is a leading provider of digital banking platforms for financial institutions across the U.S. We are seeking a Chief Technology Officer to define and lead the companyâs technology vision, architecture strategy, and long-term platform evolution. This is an executive role responsible for ensuring technology is a core driver of business growth, product scalability, and operational resilience. As CTO, you will partner with the CEO and executive leadership team to shape company strategy through technology, make high-impact architectural decisions, and ensure the organization is built to scale sustainably. \\n What You'll own Own the companyâs technology vision, architecture strategy, and long-term platform direction Define how the platform evolves, scales, and remains competitive over time Translate business strategy into technology strategy, system architecture, and key technical trade-offs Make executive-level decisions on platform design, modernization, and major technology investments Own end-to-end system architecture across products and services, ensuring coherence, scalability, and maintainability Drive long-term platform evolution, including legacy system strategy and architectural consolidation Design and evolve the engineering organization at the executive level, including leadership structure and scaling model Own technology risk, including system resilience, security architecture, and compliance (SOC2 and related standards) Ensure security and compliance are embedded into system design and engineering practices Partner with Product and Business leadership to align roadmap priorities with technical feasibility and long-term strategy Align engineering investment and capacity with business goals and growth priorities Oversee system reliability, scalability, and observability strategy at the platform level Evaluate and drive adoption of emerging technologies (including AI/automation) for strategic advantage Lead the companyâs adoption of AI technologies and guide its transition toward AI-driven products and operations Provide executive-level visibility into platform health, risks, and architectural direction Requirements 10+ years of experience in software engineering and technology leadership Proven experience as a CTO or equivalent executive technology leader in a scaling SaaS or platform company Strong track record of owning architecture and platform evolution in large-scale, production systems Experience leading and scaling distributed engineering organizations through growth and transformation Deep understanding of cloud-native architectures, distributed systems, and platform engineering principles Experience operating in regulated or security-critical environments (e.g., fintech, enterprise SaaS) Strong executive communication skills with ability to influence CEO and senior leadership decisions Demonstrated ability to operate at system, architecture, and business-strategy level Strong judgment in balancing speed, scalability, risk, and long-term technical investment Our Benefits Compensation commensurate with experience 401(k) retirement savings plan Life insurance, short-term and long-term disabilities insurance Medical and dental insurance Paid vacation and sick leave Paid home internet \\n About the Company: Access Softek started developing software 30 years ago in Berkeley, California. Now, we have offices all over the United States and around the world, and are growing by the day! Our software is in use by over 350+ financial institutions, helping them to reach millions of customers and shape communities across the country. In addition, we have a technical development and consulting division that works for companies like Google, Sony and Nintendo. Please mention the word **DUMBFOUNDED** and tag RMTQwLjgyLjQuMjMz when applying to show you read the job post completely (#RMTQwLjgyLjQuMjMz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "Access Softek is a leading provider of digital banking platforms for financial institutions across the U.S. We are seeking a Chief Technology Officer to define and lead the companyâs technology vision, architecture strategy, and long-term platform evolution. This is an executive role responsible for ensuring technology is a core driver of business growth, product scalability, and operational resilience. As CTO, you will partner with the CEO and executive leadership team to shape company strategy through technology, make high-impact architectural decisions, and ensure the organization is built to scale sustainably. \\n What You'll own Own the companyâs technology vision, architecture strategy, and long-term platform direction Define how the platform evolves, scales, and remains competitive over time Translate business strategy into technology strategy, system architecture, and key technical trade-offs Make executive-level decisions on platform design, modernization, and major technology investments Own end-to-end system architecture across products and services, ensuring coherence, scalability, and maintainability Drive long-term platform evolution, including legacy system strategy and architectural consolidation Design and evolve the engineering organization at the executive level, including leadership structure and scaling model Own technology risk, including system resilience, security architecture, and compliance (SOC2 and related standards) Ensure security and compliance are embedded into system design and engineering practices Partner with Product and Business leadership to align roadmap priorities with technical feasibility and long-term strategy Align engineering investment and capacity with business goals and growth priorities Oversee system reliability, scalability, and observability strategy at the platform level Evaluate and drive adoption of emerging technologies (including AI/automation) for strategic advantage Lead the companyâs adoption of AI technologies and guide its transition toward AI-driven products and operations Provide executive-level visibility into platform health, risks, and architectural direction Requirements 10+ years of experience in software engineering and technology leadership Proven experience as a CTO or equivalent executive technology leader in a scaling SaaS or platform company Strong track record of owning architecture and platform evolution in large-scale, production systems Experience leading and scaling distributed engineering organizations through growth and transformation Deep understanding of cloud-native architectures, distributed systems, and platform engineering principles Experience operating in regulated or security-critical environments (e.g., fintech, enterprise SaaS) Strong executive communication skills with ability to influence CEO and senior leadership decisions Demonstrated ability to operate at system, architecture, and business-strategy level Strong judgment in balancing speed, scalability, risk, and long-term technical investment Our Benefits Compensation commensurate with experience 401(k) retirement savings plan Life insurance, short-term and long-term disabilities insurance Medical and dental insurance Paid vacation and sick leave Paid home internet \\n About the Company: Access Softek started developing software 30 years ago in Berkeley, California. Now, we have offices all over the United States and around the world, and are growing by the day! Our software is in use by over 350+ financial institutions, helping them to reach millions of customers and shape communities across the country. In addition, we have a technical development and consulting division that works for companies like Google, Sony and Nintendo. Please mention the word **DUMBFOUNDED** and tag RMTcyLjE4NC4xNzQuMTUy when applying to show you read the job post completely (#RMTcyLjE4NC4xNzQuMTUy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "Access Softek is a leading provider of digital banking platforms for financial institutions across the U.S. We are seeking a Chief Technology Officer to define and lead the companyâs technology vision, architecture strategy, and long-term platform evolution. This is an executive role responsible for ensuring technology is a core driver of business growth, product scalability, and operational resilience. As CTO,...",
       "jd_language": "en",
       "skills": [
@@ -288,7 +288,7 @@
       "relevance_score": 8,
       "company": "Phaidra",
       "location": "Remote - United States",
-      "jd": "About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades — because the controls programming is hard-coded. Thousands of lines of rules and heuristics that define how the machines interact with each other. The result of all this hard-coding is that facilities are frozen in time, unable to adapt to their environment while their performance slowly degrades. Phaidra creates AI-powered control systems for the industrial sector, enabling industrial facilities to automatically learn and improve over time. Specifically: We use reinforcement learning algorithms to provide this intelligence, converting raw sensor data into high-value actions and decisions. We focus on industrial applications, which tend to be well-sensorized with measurable KPIs — perfect for reinforcement learning. We enable domain experts (our users) to configure the AI control systems (i.e. agents) without writing code. They define what they want their AI agents to do, and we do it for them. Our team has a track record of applying AI to some of the toughest problems. From achieving superhuman performance with DeepMind's AlphaGo, to reducing the energy required to cool Google's Data Centers by 40%, we deeply understand AI and how to apply it in production for massive impact. Phaidra’s ability to achieve its mission is determined by our ability to work together — as defined by our core values: Transparency, Collaboration, Operational Excellence, Ownership, and Empathy. We seek individuals who embody these values, as they are instrumental i Please mention the word **ASTOUNDED** and tag RMTQwLjgyLjQuMjMz when applying to show you read the job post completely (#RMTQwLjgyLjQuMjMz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades — because the controls programming is hard-coded. Thousands of lines of rules and heuristics that define how the machines interact with each other. The result of all this hard-coding is that facilities are frozen in time, unable to adapt to their environment while their performance slowly degrades. Phaidra creates AI-powered control systems for the industrial sector, enabling industrial facilities to automatically learn and improve over time. Specifically: We use reinforcement learning algorithms to provide this intelligence, converting raw sensor data into high-value actions and decisions. We focus on industrial applications, which tend to be well-sensorized with measurable KPIs — perfect for reinforcement learning. We enable domain experts (our users) to configure the AI control systems (i.e. agents) without writing code. They define what they want their AI agents to do, and we do it for them. Our team has a track record of applying AI to some of the toughest problems. From achieving superhuman performance with DeepMind's AlphaGo, to reducing the energy required to cool Google's Data Centers by 40%, we deeply understand AI and how to apply it in production for massive impact. Phaidra’s ability to achieve its mission is determined by our ability to work together — as defined by our core values: Transparency, Collaboration, Operational Excellence, Ownership, and Empathy. We seek individuals who embody these values, as they are instrumental i Please mention the word **ASTOUNDED** and tag RMTcyLjE4NC4xNzQuMTUy when applying to show you read the job post completely (#RMTcyLjE4NC4xNzQuMTUy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades — because the controls programming is hard-coded. Thousands of lines of rules and heuristics that define how the machines interact with each other. The result of all this hard-coding is that...",
       "jd_language": "en",
       "skills": [
@@ -314,7 +314,7 @@
       "relevance_score": 8,
       "company": "saas.group",
       "location": "Remote, Europe",
-      "jd": "This role is part of our ScraperAPI team, one of our growing brands at saas.group. ScraperAPI is an enterprise-scale web scraping solution, trusted by businesses across a wide range of industries to extract crucial data at scale. From e-commerce, travel to real estate and market research, we support companies in turning the web into actionable insights. We're currently on an exciting growth journey, scaling rapidly as demand for reliable, high-performance web scraping and data keeps rising. Profile Overview We are seeking a talented Senior Platform Engineer to join our focused engineering team. We're building a product that handles billions of requests per month for businesses that depend on it. Web data is increasingly central to how companies make decisions, and our infrastructure is what makes accessing it seamless and reliable at scale. You won't be following someone else's roadmap, you'll be building it. Your immediate impact in the first 3-6 months will be: Explore and assess the infrastructure architecture, collecting risks and opportunities that need to be addressed Build and maintain a platform roadmap based on your findings, prioritising the work that matters most Support the consolidation of two infrastructure stacks into a unified platform, helping shape how the migration happens Help the engineering team increase its maturity around AI usage and standardise development environment tooling and processes Your responsibilities Own the platform roadmap: identify what needs to be fixed, what needs to be built, and drive it forward. This is not a ticket-following role Lead cost management efforts across our infrastructure, including proxy costs which are among our highest expenses. Identify optimisation opportunities and implement them without compromising performance or security Ensure the reliability, scalability and performance of our infrastructure through robust monitoring, alerting and disaster recovery strategie Please mention the word **STURDIER** and tag RMTQwLjgyLjQuMjMz when applying to show you read the job post completely (#RMTQwLjgyLjQuMjMz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "This role is part of our ScraperAPI team, one of our growing brands at saas.group. ScraperAPI is an enterprise-scale web scraping solution, trusted by businesses across a wide range of industries to extract crucial data at scale. From e-commerce, travel to real estate and market research, we support companies in turning the web into actionable insights. We're currently on an exciting growth journey, scaling rapidly as demand for reliable, high-performance web scraping and data keeps rising. Profile Overview We are seeking a talented Senior Platform Engineer to join our focused engineering team. We're building a product that handles billions of requests per month for businesses that depend on it. Web data is increasingly central to how companies make decisions, and our infrastructure is what makes accessing it seamless and reliable at scale. You won't be following someone else's roadmap, you'll be building it. Your immediate impact in the first 3-6 months will be: Explore and assess the infrastructure architecture, collecting risks and opportunities that need to be addressed Build and maintain a platform roadmap based on your findings, prioritising the work that matters most Support the consolidation of two infrastructure stacks into a unified platform, helping shape how the migration happens Help the engineering team increase its maturity around AI usage and standardise development environment tooling and processes Your responsibilities Own the platform roadmap: identify what needs to be fixed, what needs to be built, and drive it forward. This is not a ticket-following role Lead cost management efforts across our infrastructure, including proxy costs which are among our highest expenses. Identify optimisation opportunities and implement them without compromising performance or security Ensure the reliability, scalability and performance of our infrastructure through robust monitoring, alerting and disaster recovery strategie Please mention the word **STURDIER** and tag RMTcyLjE4NC4xNzQuMTUy when applying to show you read the job post completely (#RMTcyLjE4NC4xNzQuMTUy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "This role is part of our ScraperAPI team, one of our growing brands at saas.group. ScraperAPI is an enterprise-scale web scraping solution, trusted by businesses across a wide range of industries to extract crucial data at scale. From e-commerce, travel to real estate and market research, we support companies in turning the web into actionable insights. We're currently on an exciting growth journey, scaling...",
       "jd_language": "en",
       "skills": [
@@ -483,49 +483,48 @@
   ],
   "github_repos": [
     {
-      "id": "7fbfbbff86df6cb6",
+      "id": "19981c94b9a8382d",
       "section": "github_repos",
       "source": "GitHub RAG Repositories",
-      "title": "deepset-ai/haystack",
-      "url": "https://github.com/deepset-ai/haystack",
-      "published_at": "2026-06-25T09:14:24+00:00",
-      "summary": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "title": "helixml/helix",
+      "url": "https://github.com/helixml/helix",
+      "published_at": "2026-06-25T09:44:38+00:00",
+      "summary": "♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini and open models on a full private AI Stack ♾️",
       "tags": [
-        "agent",
         "agents",
-        "ai",
-        "gemini",
-        "generative-ai",
+        "ai_coding",
+        "ai_infra",
+        "api",
+        "genai",
         "github",
-        "gpt-4",
-        "information-retrieval",
-        "large-language-models",
+        "glm",
+        "golang",
+        "helm",
+        "k8s",
+        "kimi",
         "llm",
-        "machine-learning",
-        "multimodal",
-        "nlp",
-        "orchestration",
-        "python",
-        "pytorch",
-        "question-answering",
+        "llm-agent",
+        "llm-serving",
+        "openai",
+        "openapi",
+        "qwen",
         "rag",
-        "retrieval-augmented-generation",
-        "semantic-search",
-        "summarization",
-        "transformers"
+        "self-hosted",
+        "swagger",
+        "swarm"
       ],
-      "relevance_score": 16,
-      "repo": "deepset-ai/haystack",
-      "stars": 25713,
-      "language": "MDX"
+      "relevance_score": 14,
+      "repo": "helixml/helix",
+      "stars": 786,
+      "language": "Go"
     },
     {
       "id": "92332a2dc8210fed",
       "section": "github_repos",
-      "source": "GitHub LLM Repositories",
+      "source": "GitHub RAG Repositories",
       "title": "comet-ml/opik",
       "url": "https://github.com/comet-ml/opik",
-      "published_at": "2026-06-25T09:40:10+00:00",
+      "published_at": "2026-06-25T09:43:27+00:00",
       "summary": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
       "tags": [
         "agents",
@@ -548,16 +547,16 @@
       ],
       "relevance_score": 14,
       "repo": "comet-ml/opik",
-      "stars": 19811,
+      "stars": 19813,
       "language": "Python"
     },
     {
       "id": "735296d96b847c08",
       "section": "github_repos",
-      "source": "GitHub LLM Repositories",
+      "source": "GitHub RAG Repositories",
       "title": "Tencent/WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
-      "published_at": "2026-06-25T09:36:26+00:00",
+      "published_at": "2026-06-25T09:42:00+00:00",
       "summary": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "tags": [
         "agent",
@@ -585,62 +584,43 @@
       ],
       "relevance_score": 13,
       "repo": "Tencent/WeKnora",
-      "stars": 17276,
+      "stars": 17277,
       "language": "Go"
     },
     {
-      "id": "6b4228b4b5cec72d",
+      "id": "e305e17ea504980e",
       "section": "github_repos",
       "source": "GitHub LLM Repositories",
-      "title": "mastra-ai/mastra",
-      "url": "https://github.com/mastra-ai/mastra",
-      "published_at": "2026-06-25T09:36:24+00:00",
-      "summary": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+      "title": "netease-youdao/LobsterAI",
+      "url": "https://github.com/netease-youdao/LobsterAI",
+      "published_at": "2026-06-25T09:54:32+00:00",
+      "summary": "Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone via WeChat, Feishu, DingTalk & Telegram.",
       "tags": [
+        "agent",
         "agents",
-        "ai",
-        "chatbots",
-        "evals",
+        "ai-agent",
+        "ai-assistant",
+        "automation",
+        "autonomous-agents",
+        "chatbot",
+        "copilot",
+        "cross-platform",
+        "desktop-app",
+        "electron",
         "github",
-        "javascript",
         "llm",
         "mcp",
-        "nextjs",
-        "nodejs",
-        "reactjs",
-        "tts",
-        "typescript",
-        "workflows"
-      ],
-      "relevance_score": 13,
-      "repo": "mastra-ai/mastra",
-      "stars": 25438,
-      "language": "TypeScript"
-    },
-    {
-      "id": "1c2c4681c20f8e97",
-      "section": "github_repos",
-      "source": "GitHub RAG Repositories",
-      "title": "NVIDIA-AI-Blueprints/video-search-and-summarization",
-      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
-      "published_at": "2026-06-25T09:33:19+00:00",
-      "summary": "The NVIDIA VSS Blueprint is a suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
-      "tags": [
-        "agents",
-        "ai_infra",
-        "github",
-        "llm",
         "multimodal",
-        "rag",
-        "skills",
-        "video-analytics",
-        "video-search",
-        "vlm"
+        "office-automation",
+        "openclaw",
+        "productivity",
+        "react",
+        "tyepscript"
       ],
-      "relevance_score": 13,
-      "repo": "NVIDIA-AI-Blueprints/video-search-and-summarization",
-      "stars": 1629,
-      "language": "C++"
+      "relevance_score": 12,
+      "repo": "netease-youdao/LobsterAI",
+      "stars": 5361,
+      "language": "TypeScript"
     },
     {
       "id": "8f2db0354e045f5e",
@@ -648,7 +628,7 @@
       "source": "GitHub LLM Repositories",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "published_at": "2026-06-25T09:36:31+00:00",
+      "published_at": "2026-06-25T09:50:39+00:00",
       "summary": "Production-ready platform for agentic workflow development.",
       "tags": [
         "agent",
@@ -676,44 +656,52 @@
       ],
       "relevance_score": 12,
       "repo": "langgenius/dify",
-      "stars": 146527,
+      "stars": 146528,
       "language": "TypeScript"
     },
     {
-      "id": "0f370a779420cbfa",
+      "id": "ae09feba6aaa71c8",
       "section": "github_repos",
-      "source": "GitHub RAG Repositories",
-      "title": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "published_at": "2026-06-25T09:40:21+00:00",
-      "summary": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "source": "GitHub LLM Repositories",
+      "title": "iflytek/astron-agent",
+      "url": "https://github.com/iflytek/astron-agent",
+      "published_at": "2026-06-25T09:52:41+00:00",
+      "summary": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
       "tags": [
+        "agent",
         "agentic-ai",
+        "agentic-workflow",
         "agents",
         "ai",
-        "ai-agents",
-        "context-engineering",
+        "enterprise",
+        "enterprise-automation",
         "github",
-        "information-retrieval",
+        "iflytek-astron",
         "llm",
-        "rag",
-        "reasoning",
-        "retrieval",
-        "retrieval-augmented-generation",
-        "vector-database"
+        "llm-ops",
+        "low-code",
+        "mcp",
+        "multi-agent",
+        "next-gen",
+        "orchestration",
+        "python",
+        "rpa",
+        "superagent",
+        "workflow",
+        "workflow-engine"
       ],
       "relevance_score": 11,
-      "repo": "VectifyAI/PageIndex",
-      "stars": 33404,
-      "language": "Python"
+      "repo": "iflytek/astron-agent",
+      "stars": 8578,
+      "language": "Java"
     },
     {
       "id": "9a6dfdd5b57428ae",
       "section": "github_repos",
-      "source": "GitHub RAG Repositories",
+      "source": "GitHub LLM Repositories",
       "title": "mem0ai/mem0",
       "url": "https://github.com/mem0ai/mem0",
-      "published_at": "2026-06-25T09:40:10+00:00",
+      "published_at": "2026-06-25T09:50:20+00:00",
       "summary": "Universal memory layer for AI Agents",
       "tags": [
         "agents",
@@ -738,62 +726,105 @@
       "language": "Python"
     },
     {
-      "id": "2c68c4d6380b0474",
+      "id": "72675d0a5512140c",
       "section": "github_repos",
-      "source": "GitHub LLM Repositories",
-      "title": "agentscope-ai/agentscope-java",
-      "url": "https://github.com/agentscope-ai/agentscope-java",
-      "published_at": "2026-06-25T09:39:46+00:00",
-      "summary": "AgentScope Java: Agent-Oriented Programming for Building LLM Applications",
+      "source": "GitHub RAG Repositories",
+      "title": "403errors/repomind",
+      "url": "https://github.com/403errors/repomind",
+      "published_at": "2026-06-25T09:46:57+00:00",
+      "summary": "An open-source, AI-powered application using Agentic CAG to chat with any public GitHub repository or developer profile, offering deep code analysis, visual architecture maps and security audits",
       "tags": [
-        "agent",
-        "agentic",
+        "agents",
+        "ai",
+        "architecture-diagrams",
+        "cag",
+        "code-analysis",
+        "code-search",
+        "coding-assistant",
+        "developer-tools",
+        "gemini",
+        "github",
+        "github-api",
+        "github-profile-analyzer",
+        "llm",
+        "mermaid",
+        "nextjs",
+        "open-source",
+        "rag",
+        "repomind",
+        "repository-analysis",
+        "security-scanner",
+        "typescript",
+        "vulnerability-scanner"
+      ],
+      "relevance_score": 11,
+      "repo": "403errors/repomind",
+      "stars": 262,
+      "language": "TypeScript"
+    },
+    {
+      "id": "1f0ca83809b0fb3d",
+      "section": "github_repos",
+      "source": "GitHub AI Repositories",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "published_at": "2026-06-25T09:46:21+00:00",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "tags": [
         "agentic-ai",
         "agents",
         "ai",
+        "artificial-intelligence",
+        "autonomous-agents",
+        "claude",
         "github",
-        "llm"
+        "gpt",
+        "llama-api",
+        "llm",
+        "multimodal",
+        "openai",
+        "python"
       ],
       "relevance_score": 11,
-      "repo": "agentscope-ai/agentscope-java",
-      "stars": 4065,
-      "language": "Java"
+      "repo": "Significant-Gravitas/AutoGPT",
+      "stars": 185157,
+      "language": "Python"
     },
     {
-      "id": "c60b682dc9e5a88e",
+      "id": "99b6b38254bdbe38",
       "section": "github_repos",
-      "source": "GitHub LLM Repositories",
-      "title": "langfuse/langfuse",
-      "url": "https://github.com/langfuse/langfuse",
-      "published_at": "2026-06-25T09:37:55+00:00",
-      "summary": "🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+      "source": "GitHub RAG Repositories",
+      "title": "neomjs/neo",
+      "url": "https://github.com/neomjs/neo",
+      "published_at": "2026-06-25T09:37:31+00:00",
+      "summary": "Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.",
       "tags": [
-        "analytics",
-        "autogen",
-        "evals",
-        "evaluation",
+        "agent-memory",
+        "ai",
+        "ai-agent",
+        "ai-memory",
+        "context-engineering",
+        "frontend",
+        "frontend-runtime",
         "github",
-        "langchain",
-        "large-language-models",
-        "llama-index",
+        "graph-rag",
+        "javascript",
+        "json",
+        "knowledge-graph",
         "llm",
-        "llm-evaluation",
-        "llm-observability",
-        "llmops",
-        "monitoring",
-        "observability",
-        "open-source",
-        "openai",
-        "playground",
-        "prompt-engineering",
-        "prompt-management",
-        "self-hosted",
-        "ycombinator"
+        "long-term-memory",
+        "mcp",
+        "mcp-server",
+        "multi-agent-systems",
+        "rag",
+        "scene-graph",
+        "semantic-search",
+        "web-workers"
       ],
       "relevance_score": 11,
-      "repo": "langfuse/langfuse",
-      "stars": 29748,
-      "language": "TypeScript"
+      "repo": "neomjs/neo",
+      "stars": 3213,
+      "language": "JavaScript"
     }
   ],
   "knowledge_trends": [
@@ -806,7 +837,7 @@
         "tool use",
         "function calling"
       ],
-      "evidence_count": 30,
+      "evidence_count": 32,
       "evidence": [
         {
           "title": "Forward Deployed Engineer Agentic Platform",
@@ -835,7 +866,7 @@
         "developer tool",
         "ide"
       ],
-      "evidence_count": 19,
+      "evidence_count": 22,
       "evidence": [
         {
           "title": "Forward Deployed Engineer Agentic Platform",
@@ -856,35 +887,6 @@
       "status": "daily_evidence"
     },
     {
-      "name": "LLM evaluation and observability",
-      "summary": "Testing, scoring, tracing, and monitoring production LLM behavior.",
-      "keywords": [
-        "evaluation",
-        "eval",
-        "observability",
-        "benchmark"
-      ],
-      "evidence_count": 17,
-      "evidence": [
-        {
-          "title": "Engineering Manager AI Fleet Management & Honk",
-          "section": "jobs",
-          "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ai-fleet-management-amp-honk-spotify-1131520"
-        },
-        {
-          "title": "Senior Independent AI Engineer / Architect",
-          "section": "jobs",
-          "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266"
-        },
-        {
-          "title": "Frontend Developer",
-          "section": "jobs",
-          "url": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991"
-        }
-      ],
-      "status": "daily_evidence"
-    },
-    {
       "name": "Retrieval-Augmented Generation",
       "summary": "Knowledge-grounded LLM systems built on retrieval, vector search, and citations.",
       "keywords": [
@@ -893,7 +895,7 @@
         "vector",
         "embedding"
       ],
-      "evidence_count": 16,
+      "evidence_count": 14,
       "evidence": [
         {
           "title": "Forward Deployed Engineer Agentic Platform",
@@ -941,6 +943,35 @@
         }
       ],
       "status": "daily_evidence"
+    },
+    {
+      "name": "LLM evaluation and observability",
+      "summary": "Testing, scoring, tracing, and monitoring production LLM behavior.",
+      "keywords": [
+        "evaluation",
+        "eval",
+        "observability",
+        "benchmark"
+      ],
+      "evidence_count": 11,
+      "evidence": [
+        {
+          "title": "Engineering Manager AI Fleet Management & Honk",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ai-fleet-management-amp-honk-spotify-1131520"
+        },
+        {
+          "title": "Senior Independent AI Engineer / Architect",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266"
+        },
+        {
+          "title": "Frontend Developer",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991"
+        }
+      ],
+      "status": "daily_evidence"
     }
   ],
   "cross_signals": [
@@ -952,6 +983,15 @@
         "news"
       ],
       "insight": "智能体同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
+    },
+    {
+      "tag": "ai_coding",
+      "sections": [
+        "github_repos",
+        "jobs",
+        "news"
+      ],
+      "insight": "AI 编程同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
     },
     {
       "tag": "ai_infra",
@@ -979,14 +1019,6 @@
         "news"
       ],
       "insight": "LLMOps同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
-    },
-    {
-      "tag": "ai_coding",
-      "sections": [
-        "jobs",
-        "news"
-      ],
-      "insight": "AI 编程同时出现在岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
     }
   ],
   "errors": [],
