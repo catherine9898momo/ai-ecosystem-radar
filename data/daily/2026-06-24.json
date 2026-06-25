@@ -1,0 +1,1033 @@
+{
+  "date": "2026-06-24",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-06-24T13:05:38.590628+00:00",
+  "coverage": {
+    "jobs": {
+      "count": 10,
+      "minimum": 5,
+      "status": "ok"
+    },
+    "news": {
+      "count": 10,
+      "minimum": 5,
+      "status": "ok"
+    },
+    "github_repos": {
+      "count": 10,
+      "minimum": 5,
+      "status": "ok"
+    },
+    "knowledge_trends": {
+      "count": 5,
+      "minimum": 5,
+      "status": "ok"
+    }
+  },
+  "summary": [
+    "agents 在 20 条记录中出现，中文主题可理解为：智能体。",
+    "rag 在 11 条记录中出现，中文主题可理解为：RAG。",
+    "ai_coding 在 10 条记录中出现，中文主题可理解为：AI 编程。",
+    "llm 在 10 条记录中出现，中文主题可理解为：大模型。",
+    "ai 在 7 条记录中出现，中文主题可理解为：ai。"
+  ],
+  "jobs": [
+    {
+      "id": "2d6fa9e68f453dfd",
+      "section": "jobs",
+      "source": "RemoteOK AI Jobs",
+      "title": "Forward Deployed Engineer Agentic Platform",
+      "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611",
+      "published_at": "2026-05-16T08:00:05+00:00",
+      "summary": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers. Cohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of th",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "jobs",
+        "rag",
+        "remote",
+        "slm"
+      ],
+      "relevance_score": 16,
+      "company": "Cohere",
+      "location": "",
+      "jd": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers. Cohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of the best in the world at what they do. We believe that a diverse range of perspectives is a requirement for building great products. Join us on our mission and shape the future! About North: North is Cohere's cutting-edge AI workspace platform, designed to revolutionize the way enterprises utilize AI. It offers a secure and customizable environment, allowing companies to deploy AI while maintaining control over sensitive data. North integrates seamlessly with existing workflows, providing a trusted platform that connects AI agents with workplace tools and applications. Why This Role? This role offers a unique opportunity to shape how enterprises harness the power of AI in real-world applications. As a bridge between our core North product and our clients’ engineering teams, you’ll be at the forefront of solving complex problems and securely integrating AI into critical sectors such as finance, healthcare, and telecommunications. We are seeking engineers with diverse skill sets, including backend, infrastructure, agent development, and deployments, who deeply care about customers and want to work at the cutting edge of Agentic AI. Note: between 20 - 40% travel anticipated In this role, you will: Build and ship features for North, our AI workspace platform Develop autonomous agents that talk to sensitive enterprise data Experiment at a high velocity and with a high level of quality to engage our customers and ultimately deliver solutions that exceed their expectations Work across the entire product lifecycle from conceptualization through production You may be a good fit if: You have experience with and enjoy working directly with customers You are fluent in both English and Arabic You have shipped (lots of) Python in production You have built and deployed highly performant client-side or server-side RAG/agentic applications You have strong coding abilities and are comfortable working across the stack. You’re able to read and understand, and even fix issues outside of the main code base You excel in fast-paced environments and can execute while priorities and objectives are a moving target We are open to candidates currently based in the Middle East or who are open to travelling or relocating. If some of the above doesn’t line up perfectly with your experience, we still encourage you to apply! We value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form , and we will work together to meet your needs. Full-Time Employees at Cohere enjoy these Perks: 🤝 An open and inclusive culture and work environment 🧑‍💻 Work closely with a team on the cutting edge of AI research 🍽 Weekly lunch stipend, in-office lunches & snacks 🦷 Full health and dental benefits, including a separate budget to take care of your mental health 🐣 100% Parental Leave top-up for up to 6 months 🎨 Personal enrichment benefits towards arts and culture, fitness and well-being, quality time, and workspace improvement 🏙 Remote-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co-working stipend ✈️ 6 weeks of vacation (30 working days!) Please mention the word **LIKABLE** and tag RMTQwLjgyLjQuMjMz when applying to show you read the job post completely (#RMTQwLjgyLjQuMjMz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd_excerpt": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to...",
+      "jd_language": "en",
+      "skills": [
+        "Python",
+        "RAG",
+        "Agents"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 Python、RAG、Agents；岗位范围为 Global Remote；发布方为 Cohere。"
+    },
+    {
+      "id": "94c90e6838c7f046",
+      "section": "jobs",
+      "source": "RemoteOK AI Jobs",
+      "title": "Engineering Manager AI Fleet Management & Honk",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ai-fleet-management-amp-honk-spotify-1131520",
+      "published_at": "2026-05-08T16:01:13+00:00",
+      "summary": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers. What if the systems you built changed how millions of developers work â not just at Spotify, but across the industry? The Platform Developer Experience (PDX) team builds the infrastructure and internal products that power how Spotify engineers ship software. Within PDX, the Wingspan team is building the next generation of fleet management and reimagining how we",
+      "tags": [
+        "agents",
+        "evals",
+        "jobs",
+        "multimodal",
+        "rag",
+        "remote"
+      ],
+      "relevance_score": 15,
+      "company": "Spotify",
+      "location": "",
+      "jd": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers. What if the systems you built changed how millions of developers work â not just at Spotify, but across the industry? The Platform Developer Experience (PDX) team builds the infrastructure and internal products that power how Spotify engineers ship software. Within PDX, the Wingspan team is building the next generation of fleet management and reimagining how we interact with AI agents â and bringing those capabilities to market through Portal, Spotifyâs external developer platform built on Backstage. We are redesigning platform engineering around intelligent agents, large language models, and decision-aware automation. In this role, youâll lead a team shaping how AI becomes a core operating layer of modern platform infrastructure, directly improving how developers ship and maintain software at scale. \\n What You'll Do â¢ Lead and grow a team building AI-native backend systems that orchestrate large-scale, autonomous fleet changes â¢ Define the technical vision for integrating LLM-powered reasoning and agent-based execution into production infrastructure â¢ Architect systems where AI agents analyze service metadata, generate safe change plans, execute updates, and validate outcomes â¢ Establish safety boundaries, evaluation frameworks, and observability models for AI-driven automation at scale â¢ Drive responsible AI adoption by embedding governance, auditability, and human-in-the-loop safeguards into system design â¢ Balance rapid experimentation with platform reliability, ensuring intelligent automation meets production-grade standards â¢ Partner with product and go-to-market teams to position Portal and AI fleet management as a leading developer platform â¢ Build a team culture grounded in curiosity, technical rigor, and continuous learning in emerging AI systems Who You Are â¢ You have 3+ years of experience leading engineering teams working on distributed systems or developer platforms at scale â¢ You have 5+ years of experience in backend engineering with strong expertise in Java, Python, and/or Node.js â¢ You have experience integrating AI/ML systems, LLMs, agent frameworks, or AI-assisted tooling into real-world systems â¢ You understand how autonomous systems make decisions and how to design guardrails that ensure safety, reliability, and traceability â¢ You think in systems, considering data flows, model behavior, orchestration layers, and operational impact â¢ You are comfortable leading in emerging technical domains where patterns are still forming â¢ You create inclusive environments where diverse perspectives strengthen technical and product decisions â¢ You communicate clearly across engineers, product leaders, and executives about both the opportunities and risks of AI-driven systems Where You'll Be â¢ We offer you the flexibility to work where you work best! For this role, you can be within the EMEA region as long as we have a work location (excluding France due to on-call restrictions). â¢This team operates within the Central European and GMT time zone for collaboration \\n Please mention the word **SAINT** and tag RMTQwLjgyLjQuMjMz when applying to show you read the job post completely (#RMTQwLjgyLjQuMjMz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd_excerpt": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers. What if the systems you built changed how millions of developers work â not just...",
+      "jd_language": "en",
+      "skills": [
+        "Python",
+        "RAG",
+        "Agents",
+        "评测",
+        "可观测性"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 Python、RAG、Agents、评测、可观测性；岗位范围为 Global Remote；发布方为 Spotify。"
+    },
+    {
+      "id": "b1fe462b6d0b61a4",
+      "section": "jobs",
+      "source": "Remotive AI Jobs",
+      "title": "Senior Independent AI Engineer / Architect",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+      "published_at": "2026-06-16T10:16:11+00:00",
+      "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams solving real problems. Not demos. Not proof-of-concepts that never ship. Not another thin wrapper around an API. Recent work has included: AI-native products built from 0→1 Agent architectures ",
+      "tags": [
+        "agents",
+        "evals",
+        "jobs",
+        "rag",
+        "remote"
+      ],
+      "relevance_score": 14,
+      "company": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "jd": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams solving real problems. Not demos. Not proof-of-concepts that never ship. Not another thin wrapper around an API. Recent work has included: AI-native products built from 0→1 Agent architectures and orchestration systems Enterprise AI deployments Retrieval, evaluation, and reliability infrastructure LLM-powered workflows and products Machine learning platforms operating at scale You'll work directly with founders, CTOs, and product leaders, helping shape both technical direction and execution. Why Builders Join The best opportunities rarely make it to the open market. A.Team exists to solve that. No bidding. No prospecting. No race to the bottom. Just ambitious companies, difficult problems, and experienced peers. Who Thrives Here People who have already shipped. Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn technical complexity into business value. What matters is a track record of building and shipping. The Details Typical rates: $120-$170/hr Remote You keep 100% of your rate Not a Fit Early-career engineers People without production AI experience Small gig seekers Developers focused primarily on simple AI wrappers or templated implementations Apply Tell us what you've built. 👉 build.a.team/apply-ai . We'll take it from there.",
+      "jd_excerpt": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including...",
+      "jd_language": "en",
+      "skills": [
+        "RAG",
+        "Agents",
+        "评测"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 RAG、Agents、评测；岗位范围为 Global Remote；发布方为 A.Team。"
+    },
+    {
+      "id": "cfe014324f8ea01c",
+      "section": "jobs",
+      "source": "Remotive AI Jobs",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "published_at": "2026-06-14T20:45:50+00:00",
+      "summary": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of d",
+      "tags": [
+        "ai_infra",
+        "jobs",
+        "llmops",
+        "remote",
+        "slm"
+      ],
+      "relevance_score": 13,
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "jd": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect! About the Role As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, high-impact team to deliver user experiences across Dividend.com, MutualFunds.com and other brands within our portfolio. This role combines expert Ruby on Rails skills with AI integration expertise, requiring you to leverage LLMs in your development workflow, state management and user interactions. You’ll work in a remote-first hybrid environment, which encourages in person collaboration, using ShapeUp to manage projects that trade-off on-time delivery for de-scoped outcomes. As a technical leader, you'll have a seat at the table shaping system architecture, implementing core features all while embracing an entrepreneurial mindset and a “get things done” mentality. Responsibilities Architect and maintain Rails applications (Rails 8) Integrate LLMs into our microservices architecture for state management and real-time user experiences. Enhance front-end experiences with Hotwire, StimulusJS, or React, ensuring seamless AI-driven interactions. Optimize LLM inference for low latency and cost, using caching and asynchronous processing. Required Technical Skills Back-End Ruby (5+ years, expert-level) Ruby on Rails (Rails 6-8 preferred) PostgreSQL (or MySQL) Elasticsearch Redis Docker Front-End StimulusJS or JavaScript ES6 Tailwind CSS HTML HTTP AI Integration Experience integrating AI/ML models (e.g., LLMs, NLP) with web applications Familiarity with LLM frameworks (e.g., LangChain, Hugging Face) or APIs (e.g., xAI, Anthropic) Nice-to-Have Technical Skills Kubernetes for microservices orchestration React for advanced front-end components Graph databases for complex financial data Contributions to open-source RoR or AI projects Required Soft Skills Entrepreneurial mindset with a passion for AI and FinTech Natural leader who mentors and inspires teammates Problem-solver with a “get things done” mentality Excellent communication, thriving in remote and cross-team collaboration Attention to detail, ensuring clean, maintainable code Team player comfortable as an individual contributor Why Join Us? Impactful Work : Build AI-powered tools that help millions of investors make informed decisions from data-driven insights. Cutting-Edge Tech : Work with Rails 8, LLMs, and modern tools like Hotwire, Databricks, and xAI’s API in a microservices architecture. Autonomy and Influence : Collaborate directly with our CEO and CTO to shape our AI-driven platform, with freedom to innovate. Competitive Compensation : $160,000–$200,000 CAD/USD (based on experience) and benefits. Remote Flexibility : Remote-first (±3 hours from ET) with hybrid in office collaboration in Toronto or NYC Growth Opportunities : Budget for AI and Rails conferences (e.g., NeurIPS, RailsConf), plus access to cutting-edge AI tools for experimentation. Dynamic Culture : Join a small, no-ego team passionate about trust, innovation, and making a difference in FinTech. About Mitre Media’s AI-Driven Platform Mitre Media powers premium financial brands like Dividend.com and MutualFunds.com with the Mitre Platform. This platform integrates traditional content management, financial data, first-party data, ad revenue, and subscription tools, all enhanced by LLMs for rich, user-focused experiences. Our data-derived insights delight users, while our advertising solutions deliver unmatched performance for partners like BlackRock and Vanguard, leveraging advanced targeting and first-party data. How to Apply Submit your resume, GitHub profile, and a brief note on why you’re excited about building AI-driven FinTech to jobs@mitremedia.com.",
+      "jd_excerpt": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and...",
+      "jd_language": "en",
+      "skills": [
+        "JavaScript",
+        "LangChain",
+        "Docker",
+        "Kubernetes",
+        "SQL"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 JavaScript、LangChain、Docker、Kubernetes、SQL；岗位范围为 Global Remote；发布方为 Mitre Media。"
+    },
+    {
+      "id": "1df0f62922c26687",
+      "section": "jobs",
+      "source": "Remotive AI Jobs",
+      "title": "Mid/Senior AI Cinematic Video Editor",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887",
+      "published_at": "2026-06-19T19:46:09+00:00",
+      "summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and counting , we're not just building products — we're creating entirely new categories. Our flagship product is the world’s largest AI companionship platform , redefining relationships for millions. It is governed by our proprietary moderation system, EverGuard — an internal AI designed to ensure everything we build is safe, ethical, and human-first . And we’re only just getting started! Our Team We are ",
+      "tags": [
+        "fine_tuning",
+        "jobs",
+        "multimodal",
+        "remote"
+      ],
+      "relevance_score": 10,
+      "company": "EverAI",
+      "location": "Worldwide",
+      "jd": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and counting , we're not just building products — we're creating entirely new categories. Our flagship product is the world’s largest AI companionship platform , redefining relationships for millions. It is governed by our proprietary moderation system, EverGuard — an internal AI designed to ensure everything we build is safe, ethical, and human-first . And we’re only just getting started! Our Team We are an enthusiastic, passionate and hardworking team of ≈ 75 people. Our founding team has strong entrepreneurial experience building and scaling web products from 0 to IPO. Alexis Soulopoulos [CEO] • 10+ years in Tech Executive Leadership • Co-Founder Mad Paws Holdings (from 0 to IPO) • Forbes 30 under 30 + Deloitte TechFast50 ’22 & ‘23 Michael Monin [Co-founder & CTO] • 10+ years as CTO / COO (web2/web3), 1+ year in AI/LLM • Serial-entrepreneur: MTK Digital (exited / 0->$20m revenue) and Zipchat (AI Chatbot for E-commerce brands) Thomas Lacroix [Co-founder & CMO] • 8+ years in Customer Acquisition & E-commerce Growth • Serial-entrepreneur: Curatible (sold to Blackstone) and MTK Digital (exited / 0->$20m revenue) Maruša Fasano [CFO/Legal] • 25+ years in Finance, Strategy, M&A • Ex-CFO/M&A @Curatible (exited to Blackstone) • Ex-President of the Board @SotremoSA (exited) • Co-founder/CFO @SoftOne (exited) Your Role We are looking for a Mid/Senior AI Cinematic Video Editor who is deeply embedded in generative video workflows and can independently craft high-quality, narrative-driven content from concept to final output. You are a sharp-eyed video editor comfortable operating at the intersection of creativity and emerging technology, building visually compelling long-form videos using AI-first pipelines. You take ownership of the entire production stack — from prompting and generation to editing, compositing, graphic design work and final delivery. You thrive in a high-performance environment where your quick wits and passion for story-telling shine. Reporting to your Content Lead, this is what you'll be doing: Key Responsibilities Conceptualise scripts based on current production needs and centred around existing AI characters (our own IPs) Create narrative-driven, longform video content , including stylized and explicit NSFW visuals, with a strong focus on storytelling, atmosphere, and visual coherence throughout Own and manage end-to-end AI video production workflows , from ideation and prompting to generation, editing, and post-production Utilise tools such as Kling, Seedance, Happy Horse and other AI video models/platforms to produce high-quality visual sequences Develop and maintain consistent character appearance, style, and scene continuity across longer narratives using advanced techniques Integrate motion graphic design and colour correction to deliver cohesive final outputs Experiment rapidly with new AI models, tools, and techniques , incorporating them into production workflows and sharing skills with the rest of the team Align with your Content Lead’s creative direction while maintaining a high degree of autonomy in execution and technical decision-making Continuously refine workflows for efficiency, scalability, and output quality Your Qualifications Hard Skills 4–6+ years of experience in video production, VFX, or digital art , with a strong portfolio (AI-driven video work is a must) Hands-on experience with the latest AI video tools and models (e.g., Kling, Seedance, Happy Horse, and similar emerging options) Solid understanding of AI image/video generation pipelines , including prompting, batching, consistency techniques, and post-processing Experience with traditional tools like Premiere Pro, After Effects or similar for final assembly and polish Strong grasp of visual storytelling, pacing, composition, and cinematic language Ability to maintain character and scene consistency across sequences in AI-generated content Soft Skills 🗣 Strong communication & collaboration skills (fluent in English) 🎯 High ownership — able to take ideas from concept to completion independently ⚡️ Experimental mindset — comfortable navigating ambiguity and evolving tools ⏱️ Fast iteration cycles — able to test, fail, refine, and improve quickly 🧠 Curious and self-driven — constantly exploring new AI capabilities and workflows 🧢 Open to feedback and continuous improvement 🍭 #NSFW — Comfortable working with uncensored models and explicit adult content Bonus Points Experience in AI-native storytelling or filmmaking Background in 3D, VFX, technical art or as a colourist Familiarity with training/customizing models (LoRAs, embeddings, fine-tuning) Prior experience in adult, dating, or adjacent creative industries a huge bonus Experience",
+      "jd_excerpt": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and counting , we're not just building products — we're creating entirely new categories. Our flagship product is the world’s...",
+      "jd_language": "en",
+      "skills": [
+        "微调",
+        "Prompt Engineering"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 微调、Prompt Engineering；岗位范围为 Global Remote；发布方为 EverAI。"
+    },
+    {
+      "id": "a3cc1f8e2e3ad00b",
+      "section": "jobs",
+      "source": "Remotive AI Jobs",
+      "title": "Frontend Developer",
+      "url": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991",
+      "published_at": "2026-06-16T06:59:30+00:00",
+      "summary": "(All applications will be considered ONLY through Wellfound. Please do not contact any employee of the company as no such contact/connection will be considered as an application for the job.) This posting is for a Frontend Developer, you would work alongside our team. We are a fully remote team so it does not matter which country or time zone you are in, as long as you are available from 10 AM to 1 PM (EST). We are NOT looking for part-time work, contractors, software development companies or consultants, so please only apply if you're looking for a full-time position. Quinncia is a career readiness platform that improves college student outcomes by improving students' resumes and interview ",
+      "tags": [
+        "evals",
+        "jobs",
+        "multimodal",
+        "remote"
+      ],
+      "relevance_score": 10,
+      "company": "Quinncia Inc",
+      "location": "Worldwide",
+      "jd": "(All applications will be considered ONLY through Wellfound. Please do not contact any employee of the company as no such contact/connection will be considered as an application for the job.) This posting is for a Frontend Developer, you would work alongside our team. We are a fully remote team so it does not matter which country or time zone you are in, as long as you are available from 10 AM to 1 PM (EST). We are NOT looking for part-time work, contractors, software development companies or consultants, so please only apply if you're looking for a full-time position. Quinncia is a career readiness platform that improves college student outcomes by improving students' resumes and interview skills using our AI. Quinncia allows career service to scale their offerings allowing each student to get personalized feedback on their resume and interviewing skills. With over 60% unemployment or underemployment rate recently graduated students, our goal is to integrate career readiness into the academic curriculum and make sure every student has a job within 90 days of graduation. Projects you'll be working on: We're focused on enhancing our UI and UX, as well as streamlining operations and improving our technical foundation. As a core member of the Front-End team, you will influence how we build individual features, take ownership of end to end product quality that will help make our app/website reliable We want you to focus on high-quality code and know that quality is more than just unit tests and code coverage. You would look for opportunities to automate, always package up reusable code, be constantly learning, ready to pick up new technologies, patterns, and paradigms. COOL TECH Chatbots Computer vision Data visualization Machine learning Natural language processing Video processing/conferencing Being a Frontend engineer you will need strong logical skills but also understand design patterns and ability to predict edge cases for handling different issues. You will be working with our lead designer but a good understanding of UI and UX would be needed. Requirements Front-end developer position (required tech): Profound knowledge of Javascript TypeScript Next.js Practical and recent experience with React.js Experience communicating with RESTful services Experience with testing (e.g. Jest) Experience with bundling of Javascript code (e.g. Webpack) Have deep knowledge in CSS, preprocessors (e.g. Sass) GraphQL Bonus skills: Docker Ramda Whatever else you decide - we're constantly re-evaluating our stack and tools Having prior experience with the technologies is a plus, but not mandatory for skilled candidates. PS: Please add your Github account link to your application, as it will make the evaluation process easier and more robust.",
+      "jd_excerpt": "(All applications will be considered ONLY through Wellfound. Please do not contact any employee of the company as no such contact/connection will be considered as an application for the job.) This posting is for a Frontend Developer, you would work alongside our team. We are a fully remote team so it does not matter which country or time zone you are in, as long as you are available from 10 AM to 1 PM (EST). We...",
+      "jd_language": "en",
+      "skills": [
+        "TypeScript",
+        "JavaScript",
+        "评测",
+        "Docker"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 TypeScript、JavaScript、评测、Docker；岗位范围为 Global Remote；发布方为 Quinncia Inc。"
+    },
+    {
+      "id": "eefba64b634639ec",
+      "section": "jobs",
+      "source": "RemoteOK AI Jobs",
+      "title": "Chief Technology Officer",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-technology-officer-access-softek-1131633",
+      "published_at": "2026-05-21T00:00:04+00:00",
+      "summary": "Access Softek is a leading provider of digital banking platforms for financial institutions across the U.S. We are seeking a Chief Technology Officer to define and lead the companyâs technology vision, architecture strategy, and long-term platform evolution. This is an executive role responsible for ensuring technology is a core driver of business growth, product scalability, and operational resilience. As CTO, you will partner with the CEO and executive leadership team to shape company strategy through technology, make high-impact architectural decisions, and ensure the organization is built to scale sustainably. \\n What You'll own Own the companyâs technology vision, architecture strat",
+      "tags": [
+        "evals",
+        "jobs",
+        "multimodal",
+        "remote"
+      ],
+      "relevance_score": 9,
+      "company": "Access Softek",
+      "location": "Remote USA",
+      "jd": "Access Softek is a leading provider of digital banking platforms for financial institutions across the U.S. We are seeking a Chief Technology Officer to define and lead the companyâs technology vision, architecture strategy, and long-term platform evolution. This is an executive role responsible for ensuring technology is a core driver of business growth, product scalability, and operational resilience. As CTO, you will partner with the CEO and executive leadership team to shape company strategy through technology, make high-impact architectural decisions, and ensure the organization is built to scale sustainably. \\n What You'll own Own the companyâs technology vision, architecture strategy, and long-term platform direction Define how the platform evolves, scales, and remains competitive over time Translate business strategy into technology strategy, system architecture, and key technical trade-offs Make executive-level decisions on platform design, modernization, and major technology investments Own end-to-end system architecture across products and services, ensuring coherence, scalability, and maintainability Drive long-term platform evolution, including legacy system strategy and architectural consolidation Design and evolve the engineering organization at the executive level, including leadership structure and scaling model Own technology risk, including system resilience, security architecture, and compliance (SOC2 and related standards) Ensure security and compliance are embedded into system design and engineering practices Partner with Product and Business leadership to align roadmap priorities with technical feasibility and long-term strategy Align engineering investment and capacity with business goals and growth priorities Oversee system reliability, scalability, and observability strategy at the platform level Evaluate and drive adoption of emerging technologies (including AI/automation) for strategic advantage Lead the companyâs adoption of AI technologies and guide its transition toward AI-driven products and operations Provide executive-level visibility into platform health, risks, and architectural direction Requirements 10+ years of experience in software engineering and technology leadership Proven experience as a CTO or equivalent executive technology leader in a scaling SaaS or platform company Strong track record of owning architecture and platform evolution in large-scale, production systems Experience leading and scaling distributed engineering organizations through growth and transformation Deep understanding of cloud-native architectures, distributed systems, and platform engineering principles Experience operating in regulated or security-critical environments (e.g., fintech, enterprise SaaS) Strong executive communication skills with ability to influence CEO and senior leadership decisions Demonstrated ability to operate at system, architecture, and business-strategy level Strong judgment in balancing speed, scalability, risk, and long-term technical investment Our Benefits Compensation commensurate with experience 401(k) retirement savings plan Life insurance, short-term and long-term disabilities insurance Medical and dental insurance Paid vacation and sick leave Paid home internet \\n About the Company: Access Softek started developing software 30 years ago in Berkeley, California. Now, we have offices all over the United States and around the world, and are growing by the day! Our software is in use by over 350+ financial institutions, helping them to reach millions of customers and shape communities across the country. In addition, we have a technical development and consulting division that works for companies like Google, Sony and Nintendo. Please mention the word **DUMBFOUNDED** and tag RMTQwLjgyLjQuMjMz when applying to show you read the job post completely (#RMTQwLjgyLjQuMjMz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd_excerpt": "Access Softek is a leading provider of digital banking platforms for financial institutions across the U.S. We are seeking a Chief Technology Officer to define and lead the companyâs technology vision, architecture strategy, and long-term platform evolution. This is an executive role responsible for ensuring technology is a core driver of business growth, product scalability, and operational resilience. As CTO,...",
+      "jd_language": "en",
+      "skills": [
+        "评测",
+        "可观测性"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 评测、可观测性；岗位范围为 Global Remote；发布方为 Access Softek。"
+    },
+    {
+      "id": "51d9663648388d0e",
+      "section": "jobs",
+      "source": "RemoteOK AI Jobs",
+      "title": "Senior Software Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567",
+      "published_at": "2026-05-13T00:00:19+00:00",
+      "summary": "About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades — because the controls programming is hard-coded. Thousands of lines of rules and heuristics that define how the machines interact with each other. The result of all this hard-coding is that facilities are frozen in time, unable to adapt to their environment while their performance slowly degrades. Phaidra creates AI-powered control systems for the industrial sector, enabling industrial facilities to automatically learn and improve over time. Specifically: We use reinforc",
+      "tags": [
+        "ai_coding",
+        "jobs",
+        "remote"
+      ],
+      "relevance_score": 8,
+      "company": "Phaidra",
+      "location": "Remote - United States",
+      "jd": "About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades — because the controls programming is hard-coded. Thousands of lines of rules and heuristics that define how the machines interact with each other. The result of all this hard-coding is that facilities are frozen in time, unable to adapt to their environment while their performance slowly degrades. Phaidra creates AI-powered control systems for the industrial sector, enabling industrial facilities to automatically learn and improve over time. Specifically: We use reinforcement learning algorithms to provide this intelligence, converting raw sensor data into high-value actions and decisions. We focus on industrial applications, which tend to be well-sensorized with measurable KPIs — perfect for reinforcement learning. We enable domain experts (our users) to configure the AI control systems (i.e. agents) without writing code. They define what they want their AI agents to do, and we do it for them. Our team has a track record of applying AI to some of the toughest problems. From achieving superhuman performance with DeepMind's AlphaGo, to reducing the energy required to cool Google's Data Centers by 40%, we deeply understand AI and how to apply it in production for massive impact. Phaidra’s ability to achieve its mission is determined by our ability to work together — as defined by our core values: Transparency, Collaboration, Operational Excellence, Ownership, and Empathy. We seek individuals who embody these values, as they are instrumental i Please mention the word **ASTOUNDED** and tag RMTQwLjgyLjQuMjMz when applying to show you read the job post completely (#RMTQwLjgyLjQuMjMz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd_excerpt": "About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades — because the controls programming is hard-coded. Thousands of lines of rules and heuristics that define how the machines interact with each other. The result of all this hard-coding is that...",
+      "jd_language": "en",
+      "skills": [
+        "Agents"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 Agents；岗位范围为 Global Remote；发布方为 Phaidra。"
+    },
+    {
+      "id": "7357445bf0dc4a73",
+      "section": "jobs",
+      "source": "RemoteOK AI Jobs",
+      "title": "Senior Platform Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-platform-engineer-saas-group-1131468",
+      "published_at": "2026-05-05T16:00:11+00:00",
+      "summary": "This role is part of our ScraperAPI team, one of our growing brands at saas.group. ScraperAPI is an enterprise-scale web scraping solution, trusted by businesses across a wide range of industries to extract crucial data at scale. From e-commerce, travel to real estate and market research, we support companies in turning the web into actionable insights. We're currently on an exciting growth journey, scaling rapidly as demand for reliable, high-performance web scraping and data keeps rising. Profile Overview We are seeking a talented Senior Platform Engineer to join our focused engineering team. We're building a product that handles billions of requests per month for businesses that depend on",
+      "tags": [
+        "jobs",
+        "llmops",
+        "remote"
+      ],
+      "relevance_score": 8,
+      "company": "saas.group",
+      "location": "Remote, Europe",
+      "jd": "This role is part of our ScraperAPI team, one of our growing brands at saas.group. ScraperAPI is an enterprise-scale web scraping solution, trusted by businesses across a wide range of industries to extract crucial data at scale. From e-commerce, travel to real estate and market research, we support companies in turning the web into actionable insights. We're currently on an exciting growth journey, scaling rapidly as demand for reliable, high-performance web scraping and data keeps rising. Profile Overview We are seeking a talented Senior Platform Engineer to join our focused engineering team. We're building a product that handles billions of requests per month for businesses that depend on it. Web data is increasingly central to how companies make decisions, and our infrastructure is what makes accessing it seamless and reliable at scale. You won't be following someone else's roadmap, you'll be building it. Your immediate impact in the first 3-6 months will be: Explore and assess the infrastructure architecture, collecting risks and opportunities that need to be addressed Build and maintain a platform roadmap based on your findings, prioritising the work that matters most Support the consolidation of two infrastructure stacks into a unified platform, helping shape how the migration happens Help the engineering team increase its maturity around AI usage and standardise development environment tooling and processes Your responsibilities Own the platform roadmap: identify what needs to be fixed, what needs to be built, and drive it forward. This is not a ticket-following role Lead cost management efforts across our infrastructure, including proxy costs which are among our highest expenses. Identify optimisation opportunities and implement them without compromising performance or security Ensure the reliability, scalability and performance of our infrastructure through robust monitoring, alerting and disaster recovery strategie Please mention the word **STURDIER** and tag RMTQwLjgyLjQuMjMz when applying to show you read the job post completely (#RMTQwLjgyLjQuMjMz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd_excerpt": "This role is part of our ScraperAPI team, one of our growing brands at saas.group. ScraperAPI is an enterprise-scale web scraping solution, trusted by businesses across a wide range of industries to extract crucial data at scale. From e-commerce, travel to real estate and market research, we support companies in turning the web into actionable insights. We're currently on an exciting growth journey, scaling...",
+      "jd_language": "en",
+      "skills": [
+        "可观测性"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 可观测性；岗位范围为 Global Remote；发布方为 saas.group。"
+    },
+    {
+      "id": "0d38b3af71c97391",
+      "section": "jobs",
+      "source": "Remotive AI Jobs",
+      "title": "Senior Data Scientist",
+      "url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2090982",
+      "published_at": "2026-06-11T13:24:37+00:00",
+      "summary": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Commun",
+      "tags": [
+        "jobs",
+        "remote"
+      ],
+      "relevance_score": 6,
+      "company": "Lemon.io",
+      "location": "Americas, Europe, Asia, Oceania",
+      "jd": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Requirements: 4+ years of commercial experience as a Data Scientist 3+ years of experience with NumPy/Pandas 3+ years of experience with Python Experience with AWS, GCP, or Azure is required Strong technical skills: as a Senior Data Scientist, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. NOT YOUR TECH STACK? We have multiple projects available for Senior Developers. If you have 4+ years of commercial software development experience and are proficient in any of the following areas: AI Engineering, PHP & Angular, React & Java, Data Science, Blockchain (Web3/Solidity/Solana), React & Python, React & Node, React & Golang, Data Analysis, React & PHP, Symfony, PHP & Vue, Vue & Node.js, DevOps, Android & iOS, Angular & Node.js, Python & Vue, MLOps, Rust, Golang, Shopify & JavaScript, Unreal Engine & C++, Python & LLM, Unity, Vue & Nuxt, Java & Spring, ML Engineering, or Python & Flask — we’d be happy to connect and match you with a suitable project. We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).",
+      "jd_excerpt": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us...",
+      "jd_language": "en",
+      "skills": [
+        "Python",
+        "JavaScript"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 Python、JavaScript；岗位范围为 Global Remote；发布方为 Lemon.io。"
+    }
+  ],
+  "news": [
+    {
+      "id": "f9441c6bab76cc19",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "AI Coding for the GPU: Build a Coding Agent to Help GPU Developers Write Speed-of-Light Code - NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DYjdaNm1CcDRld0ttUl9VRFo2V3g5MXVhdXlnaFN2MUE4VE1tNWVxTWFJZk1EX0FpWmxTTmh3ZjJmYWtSc0s1NFY4NlkzVWhFTkR4a3g4VEN3bWpqajVFbE4zUXFEVF9CTzZISA?oc=5",
+      "published_at": "2026-04-10T09:01:36+00:00",
+      "summary": "AI Coding for the GPU: Build a Coding Agent to Help GPU Developers Write Speed-of-Light Code NVIDIA",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "ai_infra",
+        "news"
+      ],
+      "relevance_score": 10
+    },
+    {
+      "id": "ba8a1e6a862a31b7",
+      "section": "news",
+      "source": "AI Model Releases",
+      "title": "Sakana AI Launches Fugu: Multi-Agent LLM Orchestration via Single API - techgig.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalhoVlRPNnFlSEkyQzdNeDNIckE1NHM2dkNrYzA1bHhUSTVYbmpfZ2MtRGIzRTNVcFZfTk1na3lMX3haVGFfWkdNeWFqYTFYUmNmdEcyVmFPTXYxQ0stQjlPeUh3TGJlSzM0U09XOEtHTklIVU5kSTlzcGN6T0tNNVlPS2VyZ3huOHRDMVRtS0FKQnJ3b3ZQTVpwcU9GS0E4enFmMWtaZFBVZ9IBrwFBVV95cUxOTUlVU1poMkNYajloLTVoQTJQa2dZajVjdEt0eU5YMzJYa3VVTG5Qdi00dEs0OW94YmMxUWsycUhoMlpRN3dYTUVYcGs0SnJlVEVQNG01Z1Y1VW9kYlYzTVg4aXFMbXpudlZvMUlaaHlEWTY4Qi1lbHVkUjZFZnp4eWpNMFRSTXpfeGtwUVZqVnNwT1AxbXF5VTBlRWNxUkwxcG5jWmI5ekFZdWNITTF3?oc=5",
+      "published_at": "2026-06-24T04:47:03+00:00",
+      "summary": "Sakana AI Launches Fugu: Multi-Agent LLM Orchestration via Single API techgig.com",
+      "tags": [
+        "agents",
+        "models",
+        "news"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "id": "742df70df424a648",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark | NVIDIA Technical Blog - NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmRyeDI4RWZPamRkOFZFejNSaHpZM2RRWmZGem5jeWp1YlRJclhuOE9Oa3VKZms3SGN0LXZJVWVldktxU1NyQmFXc3BHQjlGVUpfVEo1S2owc25oX0NWUEFPdFRIaUx1dkF5TjdjRVJVR0x1dXJQbUtEdlg1cnJOTHJGZF9KS2hnQzFuQ3B3MU1BdWdKbWdoUVJWUUdkUURkWFR3czI3blU0aVltelNjNmhIamRvQQ?oc=5",
+      "published_at": "2026-06-12T07:00:00+00:00",
+      "summary": "NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark | NVIDIA Technical Blog NVIDIA Developer",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "evals",
+        "news"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "id": "b413557f0640b2d8",
+      "section": "news",
+      "source": "AI Model Releases",
+      "title": "Claude Opus 4.7 launches with stronger coding and AI vision | ETIH EdTech News - EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNGhIakdneG4zNUhOTUJTd0sxQkZ3RFRGUXg2NGRyNV82blBQc01PeEpHLWhOZDBPdlBoRF95UEhvaVlDb2lpWlZ6UlVYZERHZ0xvVHVmWHdET0lTcHNxYXhYX2N6UnZGSUZzZFhSLWh1eTdRRGxaemppTVpPMWpRMXV3b2gwOTRPWlFtYmVqc0VkenZJNV9jSVRRY21LM0pDeW9UZENnN0tfaDg4RWxjVXE3TTVGTU0?oc=5",
+      "published_at": "2026-04-16T16:55:31+00:00",
+      "summary": "Claude Opus 4.7 launches with stronger coding and AI vision | ETIH EdTech News EdTech Innovation Hub",
+      "tags": [
+        "ai_coding",
+        "models",
+        "multimodal",
+        "news"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "id": "214ad3c90de49feb",
+      "section": "news",
+      "source": "AI Agents News",
+      "title": "Undo adds control-Z factor to AI coding agent root cause analysis - Techzine Global",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVJMbTJtdFBtVzI0V2VmZ09IZGlnX0NhRzllaDBfVlNROGx3Q2xueVFJOThTdmRjVGZhV3FkYms4TXNXdDVacHBoR3RMeHNnb0E0aXQtVmhUTDRBU1JKWTdpTl9oZTVvZHdnbVBEV1lTeGs2TFpGZHlVd3FoS3lwTnVmdHRHMEd6RWl6NUdzQ2RjTGxGTEg0MS1BbUJvUkQ4Wl94eE9vSU5FdGdVLXJXVXZRRmM?oc=5",
+      "published_at": "2026-06-24T13:00:00+00:00",
+      "summary": "Undo adds control-Z factor to AI coding agent root cause analysis Techzine Global",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "369fed37031a00a4",
+      "section": "news",
+      "source": "AI Agents News",
+      "title": "Google DeepMind Admits Large-Scale AI Agent Deployment Is Unsafe Today - Search Engine Journal",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVWdpQ2NFVDMzRHJpMG8tRGU5YXZsUHpob2o4Y0o4TFRtLW1SMzBUb19LUDMtYndNQVJSTGJiV043OTRWd2ZKVFFOaVFVN2lMbUl0Sjl3Mk1YX1pabmFCenJnNkFqNVluWVdxZzdIN2ZHWFFQZzFxRUdXMVNFV1ZJZHJIZWp1a1NOeFRqWWRZMGtta0J6Q3RxM0FjZzA3MzVoY1FYdGczbGhuXzZ5NlN4RFU1ano?oc=5",
+      "published_at": "2026-06-24T10:58:05+00:00",
+      "summary": "Google DeepMind Admits Large-Scale AI Agent Deployment Is Unsafe Today Search Engine Journal",
+      "tags": [
+        "agents",
+        "llmops",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "f3cc9fb4c3b2e2e7",
+      "section": "news",
+      "source": "AI Agents News",
+      "title": "How to Improve Contact Center Agent Efficiency with AI: A 2026 Evaluation Guide - CX Today",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFJoTFR1MHY4b2tldk5rYU1XeHZJMnlEUG1TMFFQckJzMEJmT3cyc0xQQ19LdUNxNlFiVjR6N3hVX2FVcWhLVDhySk9QbVk2RW1pQ0NOM2dKZ2U2MHhGQ3lheDI4V3dpZ1gzUDJKV01lU0RwdVJ6WTc5dHB1RkdzYzhONzY4VGJ6UlAzaGEtS05YWE0tSUU0SW1yZTV5V3htcWFYLXdHbW9JLV8wc2pJamxNcw?oc=5",
+      "published_at": "2026-06-24T09:46:18+00:00",
+      "summary": "How to Improve Contact Center Agent Efficiency with AI: A 2026 Evaluation Guide CX Today",
+      "tags": [
+        "agents",
+        "evals",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "8921f3f09ce53299",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "Gitguardian Agent Skills: Secret Detection and Remediation For AI-Assisted Development - GitGuardian Blog",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1QWJ1WGJEbGhIZm1lREdUb3lnS1hIZXBoRTdhd2JDS0pkRDk5TkM3Qlp3WG1JTG9XSUNYN20ycXdxd28wdW5TTnNvOEVDMnpiczR0RmlCQl9MNzlvdTVQRERPYXV4NUxIejdCLVNvVjBXTzRm?oc=5",
+      "published_at": "2026-06-15T14:02:07+00:00",
+      "summary": "Gitguardian Agent Skills: Secret Detection and Remediation For AI-Assisted Development GitGuardian Blog",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "5cbc7f64bc75e095",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "Angular's Official Agent Skills Helps AI Coding Tools Write Modern Angular - infoq.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tT1VucWdtYzdnZ3hlVkF1ejZpRnhqbVhvLXFaM003Zy1oZDJic3VyRnhCUDB5V2ctTFlYbWNic1pNRnVIZEU2QnlhVU9Pem9ZOHlqTzZrU1FqNzVjQXV6VUVha3pvckU?oc=5",
+      "published_at": "2026-06-12T07:00:00+00:00",
+      "summary": "Angular's Official Agent Skills Helps AI Coding Tools Write Modern Angular infoq.com",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "97adcd70ef9cfcb0",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks - VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQU9vTnF6eFktY0ZJeDdib1M0TzVWY1hMUl9Ka3dMUGlERlo1UGNDYU5xazgxeWRxY0d3UHA1N1h3dzlSZnBFNzQ2ZjRTVDFBV0loZGdjRGNKS2tMNzNYNVZjZmFPOTFuYW9YOGtEUGItWm9NUmpEMTdKaG02eVRHaURJanNRMEtPekxOZFZKeGJfR1BKMUVMV1pUYmNUMDNwUW02VlpSeC12UGhmVlJGTUdqY0pEWmwtbENPeEdKYXUtcEZBZ0w2c3ViWnlydll6TWVncVNNOUk?oc=5",
+      "published_at": "2026-06-11T07:00:00+00:00",
+      "summary": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks VentureBeat",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
+    }
+  ],
+  "github_repos": [
+    {
+      "id": "7fbfbbff86df6cb6",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "published_at": "2026-06-24T13:00:53+00:00",
+      "summary": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+      "tags": [
+        "agent",
+        "agents",
+        "ai",
+        "gemini",
+        "generative-ai",
+        "github",
+        "gpt-4",
+        "information-retrieval",
+        "large-language-models",
+        "llm",
+        "machine-learning",
+        "multimodal",
+        "nlp",
+        "orchestration",
+        "python",
+        "pytorch",
+        "question-answering",
+        "rag",
+        "retrieval-augmented-generation",
+        "semantic-search",
+        "summarization",
+        "transformers"
+      ],
+      "relevance_score": 16,
+      "repo": "deepset-ai/haystack",
+      "stars": 25661,
+      "language": "MDX"
+    },
+    {
+      "id": "ced76e9d6c0f25a6",
+      "section": "github_repos",
+      "source": "GitHub LLM Repositories",
+      "title": "brycewang-stanford/StatsPAI",
+      "url": "https://github.com/brycewang-stanford/StatsPAI",
+      "published_at": "2026-06-24T12:58:56+00:00",
+      "summary": "StatsPAI is the first Agent-native Python library for causal inference and applied econometrics — unified API, broad cross-method coverage, structured result objects, machine-readable schemas, Skills, an MCP server, and R/Stata parity validation.",
+      "tags": [
+        "agent-native",
+        "agents",
+        "ai-agents",
+        "ai_infra",
+        "causal-discovery",
+        "causal-inference",
+        "data-science",
+        "difference-in-differences",
+        "double-machine-learning",
+        "econometrics",
+        "github",
+        "instrumental-variables",
+        "llm",
+        "llmops",
+        "mcp",
+        "panel-data",
+        "policy-evaluation",
+        "python",
+        "regression-discontinuity",
+        "rstats",
+        "stata",
+        "statistics",
+        "synthetic-control",
+        "treatment-effects"
+      ],
+      "relevance_score": 14,
+      "repo": "brycewang-stanford/StatsPAI",
+      "stars": 245,
+      "language": "Python"
+    },
+    {
+      "id": "92332a2dc8210fed",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "comet-ml/opik",
+      "url": "https://github.com/comet-ml/opik",
+      "published_at": "2026-06-24T12:46:32+00:00",
+      "summary": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+      "tags": [
+        "agents",
+        "evals",
+        "evaluation",
+        "github",
+        "hacktoberfest",
+        "hacktoberfest2025",
+        "langchain",
+        "llama-index",
+        "llm",
+        "llm-evaluation",
+        "llm-observability",
+        "llmops",
+        "open-source",
+        "openai",
+        "playground",
+        "prompt-engineering",
+        "rag"
+      ],
+      "relevance_score": 14,
+      "repo": "comet-ml/opik",
+      "stars": 19753,
+      "language": "Python"
+    },
+    {
+      "id": "19981c94b9a8382d",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "helixml/helix",
+      "url": "https://github.com/helixml/helix",
+      "published_at": "2026-06-24T12:02:41+00:00",
+      "summary": "♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini and open models on a full private AI Stack ♾️",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "ai_infra",
+        "api",
+        "genai",
+        "github",
+        "glm",
+        "golang",
+        "helm",
+        "k8s",
+        "kimi",
+        "llm",
+        "llm-agent",
+        "llm-serving",
+        "openai",
+        "openapi",
+        "qwen",
+        "rag",
+        "self-hosted",
+        "swagger",
+        "swarm"
+      ],
+      "relevance_score": 14,
+      "repo": "helixml/helix",
+      "stars": 786,
+      "language": "Go"
+    },
+    {
+      "id": "735296d96b847c08",
+      "section": "github_repos",
+      "source": "GitHub LLM Repositories",
+      "title": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "published_at": "2026-06-24T12:58:22+00:00",
+      "summary": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "tags": [
+        "agent",
+        "agentic",
+        "agents",
+        "ai",
+        "chatbot",
+        "embeddings",
+        "evaluation",
+        "generative-ai",
+        "github",
+        "golang",
+        "knowledge-base",
+        "llm",
+        "multi-tenant",
+        "multimodel",
+        "ollama",
+        "openai",
+        "question-answering",
+        "rag",
+        "reranking",
+        "semantic-search",
+        "vector-search",
+        "wiki"
+      ],
+      "relevance_score": 13,
+      "repo": "Tencent/WeKnora",
+      "stars": 17144,
+      "language": "Go"
+    },
+    {
+      "id": "1dd40fc5ece12f99",
+      "section": "github_repos",
+      "source": "GitHub AI Repositories",
+      "title": "xorbitsai/inference",
+      "url": "https://github.com/xorbitsai/inference",
+      "published_at": "2026-06-24T11:30:59+00:00",
+      "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "tags": [
+        "ai",
+        "ai_infra",
+        "artificial-intelligence",
+        "chatglm",
+        "deployment",
+        "flan-t5",
+        "gemma",
+        "ggml",
+        "github",
+        "glm4",
+        "inference",
+        "llama",
+        "llama3",
+        "llamacpp",
+        "llm",
+        "llmops",
+        "machine-learning",
+        "mistral",
+        "multimodal",
+        "openai-api",
+        "pytorch",
+        "qwen",
+        "vllm",
+        "whisper",
+        "wizardlm"
+      ],
+      "relevance_score": 13,
+      "repo": "xorbitsai/inference",
+      "stars": 9381,
+      "language": "Python"
+    },
+    {
+      "id": "f112fc08ab9c03ad",
+      "section": "github_repos",
+      "source": "GitHub LLM Repositories",
+      "title": "Agent-Field/agentfield",
+      "url": "https://github.com/Agent-Field/agentfield",
+      "published_at": "2026-06-24T13:04:15+00:00",
+      "summary": "Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one.",
+      "tags": [
+        "agent",
+        "agent-auth",
+        "agent-authentication",
+        "agent-indentity",
+        "agent-scaling",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-backend",
+        "aiagent",
+        "anthropic",
+        "cloud-native",
+        "genai",
+        "github",
+        "go",
+        "kubernetes",
+        "llm",
+        "multiagent",
+        "multiagent-systems",
+        "python",
+        "rag",
+        "typescript"
+      ],
+      "relevance_score": 12,
+      "repo": "Agent-Field/agentfield",
+      "stars": 2227,
+      "language": "Go"
+    },
+    {
+      "id": "8f2db0354e045f5e",
+      "section": "github_repos",
+      "source": "GitHub LLM Repositories",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "published_at": "2026-06-24T13:00:42+00:00",
+      "summary": "Production-ready platform for agentic workflow development.",
+      "tags": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "agents",
+        "ai",
+        "automation",
+        "gemini",
+        "genai",
+        "github",
+        "gpt",
+        "gpt-4",
+        "llm",
+        "low-code",
+        "mcp",
+        "nextjs",
+        "no-code",
+        "openai",
+        "orchestration",
+        "python",
+        "rag",
+        "workflow"
+      ],
+      "relevance_score": 12,
+      "repo": "langgenius/dify",
+      "stars": 146424,
+      "language": "TypeScript"
+    },
+    {
+      "id": "eb50f16c44e8732a",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "SudoJacky/tinybot",
+      "url": "https://github.com/SudoJacky/tinybot",
+      "published_at": "2026-06-24T12:04:20+00:00",
+      "summary": "Tinybot is a lightweight personal AI Agent that is constantly evolving",
+      "tags": [
+        "agent",
+        "agents",
+        "ai",
+        "ai-agent",
+        "deepseek",
+        "github",
+        "llm",
+        "memory",
+        "python",
+        "qwen",
+        "rag",
+        "task-scheduler",
+        "webui"
+      ],
+      "relevance_score": 12,
+      "repo": "SudoJacky/tinybot",
+      "stars": 186,
+      "language": "TypeScript"
+    },
+    {
+      "id": "9623c551a8a70a5c",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "published_at": "2026-06-24T13:02:59+00:00",
+      "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "tags": [
+        "ai",
+        "github",
+        "llm",
+        "llm-ui",
+        "llm-webui",
+        "llms",
+        "mcp",
+        "ollama",
+        "ollama-webui",
+        "open-webui",
+        "openai",
+        "openapi",
+        "rag",
+        "self-hosted",
+        "ui",
+        "webui"
+      ],
+      "relevance_score": 11,
+      "repo": "open-webui/open-webui",
+      "stars": 142842,
+      "language": "Python"
+    }
+  ],
+  "knowledge_trends": [
+    {
+      "name": "Agentic workflows",
+      "summary": "Agents that can plan, call tools, and complete multi-step work.",
+      "keywords": [
+        "agent",
+        "agentic",
+        "tool use",
+        "function calling"
+      ],
+      "evidence_count": 27,
+      "evidence": [
+        {
+          "title": "Forward Deployed Engineer Agentic Platform",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611"
+        },
+        {
+          "title": "Engineering Manager AI Fleet Management & Honk",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ai-fleet-management-amp-honk-spotify-1131520"
+        },
+        {
+          "title": "Senior Independent AI Engineer / Architect",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266"
+        }
+      ],
+      "status": "daily_evidence"
+    },
+    {
+      "name": "AI coding workflows",
+      "summary": "AI-assisted software development workflows across IDEs, CLIs, and review tools.",
+      "keywords": [
+        "coding",
+        "code assistant",
+        "developer tool",
+        "ide"
+      ],
+      "evidence_count": 19,
+      "evidence": [
+        {
+          "title": "Forward Deployed Engineer Agentic Platform",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611"
+        },
+        {
+          "title": "Tech Lead Full-Stack Rails Engineer",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746"
+        },
+        {
+          "title": "Mid/Senior AI Cinematic Video Editor",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887"
+        }
+      ],
+      "status": "daily_evidence"
+    },
+    {
+      "name": "Retrieval-Augmented Generation",
+      "summary": "Knowledge-grounded LLM systems built on retrieval, vector search, and citations.",
+      "keywords": [
+        "rag",
+        "retrieval",
+        "vector",
+        "embedding"
+      ],
+      "evidence_count": 16,
+      "evidence": [
+        {
+          "title": "Forward Deployed Engineer Agentic Platform",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611"
+        },
+        {
+          "title": "Engineering Manager AI Fleet Management & Honk",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ai-fleet-management-amp-honk-spotify-1131520"
+        },
+        {
+          "title": "Senior Independent AI Engineer / Architect",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266"
+        }
+      ],
+      "status": "daily_evidence"
+    },
+    {
+      "name": "LLM evaluation and observability",
+      "summary": "Testing, scoring, tracing, and monitoring production LLM behavior.",
+      "keywords": [
+        "evaluation",
+        "eval",
+        "observability",
+        "benchmark"
+      ],
+      "evidence_count": 16,
+      "evidence": [
+        {
+          "title": "Engineering Manager AI Fleet Management & Honk",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ai-fleet-management-amp-honk-spotify-1131520"
+        },
+        {
+          "title": "Senior Independent AI Engineer / Architect",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266"
+        },
+        {
+          "title": "Frontend Developer",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991"
+        }
+      ],
+      "status": "daily_evidence"
+    },
+    {
+      "name": "Multimodal AI",
+      "summary": "Models and applications that combine text, image, audio, and video inputs.",
+      "keywords": [
+        "multimodal",
+        "vision",
+        "audio",
+        "video"
+      ],
+      "evidence_count": 11,
+      "evidence": [
+        {
+          "title": "Engineering Manager AI Fleet Management & Honk",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ai-fleet-management-amp-honk-spotify-1131520"
+        },
+        {
+          "title": "Mid/Senior AI Cinematic Video Editor",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887"
+        },
+        {
+          "title": "Frontend Developer",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991"
+        }
+      ],
+      "status": "daily_evidence"
+    }
+  ],
+  "cross_signals": [
+    {
+      "tag": "agents",
+      "sections": [
+        "github_repos",
+        "jobs",
+        "news"
+      ],
+      "insight": "智能体同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
+    },
+    {
+      "tag": "ai_coding",
+      "sections": [
+        "github_repos",
+        "jobs",
+        "news"
+      ],
+      "insight": "AI 编程同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
+    },
+    {
+      "tag": "ai_infra",
+      "sections": [
+        "github_repos",
+        "jobs",
+        "news"
+      ],
+      "insight": "AI 基础设施同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
+    },
+    {
+      "tag": "evals",
+      "sections": [
+        "github_repos",
+        "jobs",
+        "news"
+      ],
+      "insight": "评测与可观测性同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
+    },
+    {
+      "tag": "llmops",
+      "sections": [
+        "github_repos",
+        "jobs",
+        "news"
+      ],
+      "insight": "LLMOps同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
+    }
+  ],
+  "errors": [],
+  "warnings": []
+}

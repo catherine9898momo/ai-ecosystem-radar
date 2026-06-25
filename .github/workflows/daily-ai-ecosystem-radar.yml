@@ -1,0 +1,50 @@
+name: Daily AI Ecosystem Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run tests
+        run: python3 -m unittest discover -s tests
+
+      - name: Build daily radar
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/build_daily_radar.py
+
+      - name: Upload radar outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-ecosystem-radar
+          path: |
+            data/
+            dist/
+
+      - name: Commit generated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ dist/
+          if git diff --cached --quiet; then
+            echo "No radar changes to commit."
+            exit 0
+          fi
+          git commit -m "Update daily AI ecosystem radar"
+          git push

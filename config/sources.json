@@ -1,0 +1,122 @@
+{
+  "timezone": "Asia/Shanghai",
+  "minimum_items_per_section": 5,
+  "max_items_per_section": 10,
+  "sources": {
+    "jobs": [
+      {
+        "name": "Remotive AI Jobs",
+        "type": "remotive",
+        "url": "https://remotive.com/api/remote-jobs?search=ai",
+        "tags": ["jobs", "remote"]
+      },
+      {
+        "name": "Remotive LLM Jobs",
+        "type": "remotive",
+        "url": "https://remotive.com/api/remote-jobs?search=llm",
+        "tags": ["jobs", "remote", "llm"]
+      },
+      {
+        "name": "RemoteOK AI Jobs",
+        "type": "remoteok",
+        "url": "https://remoteok.com/api?tags=ai",
+        "tags": ["jobs", "remote"]
+      },
+      {
+        "name": "Hacker News AI Hiring",
+        "type": "hn_algolia",
+        "url": "https://hn.algolia.com/api/v1/search_by_date?query=%22AI%20Engineer%22%20hiring&tags=story&hitsPerPage=20",
+        "tags": ["jobs", "hiring"]
+      }
+    ],
+    "news": [
+      {
+        "name": "AI Model Releases",
+        "type": "rss",
+        "url": "https://news.google.com/rss/search?q=AI%20model%20release%20OR%20LLM%20launch&hl=en-US&gl=US&ceid=US:en",
+        "tags": ["news", "models"]
+      },
+      {
+        "name": "AI Agents News",
+        "type": "rss",
+        "url": "https://news.google.com/rss/search?q=AI%20agents%20OR%20agentic%20AI&hl=en-US&gl=US&ceid=US:en",
+        "tags": ["news", "agents"]
+      },
+      {
+        "name": "AI Coding Tools News",
+        "type": "rss",
+        "url": "https://news.google.com/rss/search?q=AI%20coding%20tool%20developer%20agent&hl=en-US&gl=US&ceid=US:en",
+        "tags": ["news", "ai_coding"]
+      },
+      {
+        "name": "AI Regulation News",
+        "type": "rss",
+        "url": "https://news.google.com/rss/search?q=AI%20regulation%20policy%20model&hl=en-US&gl=US&ceid=US:en",
+        "tags": ["news", "policy"]
+      }
+    ],
+    "github_repos": [
+      {
+        "name": "GitHub AI Repositories",
+        "type": "github_search",
+        "url": "https://api.github.com/search/repositories?q=topic:artificial-intelligence+stars:%3E500&sort=updated&order=desc&per_page=20",
+        "tags": ["github", "ai"]
+      },
+      {
+        "name": "GitHub LLM Repositories",
+        "type": "github_search",
+        "url": "https://api.github.com/search/repositories?q=topic:llm+stars:%3E200&sort=updated&order=desc&per_page=20",
+        "tags": ["github", "llm"]
+      },
+      {
+        "name": "GitHub Agent Repositories",
+        "type": "github_search",
+        "url": "https://api.github.com/search/repositories?q=agentic+ai+stars:%3E100&sort=updated&order=desc&per_page=20",
+        "tags": ["github", "agents"]
+      },
+      {
+        "name": "GitHub RAG Repositories",
+        "type": "github_search",
+        "url": "https://api.github.com/search/repositories?q=RAG+LLM+stars:%3E100&sort=updated&order=desc&per_page=20",
+        "tags": ["github", "rag"]
+      }
+    ]
+  },
+  "knowledge_trends": [
+    {
+      "name": "Agentic workflows",
+      "keywords": ["agent", "agentic", "tool use", "function calling"],
+      "summary": "Agents that can plan, call tools, and complete multi-step work."
+    },
+    {
+      "name": "Retrieval-Augmented Generation",
+      "keywords": ["rag", "retrieval", "vector", "embedding"],
+      "summary": "Knowledge-grounded LLM systems built on retrieval, vector search, and citations."
+    },
+    {
+      "name": "Model Context Protocol",
+      "keywords": ["mcp", "model context protocol"],
+      "summary": "A tool and context integration pattern for connecting AI apps to external systems."
+    },
+    {
+      "name": "AI coding workflows",
+      "keywords": ["coding", "code assistant", "developer tool", "ide"],
+      "summary": "AI-assisted software development workflows across IDEs, CLIs, and review tools."
+    },
+    {
+      "name": "LLM evaluation and observability",
+      "keywords": ["evaluation", "eval", "observability", "benchmark"],
+      "summary": "Testing, scoring, tracing, and monitoring production LLM behavior."
+    },
+    {
+      "name": "Multimodal AI",
+      "keywords": ["multimodal", "vision", "audio", "video"],
+      "summary": "Models and applications that combine text, image, audio, and video inputs."
+    },
+    {
+      "name": "Small and on-device models",
+      "keywords": ["small language model", "slm", "on-device", "edge ai"],
+      "summary": "Smaller models optimized for local, edge, or privacy-sensitive deployment."
+    }
+  ]
+}
