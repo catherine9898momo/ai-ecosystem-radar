@@ -1,0 +1,1023 @@
+{
+  "date": "2026-10-11",
+  "timezone": "Asia/Shanghai",
+  "generated_at": "2026-10-11T04:55:07.319394+00:00",
+  "coverage": {
+    "jobs": {
+      "count": 10,
+      "minimum": 5,
+      "status": "ok"
+    },
+    "news": {
+      "count": 10,
+      "minimum": 5,
+      "status": "ok"
+    },
+    "github_repos": {
+      "count": 10,
+      "minimum": 5,
+      "status": "ok"
+    },
+    "knowledge_trends": {
+      "count": 5,
+      "minimum": 5,
+      "status": "ok"
+    }
+  },
+  "summary": [
+    "agents 在 26 条记录中出现，中文主题可理解为：智能体。",
+    "rag 在 14 条记录中出现，中文主题可理解为：RAG。",
+    "ai_coding 在 13 条记录中出现，中文主题可理解为：AI 编程。",
+    "llm 在 10 条记录中出现，中文主题可理解为：大模型。",
+    "mcp 在 9 条记录中出现，中文主题可理解为：MCP。"
+  ],
+  "jobs": [
+    {
+      "id": "077ade965d3feed3",
+      "section": "jobs",
+      "source": "RemoteOK AI Jobs",
+      "title": "ML Engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329",
+      "published_at": "2026-04-26T00:00:12+00:00",
+      "summary": "At Trunk Tools, we’re the leading AI company revolutionizing construction, the second-largest industry on earth. We recently raised a $40M Series B led by Insight Partners, bringing our total funding to $70M from top-tier investors including Redpoint and Innovation Endeavors. This new round is fueling our next phase of growth as we scale AI agents across the jobsite. Our mission is to build the future of construction through intelligent automation. Despite being a $13+ trillion industry, construction still runs largely on analog processes, we’re changing that by embedding AI directly into field operations. Founded by builders and technologists (Stanford, MIT), our team has delivered software",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "ai_infra",
+        "evals",
+        "jobs",
+        "multimodal",
+        "rag",
+        "remote"
+      ],
+      "relevance_score": 20,
+      "company": "Trunk Tools, Inc.",
+      "location": "",
+      "jd": "At Trunk Tools, we’re the leading AI company revolutionizing construction, the second-largest industry on earth. We recently raised a $40M Series B led by Insight Partners, bringing our total funding to $70M from top-tier investors including Redpoint and Innovation Endeavors. This new round is fueling our next phase of growth as we scale AI agents across the jobsite. Our mission is to build the future of construction through intelligent automation. Despite being a $13+ trillion industry, construction still runs largely on analog processes, we’re changing that by embedding AI directly into field operations. Founded by builders and technologists (Stanford, MIT), our team has delivered software used by over 140,000 field professionals, impacting millions of users and contributing to $10B+ in built projects. Many of us come from the field ourselves, giving us a deep understanding of the industry’s unique challenges. After years of building the “brain” of construction, we’re now launching production-ready AI agents, starting with intelligent document processing and Q&A, and rapidly expanding into core operational workflows. Our team has doubled in the past year, and with 65+ employees (25+ engineers), we’re scaling fast and entering a period of hypergrowth. This is a rare opportunity to join at an inflection point. What you will do and achieve: Own and evolve core parts of our AI platform, spanning search, retrieval, and multi-agent orchestration. Lead the design and build-out of a multi-agent system, including defining new agent “pillars” and how they collaborate in production. Architect and scale document processing pipelines (Kubernetes-based), including ingestion, parsing, chunking, indexing, and structured data extraction across heterogeneous document types. Design and iterate on search and retrieval systems (ranking, query understanding, QA) grounded in real user behavior and product needs. Help build and expand our knowledge graph, modeling entities and relationships to power downstream reasoning and retrieval. Drive ambiguous, high-impact projects end-to-end, from problem definition through experimentation and productionization. Establish and improve evaluation and experimentation frameworks to measure system quality and guide iteration. Write clean, maintainable, production-grade code and raise the bar for engineering quality across the team. Who you are: 7+ years of experience building and shipping production ML/AI systems. Proven track record of leading complex, ambiguous projects and driving them to impact. Strong experience with agentic systems, LLM-based applications, or orchestration frameworks. Deep experience in document processing pipelines (e.g., parsing, chunking, indexing, structured extraction), ideally in distributed systems (Kubernetes or similar). Experience building or working with knowledge graphs / provenance graphs and modeling relationships between entities. Background in one or more of: search/ranking systems, NLP, recommendation systems, or large-scale data/ML infrastructure. Strong coding skills (Python, Go, or similar) with an emphasis on production systems. Highly analytical, product-minded, and comfortable using data to drive decisions. Bonus : experience in construction or other document-heavy industries. What we offer 🎖️ A close-knit and collaborative early-stage startup environment where every voice is heard and every opinion matters 💰 Competitive salary and stock option equity packages 🏥 4 Medical Plans to choose from including 100% covered option. Plus Dental and Vision Insurance! 🤓 Learning & Growth stipend 🏠 Flexible long-term work options (remote and hybrid) 🥨 Free lunch provided in the office in NYC & Austin - you’ll never go hungry with us! 🛫 Unlimited PTO; We truly believe in work-life balance and that hard work should be balanced with time for rest and rejuvenation 🏝 IRL / In-Person retreats throughout the year Please note: All official communication from Trunk Tools will come from an email address ending in @ trunk.tools . If you receive outreach from any other domain, please disregard it or report it to us. At Trunk Tools, we’re working hard to build a more productive and safer environment within the construction industry, and we strive to live by these same values here at Trunk Tools HQ. As an equal-opportunity employer, we are committed to building an inclusive environment where you can be you. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, pregnancy, gender expression or identity, sexual orientation, or any other legally protected class. Please mention the word **EMINENT** and tag RNjQuMjM2LjIwMS4xOQ== when applying to show you read the job post completely (#RNjQuMjM2LjIwMS4xOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd_excerpt": "At Trunk Tools, we’re the leading AI company revolutionizing construction, the second-largest industry on earth. We recently raised a $40M Series B led by Insight Partners, bringing our total funding to $70M from top-tier investors including Redpoint and Innovation Endeavors. This new round is fueling our next phase of growth as we scale AI agents across the jobsite. Our mission is to build the future of...",
+      "jd_language": "en",
+      "skills": [
+        "Python",
+        "RAG",
+        "Agents",
+        "评测",
+        "Kubernetes"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 Python、RAG、Agents、评测、Kubernetes；岗位范围为 Global Remote；发布方为 Trunk Tools, Inc.。"
+    },
+    {
+      "id": "2d6fa9e68f453dfd",
+      "section": "jobs",
+      "source": "RemoteOK AI Jobs",
+      "title": "Forward Deployed Engineer Agentic Platform",
+      "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611",
+      "published_at": "2026-05-16T08:00:05+00:00",
+      "summary": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers. Cohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of th",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "jobs",
+        "rag",
+        "remote",
+        "slm"
+      ],
+      "relevance_score": 16,
+      "company": "Cohere",
+      "location": "",
+      "jd": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers. Cohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of the best in the world at what they do. We believe that a diverse range of perspectives is a requirement for building great products. Join us on our mission and shape the future! About North: North is Cohere's cutting-edge AI workspace platform, designed to revolutionize the way enterprises utilize AI. It offers a secure and customizable environment, allowing companies to deploy AI while maintaining control over sensitive data. North integrates seamlessly with existing workflows, providing a trusted platform that connects AI agents with workplace tools and applications. Why This Role? This role offers a unique opportunity to shape how enterprises harness the power of AI in real-world applications. As a bridge between our core North product and our clients’ engineering teams, you’ll be at the forefront of solving complex problems and securely integrating AI into critical sectors such as finance, healthcare, and telecommunications. We are seeking engineers with diverse skill sets, including backend, infrastructure, agent development, and deployments, who deeply care about customers and want to work at the cutting edge of Agentic AI. Note: between 20 - 40% travel anticipated In this role, you will: Build and ship features for North, our AI workspace platform Develop autonomous agents that talk to sensitive enterprise data Experiment at a high velocity and with a high level of quality to engage our customers and ultimately deliver solutions that exceed their expectations Work across the entire product lifecycle from conceptualization through production You may be a good fit if: You have experience with and enjoy working directly with customers You are fluent in both English and Arabic You have shipped (lots of) Python in production You have built and deployed highly performant client-side or server-side RAG/agentic applications You have strong coding abilities and are comfortable working across the stack. You’re able to read and understand, and even fix issues outside of the main code base You excel in fast-paced environments and can execute while priorities and objectives are a moving target We are open to candidates currently based in the Middle East or who are open to travelling or relocating. If some of the above doesn’t line up perfectly with your experience, we still encourage you to apply! We value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form , and we will work together to meet your needs. Full-Time Employees at Cohere enjoy these Perks: 🤝 An open and inclusive culture and work environment 🧑‍💻 Work closely with a team on the cutting edge of AI research 🍽 Weekly lunch stipend, in-office lunches & snacks 🦷 Full health and dental benefits, including a separate budget to take care of your mental health 🐣 100% Parental Leave top-up for up to 6 months 🎨 Personal enrichment benefits towards arts and culture, fitness and well-being, quality time, and workspace improvement 🏙 Remote-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co-working stipend ✈️ 6 weeks of vacation (30 working days!) Please mention the word **LIKABLE** and tag RNjQuMjM2LjIwMS4xOQ== when applying to show you read the job post completely (#RNjQuMjM2LjIwMS4xOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd_excerpt": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to...",
+      "jd_language": "en",
+      "skills": [
+        "Python",
+        "RAG",
+        "Agents"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 Python、RAG、Agents；岗位范围为 Global Remote；发布方为 Cohere。"
+    },
+    {
+      "id": "b1fe462b6d0b61a4",
+      "section": "jobs",
+      "source": "Remotive AI Jobs",
+      "title": "Senior Independent AI Engineer / Architect",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+      "published_at": "2026-09-16T10:10:53+00:00",
+      "summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams solving real problems. Not demos. Not proof-of-concepts that never ship. Not another thin wrapper around an API. Recent work has included: AI-native products built from 0→1 Agent architectures ",
+      "tags": [
+        "agents",
+        "evals",
+        "jobs",
+        "rag",
+        "remote"
+      ],
+      "relevance_score": 14,
+      "company": "A.Team",
+      "location": "Americas, Europe, Israel",
+      "jd": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others. The Work You'll join small teams solving real problems. Not demos. Not proof-of-concepts that never ship. Not another thin wrapper around an API. Recent work has included: AI-native products built from 0→1 Agent architectures and orchestration systems Enterprise AI deployments Retrieval, evaluation, and reliability infrastructure LLM-powered workflows and products Machine learning platforms operating at scale You'll work directly with founders, CTOs, and product leaders, helping shape both technical direction and execution. Why Builders Join The best opportunities rarely make it to the open market. A.Team exists to solve that. No bidding. No prospecting. No race to the bottom. Just ambitious companies, difficult problems, and experienced peers. Who Thrives Here People who have already shipped. Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn technical complexity into business value. What matters is a track record of building and shipping. The Details Typical rates: $120-$170/hr Remote You keep 100% of your rate Not a Fit Early-career engineers People without production AI experience Small gig seekers Developers focused primarily on simple AI wrappers or templated implementations Apply Tell us what you've built. 👉 build.a.team/apply-ai . We'll take it from there.",
+      "jd_excerpt": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including...",
+      "jd_language": "en",
+      "skills": [
+        "RAG",
+        "Agents",
+        "评测"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 RAG、Agents、评测；岗位范围为 Global Remote；发布方为 A.Team。"
+    },
+    {
+      "id": "94ba171e340f6668",
+      "section": "jobs",
+      "source": "Remotive AI Jobs",
+      "title": "Senior AI Engineer",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
+      "published_at": "2026-09-18T12:23:56+00:00",
+      "summary": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We re",
+      "tags": [
+        "agents",
+        "jobs",
+        "rag",
+        "remote"
+      ],
+      "relevance_score": 13,
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "jd": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have several AI-related roles: AI Engineer, AI Agent Architect, AI Automation Architect. Requirements - AI Engineer: 3+ years of commercial experience applying AI to practical technology solutions A solid understanding of Python is a must; experience with other programming languages commonly used in AI is a plus Experience with Vector Databases, Pinecone or Weaviate is required 2+ years of experience with LangChain is mandatory 2+ years of experience with large language models (LLMs) or vLLMs is mandatory 2+ years of experience with RAG or OpenAI is required Strong technical skills: as a Senior AI Engineer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. NOT YOUR TECH STACK? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you. We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).",
+      "jd_excerpt": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle...",
+      "jd_language": "en",
+      "skills": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "LangChain",
+        "RAG",
+        "向量数据库",
+        "Agents"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 Python、TypeScript、JavaScript、LangChain、RAG、向量数据库、Agents；岗位范围为 Global Remote；发布方为 Lemon.io。"
+    },
+    {
+      "id": "ce212f53178ca302",
+      "section": "jobs",
+      "source": "Remotive AI Jobs",
+      "title": "Senior Data Scientist",
+      "url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
+      "published_at": "2026-09-16T12:35:28+00:00",
+      "summary": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We",
+      "tags": [
+        "agents",
+        "jobs",
+        "rag",
+        "remote"
+      ],
+      "relevance_score": 13,
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "jd": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Requirements — Data Scientist: 4+ years of commercial experience as a Data Scientist 3+ years of commercial experience with Python is a must 3+ years of commercial experience with Databricks Experience with RAG and LLM is a must Strong technical skills: as a Senior Data Scientist, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. NOT YOUR TECH STACK? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you. We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).",
+      "jd_excerpt": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us...",
+      "jd_language": "en",
+      "skills": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "RAG",
+        "Agents"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 Python、TypeScript、JavaScript、RAG、Agents；岗位范围为 Global Remote；发布方为 Lemon.io。"
+    },
+    {
+      "id": "cfe014324f8ea01c",
+      "section": "jobs",
+      "source": "Remotive AI Jobs",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "published_at": "2026-09-14T20:33:27+00:00",
+      "summary": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of d",
+      "tags": [
+        "ai_infra",
+        "jobs",
+        "llmops",
+        "remote",
+        "slm"
+      ],
+      "relevance_score": 13,
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "jd": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect! About the Role As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, high-impact team to deliver user experiences across Dividend.com, MutualFunds.com and other brands within our portfolio. This role combines expert Ruby on Rails skills with AI integration expertise, requiring you to leverage LLMs in your development workflow, state management and user interactions. You’ll work in a remote-first hybrid environment, which encourages in person collaboration, using ShapeUp to manage projects that trade-off on-time delivery for de-scoped outcomes. As a technical leader, you'll have a seat at the table shaping system architecture, implementing core features all while embracing an entrepreneurial mindset and a “get things done” mentality. Responsibilities Architect and maintain Rails applications (Rails 8) Integrate LLMs into our microservices architecture for state management and real-time user experiences. Enhance front-end experiences with Hotwire, StimulusJS, or React, ensuring seamless AI-driven interactions. Optimize LLM inference for low latency and cost, using caching and asynchronous processing. Required Technical Skills Back-End Ruby (5+ years, expert-level) Ruby on Rails (Rails 6-8 preferred) PostgreSQL (or MySQL) Elasticsearch Redis Docker Front-End StimulusJS or JavaScript ES6 Tailwind CSS HTML HTTP AI Integration Experience integrating AI/ML models (e.g., LLMs, NLP) with web applications Familiarity with LLM frameworks (e.g., LangChain, Hugging Face) or APIs (e.g., xAI, Anthropic) Nice-to-Have Technical Skills Kubernetes for microservices orchestration React for advanced front-end components Graph databases for complex financial data Contributions to open-source RoR or AI projects Required Soft Skills Entrepreneurial mindset with a passion for AI and FinTech Natural leader who mentors and inspires teammates Problem-solver with a “get things done” mentality Excellent communication, thriving in remote and cross-team collaboration Attention to detail, ensuring clean, maintainable code Team player comfortable as an individual contributor Why Join Us? Impactful Work : Build AI-powered tools that help millions of investors make informed decisions from data-driven insights. Cutting-Edge Tech : Work with Rails 8, LLMs, and modern tools like Hotwire, Databricks, and xAI’s API in a microservices architecture. Autonomy and Influence : Collaborate directly with our CEO and CTO to shape our AI-driven platform, with freedom to innovate. Competitive Compensation : $160,000–$200,000 CAD/USD (based on experience) and benefits. Remote Flexibility : Remote-first (±3 hours from ET) with hybrid in office collaboration in Toronto or NYC Growth Opportunities : Budget for AI and Rails conferences (e.g., NeurIPS, RailsConf), plus access to cutting-edge AI tools for experimentation. Dynamic Culture : Join a small, no-ego team passionate about trust, innovation, and making a difference in FinTech. About Mitre Media’s AI-Driven Platform Mitre Media powers premium financial brands like Dividend.com and MutualFunds.com with the Mitre Platform. This platform integrates traditional content management, financial data, first-party data, ad revenue, and subscription tools, all enhanced by LLMs for rich, user-focused experiences. Our data-derived insights delight users, while our advertising solutions deliver unmatched performance for partners like BlackRock and Vanguard, leveraging advanced targeting and first-party data. How to Apply Submit your resume, GitHub profile, and a brief note on why you’re excited about building AI-driven FinTech to jobs@mitremedia.com.",
+      "jd_excerpt": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and...",
+      "jd_language": "en",
+      "skills": [
+        "JavaScript",
+        "LangChain",
+        "Docker",
+        "Kubernetes",
+        "SQL"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 JavaScript、LangChain、Docker、Kubernetes、SQL；岗位范围为 Global Remote；发布方为 Mitre Media。"
+    },
+    {
+      "id": "24303d15a107cec8",
+      "section": "jobs",
+      "source": "Remotive AI Jobs",
+      "title": "Senior back-end Engineer",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+      "published_at": "2026-09-30T13:15:26+00:00",
+      "summary": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale. Open roles: Senior Back-end Engineer (Golang), Senior DevOps Engineer, Senior Site Reliability Engineer, Senior Storage Engineer, Senior Python & LLM Developer, Senior Bac",
+      "tags": [
+        "agents",
+        "ai_infra",
+        "jobs",
+        "remote"
+      ],
+      "relevance_score": 12,
+      "company": "Lemon.io",
+      "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
+      "jd": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to everyone. They're active open-source contributors, building the infrastructure behind next-generation AI at scale. Open roles: Senior Back-end Engineer (Golang), Senior DevOps Engineer, Senior Site Reliability Engineer, Senior Storage Engineer, Senior Python & LLM Developer, Senior Back-end Engineer (Python) Why this one's worth a look: You'll be working on infrastructure that directly shapes how AI gets built and deployed, at a company operating at the frontier of the field. Locations: the UK, Singapore, the US, and Canada. Requirements for Senior Back-end Developers: 5+ years of software development experience 3+ years of experience with Golang and/or Python 2+ years of experience with Kubernetes 2+ years of experience with AI agent development Not your stack? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you. We work with developers across 75+ countries in Europe, Latin America, North America, select Asian markets (Japan, Singapore, South Korea, Philippines, Indonesia, Malaysia, Vietnam, Thailand, Israel), Oceania (Australia, New Zealand, Papua New Guinea), and Africa (including Morocco, South Africa).",
+      "jd_excerpt": "Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to...",
+      "jd_language": "en",
+      "skills": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "Agents",
+        "Kubernetes"
+      ],
+      "location_scope": "southeast_asia_remote",
+      "location_scope_label": "东南亚 Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 Python、TypeScript、JavaScript、Agents、Kubernetes；岗位范围为 东南亚 Remote；发布方为 Lemon.io。"
+    },
+    {
+      "id": "ce32e026ecde3b39",
+      "section": "jobs",
+      "source": "Remotive AI Jobs",
+      "title": "Senior React Full-stack Developer",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
+      "published_at": "2026-10-02T13:30:06+00:00",
+      "summary": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team worki",
+      "tags": [
+        "agents",
+        "jobs",
+        "remote"
+      ],
+      "relevance_score": 10,
+      "company": "Lemon.io",
+      "location": "Europe, USA, Canada, APAC",
+      "jd": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Requirements for the Senior React & Python Position: 4+ years of software development experience. Commercial experience: React.js 3+ years & Python 3+ years OR React.js 2+ years & Python 5+ years OR React.js 5+ years & Python 2+ years Experience with AWS, GCP, or Azure is required. Other requirements: Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. NOT YOUR TECH STACK? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you. We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).",
+      "jd_excerpt": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates —...",
+      "jd_language": "en",
+      "skills": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "Agents"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 Python、TypeScript、JavaScript、Agents；岗位范围为 Global Remote；发布方为 Lemon.io。"
+    },
+    {
+      "id": "e488b0cbeb13c66c",
+      "section": "jobs",
+      "source": "Remotive AI Jobs",
+      "title": "Senior .NET Full-stack Developer",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
+      "published_at": "2026-09-17T13:22:05+00:00",
+      "summary": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trac",
+      "tags": [
+        "agents",
+        "jobs",
+        "remote"
+      ],
+      "relevance_score": 10,
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "jd": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. Currently, we have multiple requests for Senior .NET Developers, including C# & .NET, .NET & React, and Angular & .NET. Requirements - .NET & React: 4+ years of commercial experience in software development 3+ years of commercial experience with .NET 3+ years of commercial experience with React Expertise in TypeScript is required You should also have: Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. NOT YOUR TECH STACK? We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you. We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).",
+      "jd_excerpt": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates —...",
+      "jd_language": "en",
+      "skills": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "Agents"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 Python、TypeScript、JavaScript、Agents；岗位范围为 Global Remote；发布方为 Lemon.io。"
+    },
+    {
+      "id": "bc8952e9b191fe3f",
+      "section": "jobs",
+      "source": "RemoteOK AI Jobs",
+      "title": "AI agent engineer",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+      "published_at": "2026-09-16T12:44:27+00:00",
+      "summary": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers. Work performed Identify where agents can help and build them accordingly. Work with department leads to assess AI needs. Help connect agents to appropriate third-party and internal tools. Measure results and remove agents that don't deliver. Test new tools and models as they ship and adopt what works. Advise others on AI capabilities to help them perform. Requirements Experience building agents that run on their ",
+      "tags": [
+        "agents",
+        "jobs",
+        "remote"
+      ],
+      "relevance_score": 10,
+      "company": "Sticker Mule",
+      "location": "",
+      "jd": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers. Work performed Identify where agents can help and build them accordingly. Work with department leads to assess AI needs. Help connect agents to appropriate third-party and internal tools. Measure results and remove agents that don't deliver. Test new tools and models as they ship and adopt what works. Advise others on AI capabilities to help them perform. Requirements Experience building agents that run on their own and do meaningful work Strong with Grok, Claude, OpenAI, and open source Comfortable in Go, TypeScript, GraphQL, Postgres, GCP Writes clearly in English Compensation Salary: $150,000–$250,000 USD $20,000 signing bonus 4 weeks vacation + country-specific holidays Fully remote Please mention the word **HUMOUR** and tag RNjQuMjM2LjIwMS4xOQ== when applying to show you read the job post completely (#RNjQuMjM2LjIwMS4xOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd_excerpt": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers. Work performed Identify where agents can help and build them accordingly. Work with department leads to assess AI needs. Help connect...",
+      "jd_language": "en",
+      "skills": [
+        "TypeScript",
+        "Agents",
+        "SQL"
+      ],
+      "location_scope": "global_remote",
+      "location_scope_label": "Global Remote",
+      "jd_excerpt_zh": "该岗位要求的核心技能包括 TypeScript、Agents、SQL；岗位范围为 Global Remote；发布方为 Sticker Mule。"
+    }
+  ],
+  "news": [
+    {
+      "id": "bc692ba6e1436c1c",
+      "section": "news",
+      "source": "AI Model Releases",
+      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
+      "published_at": "2026-08-05T07:00:00+00:00",
+      "summary": "Meta debuts first AI coding agent to take on Anthropic and OpenAI CNBC",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "models",
+        "news"
+      ],
+      "relevance_score": 10
+    },
+    {
+      "id": "33b752aa9fbedfc6",
+      "section": "news",
+      "source": "AI Model Releases",
+      "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR?oc=5",
+      "published_at": "2026-09-28T07:00:00+00:00",
+      "summary": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment NVIDIA Newsroom",
+      "tags": [
+        "agents",
+        "llmops",
+        "models",
+        "news"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "id": "15bef8b44f06f2a4",
+      "section": "news",
+      "source": "AI Model Releases",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5",
+      "published_at": "2026-06-24T07:00:00+00:00",
+      "summary": "OpenAI and Broadcom unveil LLM-optimized inference chip OpenAI",
+      "tags": [
+        "ai_infra",
+        "llmops",
+        "models",
+        "news"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "id": "2fb3f4dc75b7f4d6",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "OutSystems Opens Its Platform To External AI Coding Agents With New Agent Experience - SMBtech",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0FkdDB0b3pXYmtYMDdBTEpKeDh5VUFwWmZaakVhcGd3UEszYXI5TkhjWVotX3F6UTZvZGt5WDFRa2g0SC05ZmRwNWpjWWptTVpCbDVvT2t6TUplZWl5bW42RDcwRUxQN19WS1g1TDVRNFhmNmpiMnZ0cnJaWlJoV1dTQmVMR2RSanI1dmNrbEplcUhfLVNEdHFUQlBXdEFkak5wRkNTbWdMNXJqNEE?oc=5",
+      "published_at": "2026-10-09T05:58:15+00:00",
+      "summary": "OutSystems Opens Its Platform To External AI Coding Agents With New Agent Experience SMBtech",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "05d0c5c5d53b4782",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "OutSystems opens Agent Experience to third-party AI agents - IT Brief Australia",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3VBeXJJbnd3VHZJbDJnSDY3V0VDVWpsSkNpOGhFRGthWkhRMGlNRmtYam9TOXMtaXp5WlQtMGJENmluUVBmb0x6dWFIZGdlbzZOODJfWkNGa0NQYU5tcjRaUXBMaGpNU1hvSmdZSzJKX21UaXB3QlNoR2hlbWJ5Vm5zU2RnV25ZWW9lU2pSTHg?oc=5",
+      "published_at": "2026-10-07T22:43:50+00:00",
+      "summary": "OutSystems opens Agent Experience to third-party AI agents IT Brief Australia",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "40687779ec652fd0",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "Jellyfish Advances Developer and Agent Productivity Insights for the AI-Native SDLC - SD Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTTNTd3BzWklxaXhUM3pmcTZiZTFvMi1fSE5pTm05UEpuNmRnZW53bDN2bGFHaE9yNWV0N1RmXzlCRk1rMmpCU21WUWdLYTN1M2hZSmhJclF3eDdpTGRNSFhMNGhJR1VhbWwydnh1M2xaczc0bUFMRzFTLWI0elhfRVNnMWZpUUZHRmViY3ZmdVBKMERDZE5lWUlvdE5pRXk1aE80d0lPWTR6V1Foa0pzaTZKamVyYVV6dDNkeGwzUVhESjhYYzBMekoxOFQzc05n?oc=5",
+      "published_at": "2026-10-07T20:36:50+00:00",
+      "summary": "Jellyfish Advances Developer and Agent Productivity Insights for the AI-Native SDLC SD Times",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "45c30491e0703837",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "OutSystems Agent Experience Is Now Generally Available, Bringing Governed AI Development to Any Coding Agent - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQnVYNmZIT2xFUFVHbGprb2RMTU40RE5WRzloRkFzQk9JQ3FfSlJFLVNFdjBlRWt0QUF2dVotVFZwdHVUYUlwWlpndWNaR1VTaTNUU2pLSHAtUjExTFdTWWVGaWJpV1NPRXdKRFpJb1JHZHN3dDBMSUIzWU4wSjhKUVdFblFjcERWbTE5c1J5NGg0TUhUeVZIUGk4dnlLNEIyWVFCOXBYNDlVSHZidUoxVUthRW50NVFWbE1qZ1BNT1djRmxUcF9nSS0tZlJfSkthU1FCU2lNVHVhSExickJMcGd6NkQ5OE5NcnFuc25PNEpmUVdYWXV3?oc=5",
+      "published_at": "2026-10-07T17:00:00+00:00",
+      "summary": "OutSystems Agent Experience Is Now Generally Available, Bringing Governed AI Development to Any Coding Agent Business Wire",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "59adb4c11f768dd0",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "MCP vs. Hooks: Enforcing Security in AI Coding Agents - Semgrep",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwb3hTdFFudXJndWMxVGtndW9obVg3TG1aOU02clVIZnV2MmJwcnJDWWFRUkNHR3N0UUJSMUMzRTRUaEE3aWxGOWFsbjlhdGwxWFRDRTR3amN0ZlJuUlN4bkVBb1lGQUJwZmc0Ng?oc=5",
+      "published_at": "2026-10-06T00:03:09+00:00",
+      "summary": "MCP vs. Hooks: Enforcing Security in AI Coding Agents Semgrep",
+      "tags": [
+        "ai_coding",
+        "mcp",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "fc704531fbe85630",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "Momentic debuts Mo AI agent to automate software testing without scripts - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN0F4UUpvbkpBZ0lhN202dHEtbmh0QUdhQVVITGNxdGNlVVllcVBwOGVqTW9Pb2hGRk9NVXhLRXc5MkF5eGpIeTQwRno5eUlUa3ZYM05odFNtT1VuZ0lxc2JnVjNlQmFfMHZfVG9fcWF0b0JUdmJHOGxSTFJGWFdiVnZiU2k2NDFWbmZ2bFhhMlROV19XaVdfTzZRT05fQjNlbERLVHUyWVF1ZjdMa3c?oc=5",
+      "published_at": "2026-09-28T07:00:00+00:00",
+      "summary": "Momentic debuts Mo AI agent to automate software testing without scripts SiliconANGLE",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "1813999261993f09",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "Build your way: Use any AI agent of your choice in Android Studio - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMkhlOExaczNiUW0yQlZTSVotTmQ5SGhiMzVqejFDSmxUSHhvT0VERVU5Y2F6LTV1UHBLMm1ZTmtrV3hOLUQ2ME9VLVFZV19mUW5QdG44NmlBbGh4Zm1fNHFfZVFaVkNldmpmc3ZwTFFBOEFfWE5jby1SQjl1ZG1QcTdLd003OXdQSzRQVERXTk1qbTJsWmVuaGFLUDgyeUFzaml0M0x1TQ?oc=5",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "summary": "Build your way: Use any AI agent of your choice in Android Studio blog.google",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
+    }
+  ],
+  "github_repos": [
+    {
+      "id": "d783ebd33395316f",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "published_at": "2026-10-11T04:48:05+00:00",
+      "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "tags": [
+        "agent",
+        "ai",
+        "ai_coding",
+        "anthropic",
+        "claude-code",
+        "compression",
+        "context-engineering",
+        "context-window",
+        "cursor",
+        "fastapi",
+        "github",
+        "langchain",
+        "llm",
+        "mcp",
+        "openai",
+        "prompt-engineering",
+        "proxy",
+        "python",
+        "rag",
+        "token-optimization",
+        "tokens",
+        "typescript"
+      ],
+      "relevance_score": 16,
+      "repo": "headroomlabs-ai/headroom",
+      "stars": 74966,
+      "language": "Python"
+    },
+    {
+      "id": "7699ead083dace74",
+      "section": "github_repos",
+      "source": "GitHub LLM Repositories",
+      "title": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "published_at": "2026-10-11T04:51:00+00:00",
+      "summary": "An open-source AI coding agent that lives in your terminal.",
+      "tags": [
+        "agentic",
+        "agents",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "ai_coding",
+        "cli",
+        "coding-agent",
+        "developer-tools",
+        "github",
+        "llm",
+        "mcp",
+        "qwen",
+        "terminal",
+        "typescript"
+      ],
+      "relevance_score": 14,
+      "repo": "QwenLM/qwen-code",
+      "stars": 28408,
+      "language": "TypeScript"
+    },
+    {
+      "id": "0098cbbd90db01f2",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "SourceWeft/SourceWeft",
+      "url": "https://github.com/SourceWeft/SourceWeft",
+      "published_at": "2026-10-11T04:39:40+00:00",
+      "summary": "Open-source, self-hostable alternative to ChatGPT and NotebookLM — agents, skills, MCP, and cited knowledge in one AI workstation. Your models, your infrastructure. Free to use GPT 6: https://SourceWeft.com/",
+      "tags": [
+        "agentic-ai",
+        "agentic-rag",
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatbot",
+        "generative-ai",
+        "github",
+        "knowledge-base",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "notebooklm",
+        "rag",
+        "self-hosted",
+        "skills",
+        "workbuddy"
+      ],
+      "relevance_score": 14,
+      "repo": "SourceWeft/SourceWeft",
+      "stars": 195,
+      "language": "TypeScript"
+    },
+    {
+      "id": "8f2db0354e045f5e",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "published_at": "2026-10-11T04:34:47+00:00",
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "tags": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "agents",
+        "ai",
+        "automation",
+        "claude",
+        "deepseek",
+        "genai",
+        "github",
+        "gpt",
+        "llm",
+        "low-code",
+        "mcp",
+        "nextjs",
+        "no-code",
+        "openai",
+        "python",
+        "rag",
+        "skills",
+        "workflow"
+      ],
+      "relevance_score": 14,
+      "repo": "langgenius/dify",
+      "stars": 158106,
+      "language": "TypeScript"
+    },
+    {
+      "id": "e5e60e97f977cd7e",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "nageoffer/ragent",
+      "url": "https://github.com/nageoffer/ragent",
+      "published_at": "2026-10-11T03:57:47+00:00",
+      "summary": "企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。",
+      "tags": [
+        "agent",
+        "agentic-rag",
+        "agents",
+        "ai",
+        "github",
+        "llm",
+        "mcp",
+        "rag",
+        "springai"
+      ],
+      "relevance_score": 14,
+      "repo": "nageoffer/ragent",
+      "stars": 4237,
+      "language": "Java"
+    },
+    {
+      "id": "715f479c65d2ea95",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "Shy2593666979/AgentChat",
+      "url": "https://github.com/Shy2593666979/AgentChat",
+      "published_at": "2026-10-11T03:52:50+00:00",
+      "summary": "AgentChat 是一个基于 LLM 的智能体交流平台，内置默认 Agent 并支持用户自定义 Agent。通过多轮对话和任务协作，Agent 可以理解并协助完成复杂任务。项目集成 LangChain、Function Call、MCP 协议、RAG、Memory、HITL、Skill、Milvus 和 ElasticSearch 等技术，实现高效的知识检索与工具调用，使用 FastAPI 构建高性能后端服务。",
+      "tags": [
+        "agent",
+        "agent-memory",
+        "agent-skills",
+        "agents",
+        "github",
+        "human-in-the-loop",
+        "langchain",
+        "llm",
+        "mcp",
+        "mcp-client",
+        "mcp-server",
+        "mysql",
+        "rag",
+        "redis"
+      ],
+      "relevance_score": 14,
+      "repo": "Shy2593666979/AgentChat",
+      "stars": 914,
+      "language": "Python"
+    },
+    {
+      "id": "3dc3d2b8282aa10e",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "winstonkoh87/Athena-Public",
+      "url": "https://github.com/winstonkoh87/Athena-Public",
+      "published_at": "2026-10-11T03:36:20+00:00",
+      "summary": "The compounding context layer for AI coding agents, portable across IDEs.. Own the state. Rent the intelligence. Plain Markdown on your disk, driven by a session routine that turns today's work into what tomorrow's agent already knows. Swap models or switch IDEs on a whim. The intelligence is rented; the state belongs to you.",
+      "tags": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-assistant",
+        "ai_coding",
+        "automation",
+        "chatgpt",
+        "developer-tools",
+        "framework",
+        "gemini",
+        "github",
+        "google-antigravity",
+        "graphrag",
+        "knowledge-management",
+        "llm",
+        "local-first",
+        "memory",
+        "open-source",
+        "prompt-engineering",
+        "python",
+        "rag",
+        "semantic-search",
+        "vector-search"
+      ],
+      "relevance_score": 14,
+      "repo": "winstonkoh87/Athena-Public",
+      "stars": 600,
+      "language": "Python"
+    },
+    {
+      "id": "1505348ff667795f",
+      "section": "github_repos",
+      "source": "GitHub LLM Repositories",
+      "title": "DemonDamon/AgenticX",
+      "url": "https://github.com/DemonDamon/AgenticX",
+      "published_at": "2026-10-11T04:53:28+00:00",
+      "summary": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
+      "tags": [
+        "agent-framework",
+        "agentic-workflows",
+        "agents",
+        "ai-agent",
+        "ai-orchestration",
+        "chatbot",
+        "desktop-app",
+        "electron",
+        "fastapi",
+        "github",
+        "graphrag",
+        "llm",
+        "mcp",
+        "multi-agent-system",
+        "python",
+        "rag",
+        "tool-use"
+      ],
+      "relevance_score": 13,
+      "repo": "DemonDamon/AgenticX",
+      "stars": 361,
+      "language": "Python"
+    },
+    {
+      "id": "bb12a20c111b5903",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "r-uby-dev/llm",
+      "url": "https://github.com/r-uby-dev/llm",
+      "published_at": "2026-10-11T04:47:24+00:00",
+      "summary": "An agentic runtime",
+      "tags": [
+        "a2a",
+        "a2a-client",
+        "agent",
+        "agent2agent",
+        "agents",
+        "ai",
+        "ai-runtime",
+        "github",
+        "llm",
+        "llm-agents",
+        "llm-framework",
+        "llm-frameworks",
+        "llms",
+        "mcp",
+        "mcp-client",
+        "rag",
+        "ruby",
+        "ruby-lib",
+        "ruby-library"
+      ],
+      "relevance_score": 13,
+      "repo": "r-uby-dev/llm",
+      "stars": 143,
+      "language": "Ruby"
+    },
+    {
+      "id": "735296d96b847c08",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "published_at": "2026-10-11T04:46:31+00:00",
+      "summary": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "tags": [
+        "agent",
+        "agentic",
+        "agents",
+        "ai",
+        "chatbot",
+        "dsh-plugin",
+        "embeddings",
+        "evaluation",
+        "generative-ai",
+        "github",
+        "golang",
+        "knowledge-base",
+        "llm",
+        "multi-tenant",
+        "ollama",
+        "openai",
+        "question-answering",
+        "rag",
+        "reranking",
+        "semantic-search",
+        "vector-search",
+        "wiki"
+      ],
+      "relevance_score": 13,
+      "repo": "Tencent/WeKnora",
+      "stars": 33052,
+      "language": "Go"
+    }
+  ],
+  "knowledge_trends": [
+    {
+      "name": "Agentic workflows",
+      "summary": "Agents that can plan, call tools, and complete multi-step work.",
+      "keywords": [
+        "agent",
+        "agentic",
+        "tool use",
+        "function calling"
+      ],
+      "evidence_count": 36,
+      "evidence": [
+        {
+          "title": "ML Engineer",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329"
+        },
+        {
+          "title": "Forward Deployed Engineer Agentic Platform",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611"
+        },
+        {
+          "title": "Senior Independent AI Engineer / Architect",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266"
+        }
+      ],
+      "status": "daily_evidence"
+    },
+    {
+      "name": "AI coding workflows",
+      "summary": "AI-assisted software development workflows across IDEs, CLIs, and review tools.",
+      "keywords": [
+        "coding",
+        "code assistant",
+        "developer tool",
+        "ide"
+      ],
+      "evidence_count": 22,
+      "evidence": [
+        {
+          "title": "ML Engineer",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329"
+        },
+        {
+          "title": "Forward Deployed Engineer Agentic Platform",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611"
+        },
+        {
+          "title": "Senior AI Engineer",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131"
+        }
+      ],
+      "status": "daily_evidence"
+    },
+    {
+      "name": "Retrieval-Augmented Generation",
+      "summary": "Knowledge-grounded LLM systems built on retrieval, vector search, and citations.",
+      "keywords": [
+        "rag",
+        "retrieval",
+        "vector",
+        "embedding"
+      ],
+      "evidence_count": 20,
+      "evidence": [
+        {
+          "title": "ML Engineer",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329"
+        },
+        {
+          "title": "Forward Deployed Engineer Agentic Platform",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611"
+        },
+        {
+          "title": "Senior Independent AI Engineer / Architect",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266"
+        }
+      ],
+      "status": "daily_evidence"
+    },
+    {
+      "name": "Model Context Protocol",
+      "summary": "A tool and context integration pattern for connecting AI apps to external systems.",
+      "keywords": [
+        "mcp",
+        "model context protocol"
+      ],
+      "evidence_count": 9,
+      "evidence": [
+        {
+          "title": "MCP vs. Hooks: Enforcing Security in AI Coding Agents - Semgrep",
+          "section": "news",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwb3hTdFFudXJndWMxVGtndW9obVg3TG1aOU02clVIZnV2MmJwcnJDWWFRUkNHR3N0UUJSMUMzRTRUaEE3aWxGOWFsbjlhdGwxWFRDRTR3amN0ZlJuUlN4bkVBb1lGQUJwZmc0Ng?oc=5"
+        },
+        {
+          "title": "headroomlabs-ai/headroom",
+          "section": "github_repos",
+          "url": "https://github.com/headroomlabs-ai/headroom"
+        },
+        {
+          "title": "QwenLM/qwen-code",
+          "section": "github_repos",
+          "url": "https://github.com/QwenLM/qwen-code"
+        }
+      ],
+      "status": "daily_evidence"
+    },
+    {
+      "name": "LLM evaluation and observability",
+      "summary": "Testing, scoring, tracing, and monitoring production LLM behavior.",
+      "keywords": [
+        "evaluation",
+        "eval",
+        "observability",
+        "benchmark"
+      ],
+      "evidence_count": 4,
+      "evidence": [
+        {
+          "title": "ML Engineer",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329"
+        },
+        {
+          "title": "Senior Independent AI Engineer / Architect",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266"
+        },
+        {
+          "title": "Tencent/WeKnora",
+          "section": "github_repos",
+          "url": "https://github.com/Tencent/WeKnora"
+        }
+      ],
+      "status": "daily_evidence"
+    }
+  ],
+  "cross_signals": [
+    {
+      "tag": "agents",
+      "sections": [
+        "github_repos",
+        "jobs",
+        "news"
+      ],
+      "insight": "智能体同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
+    },
+    {
+      "tag": "ai_coding",
+      "sections": [
+        "github_repos",
+        "jobs",
+        "news"
+      ],
+      "insight": "AI 编程同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
+    },
+    {
+      "tag": "ai_infra",
+      "sections": [
+        "jobs",
+        "news"
+      ],
+      "insight": "AI 基础设施同时出现在岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
+    },
+    {
+      "tag": "llmops",
+      "sections": [
+        "jobs",
+        "news"
+      ],
+      "insight": "LLMOps同时出现在岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
+    },
+    {
+      "tag": "mcp",
+      "sections": [
+        "github_repos",
+        "news"
+      ],
+      "insight": "MCP同时出现在GitHub 项目、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
+    }
+  ],
+  "errors": [],
+  "warnings": []
+}

@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-10-10T05:05:39.127993+00:00",
+  "generated_at": "2026-10-11T04:55:07.319394+00:00",
   "coverage": {
     "jobs": {
       "count": 10,
@@ -25,11 +25,11 @@
     }
   },
   "summary": [
-    "agents 在 24 条记录中出现，中文主题可理解为：智能体。",
+    "agents 在 26 条记录中出现，中文主题可理解为：智能体。",
     "rag 在 14 条记录中出现，中文主题可理解为：RAG。",
-    "ai_coding 在 11 条记录中出现，中文主题可理解为：AI 编程。",
+    "ai_coding 在 13 条记录中出现，中文主题可理解为：AI 编程。",
     "llm 在 10 条记录中出现，中文主题可理解为：大模型。",
-    "ai 在 9 条记录中出现，中文主题可理解为：ai。"
+    "mcp 在 9 条记录中出现，中文主题可理解为：MCP。"
   ],
   "jobs": [
     {
@@ -53,7 +53,7 @@
       "relevance_score": 20,
       "company": "Trunk Tools, Inc.",
       "location": "",
-      "jd": "At Trunk Tools, we’re the leading AI company revolutionizing construction, the second-largest industry on earth. We recently raised a $40M Series B led by Insight Partners, bringing our total funding to $70M from top-tier investors including Redpoint and Innovation Endeavors. This new round is fueling our next phase of growth as we scale AI agents across the jobsite. Our mission is to build the future of construction through intelligent automation. Despite being a $13+ trillion industry, construction still runs largely on analog processes, we’re changing that by embedding AI directly into field operations. Founded by builders and technologists (Stanford, MIT), our team has delivered software used by over 140,000 field professionals, impacting millions of users and contributing to $10B+ in built projects. Many of us come from the field ourselves, giving us a deep understanding of the industry’s unique challenges. After years of building the “brain” of construction, we’re now launching production-ready AI agents, starting with intelligent document processing and Q&A, and rapidly expanding into core operational workflows. Our team has doubled in the past year, and with 65+ employees (25+ engineers), we’re scaling fast and entering a period of hypergrowth. This is a rare opportunity to join at an inflection point. What you will do and achieve: Own and evolve core parts of our AI platform, spanning search, retrieval, and multi-agent orchestration. Lead the design and build-out of a multi-agent system, including defining new agent “pillars” and how they collaborate in production. Architect and scale document processing pipelines (Kubernetes-based), including ingestion, parsing, chunking, indexing, and structured data extraction across heterogeneous document types. Design and iterate on search and retrieval systems (ranking, query understanding, QA) grounded in real user behavior and product needs. Help build and expand our knowledge graph, modeling entities and relationships to power downstream reasoning and retrieval. Drive ambiguous, high-impact projects end-to-end, from problem definition through experimentation and productionization. Establish and improve evaluation and experimentation frameworks to measure system quality and guide iteration. Write clean, maintainable, production-grade code and raise the bar for engineering quality across the team. Who you are: 7+ years of experience building and shipping production ML/AI systems. Proven track record of leading complex, ambiguous projects and driving them to impact. Strong experience with agentic systems, LLM-based applications, or orchestration frameworks. Deep experience in document processing pipelines (e.g., parsing, chunking, indexing, structured extraction), ideally in distributed systems (Kubernetes or similar). Experience building or working with knowledge graphs / provenance graphs and modeling relationships between entities. Background in one or more of: search/ranking systems, NLP, recommendation systems, or large-scale data/ML infrastructure. Strong coding skills (Python, Go, or similar) with an emphasis on production systems. Highly analytical, product-minded, and comfortable using data to drive decisions. Bonus : experience in construction or other document-heavy industries. What we offer 🎖️ A close-knit and collaborative early-stage startup environment where every voice is heard and every opinion matters 💰 Competitive salary and stock option equity packages 🏥 4 Medical Plans to choose from including 100% covered option. Plus Dental and Vision Insurance! 🤓 Learning & Growth stipend 🏠 Flexible long-term work options (remote and hybrid) 🥨 Free lunch provided in the office in NYC & Austin - you’ll never go hungry with us! 🛫 Unlimited PTO; We truly believe in work-life balance and that hard work should be balanced with time for rest and rejuvenation 🏝 IRL / In-Person retreats throughout the year Please note: All official communication from Trunk Tools will come from an email address ending in @ trunk.tools . If you receive outreach from any other domain, please disregard it or report it to us. At Trunk Tools, we’re working hard to build a more productive and safer environment within the construction industry, and we strive to live by these same values here at Trunk Tools HQ. As an equal-opportunity employer, we are committed to building an inclusive environment where you can be you. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, pregnancy, gender expression or identity, sexual orientation, or any other legally protected class. Please mention the word **EMINENT** and tag RMTU4LjIzLjkzLjE2OQ== when applying to show you read the job post completely (#RMTU4LjIzLjkzLjE2OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "At Trunk Tools, we’re the leading AI company revolutionizing construction, the second-largest industry on earth. We recently raised a $40M Series B led by Insight Partners, bringing our total funding to $70M from top-tier investors including Redpoint and Innovation Endeavors. This new round is fueling our next phase of growth as we scale AI agents across the jobsite. Our mission is to build the future of construction through intelligent automation. Despite being a $13+ trillion industry, construction still runs largely on analog processes, we’re changing that by embedding AI directly into field operations. Founded by builders and technologists (Stanford, MIT), our team has delivered software used by over 140,000 field professionals, impacting millions of users and contributing to $10B+ in built projects. Many of us come from the field ourselves, giving us a deep understanding of the industry’s unique challenges. After years of building the “brain” of construction, we’re now launching production-ready AI agents, starting with intelligent document processing and Q&A, and rapidly expanding into core operational workflows. Our team has doubled in the past year, and with 65+ employees (25+ engineers), we’re scaling fast and entering a period of hypergrowth. This is a rare opportunity to join at an inflection point. What you will do and achieve: Own and evolve core parts of our AI platform, spanning search, retrieval, and multi-agent orchestration. Lead the design and build-out of a multi-agent system, including defining new agent “pillars” and how they collaborate in production. Architect and scale document processing pipelines (Kubernetes-based), including ingestion, parsing, chunking, indexing, and structured data extraction across heterogeneous document types. Design and iterate on search and retrieval systems (ranking, query understanding, QA) grounded in real user behavior and product needs. Help build and expand our knowledge graph, modeling entities and relationships to power downstream reasoning and retrieval. Drive ambiguous, high-impact projects end-to-end, from problem definition through experimentation and productionization. Establish and improve evaluation and experimentation frameworks to measure system quality and guide iteration. Write clean, maintainable, production-grade code and raise the bar for engineering quality across the team. Who you are: 7+ years of experience building and shipping production ML/AI systems. Proven track record of leading complex, ambiguous projects and driving them to impact. Strong experience with agentic systems, LLM-based applications, or orchestration frameworks. Deep experience in document processing pipelines (e.g., parsing, chunking, indexing, structured extraction), ideally in distributed systems (Kubernetes or similar). Experience building or working with knowledge graphs / provenance graphs and modeling relationships between entities. Background in one or more of: search/ranking systems, NLP, recommendation systems, or large-scale data/ML infrastructure. Strong coding skills (Python, Go, or similar) with an emphasis on production systems. Highly analytical, product-minded, and comfortable using data to drive decisions. Bonus : experience in construction or other document-heavy industries. What we offer 🎖️ A close-knit and collaborative early-stage startup environment where every voice is heard and every opinion matters 💰 Competitive salary and stock option equity packages 🏥 4 Medical Plans to choose from including 100% covered option. Plus Dental and Vision Insurance! 🤓 Learning & Growth stipend 🏠 Flexible long-term work options (remote and hybrid) 🥨 Free lunch provided in the office in NYC & Austin - you’ll never go hungry with us! 🛫 Unlimited PTO; We truly believe in work-life balance and that hard work should be balanced with time for rest and rejuvenation 🏝 IRL / In-Person retreats throughout the year Please note: All official communication from Trunk Tools will come from an email address ending in @ trunk.tools . If you receive outreach from any other domain, please disregard it or report it to us. At Trunk Tools, we’re working hard to build a more productive and safer environment within the construction industry, and we strive to live by these same values here at Trunk Tools HQ. As an equal-opportunity employer, we are committed to building an inclusive environment where you can be you. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, pregnancy, gender expression or identity, sexual orientation, or any other legally protected class. Please mention the word **EMINENT** and tag RNjQuMjM2LjIwMS4xOQ== when applying to show you read the job post completely (#RNjQuMjM2LjIwMS4xOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "At Trunk Tools, we’re the leading AI company revolutionizing construction, the second-largest industry on earth. We recently raised a $40M Series B led by Insight Partners, bringing our total funding to $70M from top-tier investors including Redpoint and Innovation Endeavors. This new round is fueling our next phase of growth as we scale AI agents across the jobsite. Our mission is to build the future of...",
       "jd_language": "en",
       "skills": [
@@ -86,7 +86,7 @@
       "relevance_score": 16,
       "company": "Cohere",
       "location": "",
-      "jd": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers. Cohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of the best in the world at what they do. We believe that a diverse range of perspectives is a requirement for building great products. Join us on our mission and shape the future! About North: North is Cohere's cutting-edge AI workspace platform, designed to revolutionize the way enterprises utilize AI. It offers a secure and customizable environment, allowing companies to deploy AI while maintaining control over sensitive data. North integrates seamlessly with existing workflows, providing a trusted platform that connects AI agents with workplace tools and applications. Why This Role? This role offers a unique opportunity to shape how enterprises harness the power of AI in real-world applications. As a bridge between our core North product and our clients’ engineering teams, you’ll be at the forefront of solving complex problems and securely integrating AI into critical sectors such as finance, healthcare, and telecommunications. We are seeking engineers with diverse skill sets, including backend, infrastructure, agent development, and deployments, who deeply care about customers and want to work at the cutting edge of Agentic AI. Note: between 20 - 40% travel anticipated In this role, you will: Build and ship features for North, our AI workspace platform Develop autonomous agents that talk to sensitive enterprise data Experiment at a high velocity and with a high level of quality to engage our customers and ultimately deliver solutions that exceed their expectations Work across the entire product lifecycle from conceptualization through production You may be a good fit if: You have experience with and enjoy working directly with customers You are fluent in both English and Arabic You have shipped (lots of) Python in production You have built and deployed highly performant client-side or server-side RAG/agentic applications You have strong coding abilities and are comfortable working across the stack. You’re able to read and understand, and even fix issues outside of the main code base You excel in fast-paced environments and can execute while priorities and objectives are a moving target We are open to candidates currently based in the Middle East or who are open to travelling or relocating. If some of the above doesn’t line up perfectly with your experience, we still encourage you to apply! We value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form , and we will work together to meet your needs. Full-Time Employees at Cohere enjoy these Perks: 🤝 An open and inclusive culture and work environment 🧑‍💻 Work closely with a team on the cutting edge of AI research 🍽 Weekly lunch stipend, in-office lunches & snacks 🦷 Full health and dental benefits, including a separate budget to take care of your mental health 🐣 100% Parental Leave top-up for up to 6 months 🎨 Personal enrichment benefits towards arts and culture, fitness and well-being, quality time, and workspace improvement 🏙 Remote-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co-working stipend ✈️ 6 weeks of vacation (30 working days!) Please mention the word **LIKABLE** and tag RMTU4LjIzLjkzLjE2OQ== when applying to show you read the job post completely (#RMTU4LjIzLjkzLjE2OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers. Cohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of the best in the world at what they do. We believe that a diverse range of perspectives is a requirement for building great products. Join us on our mission and shape the future! About North: North is Cohere's cutting-edge AI workspace platform, designed to revolutionize the way enterprises utilize AI. It offers a secure and customizable environment, allowing companies to deploy AI while maintaining control over sensitive data. North integrates seamlessly with existing workflows, providing a trusted platform that connects AI agents with workplace tools and applications. Why This Role? This role offers a unique opportunity to shape how enterprises harness the power of AI in real-world applications. As a bridge between our core North product and our clients’ engineering teams, you’ll be at the forefront of solving complex problems and securely integrating AI into critical sectors such as finance, healthcare, and telecommunications. We are seeking engineers with diverse skill sets, including backend, infrastructure, agent development, and deployments, who deeply care about customers and want to work at the cutting edge of Agentic AI. Note: between 20 - 40% travel anticipated In this role, you will: Build and ship features for North, our AI workspace platform Develop autonomous agents that talk to sensitive enterprise data Experiment at a high velocity and with a high level of quality to engage our customers and ultimately deliver solutions that exceed their expectations Work across the entire product lifecycle from conceptualization through production You may be a good fit if: You have experience with and enjoy working directly with customers You are fluent in both English and Arabic You have shipped (lots of) Python in production You have built and deployed highly performant client-side or server-side RAG/agentic applications You have strong coding abilities and are comfortable working across the stack. You’re able to read and understand, and even fix issues outside of the main code base You excel in fast-paced environments and can execute while priorities and objectives are a moving target We are open to candidates currently based in the Middle East or who are open to travelling or relocating. If some of the above doesn’t line up perfectly with your experience, we still encourage you to apply! We value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form , and we will work together to meet your needs. Full-Time Employees at Cohere enjoy these Perks: 🤝 An open and inclusive culture and work environment 🧑‍💻 Work closely with a team on the cutting edge of AI research 🍽 Weekly lunch stipend, in-office lunches & snacks 🦷 Full health and dental benefits, including a separate budget to take care of your mental health 🐣 100% Parental Leave top-up for up to 6 months 🎨 Personal enrichment benefits towards arts and culture, fitness and well-being, quality time, and workspace improvement 🏙 Remote-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co-working stipend ✈️ 6 weeks of vacation (30 working days!) Please mention the word **LIKABLE** and tag RNjQuMjM2LjIwMS4xOQ== when applying to show you read the job post completely (#RNjQuMjM2LjIwMS4xOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to...",
       "jd_language": "en",
       "skills": [
@@ -329,7 +329,7 @@
       "relevance_score": 10,
       "company": "Sticker Mule",
       "location": "",
-      "jd": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers. Work performed Identify where agents can help and build them accordingly. Work with department leads to assess AI needs. Help connect agents to appropriate third-party and internal tools. Measure results and remove agents that don't deliver. Test new tools and models as they ship and adopt what works. Advise others on AI capabilities to help them perform. Requirements Experience building agents that run on their own and do meaningful work Strong with Grok, Claude, OpenAI, and open source Comfortable in Go, TypeScript, GraphQL, Postgres, GCP Writes clearly in English Compensation Salary: $150,000–$250,000 USD $20,000 signing bonus 4 weeks vacation + country-specific holidays Fully remote Please mention the word **HUMOUR** and tag RMTU4LjIzLjkzLjE2OQ== when applying to show you read the job post completely (#RMTU4LjIzLjkzLjE2OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers. Work performed Identify where agents can help and build them accordingly. Work with department leads to assess AI needs. Help connect agents to appropriate third-party and internal tools. Measure results and remove agents that don't deliver. Test new tools and models as they ship and adopt what works. Advise others on AI capabilities to help them perform. Requirements Experience building agents that run on their own and do meaningful work Strong with Grok, Claude, OpenAI, and open source Comfortable in Go, TypeScript, GraphQL, Postgres, GCP Writes clearly in English Compensation Salary: $150,000–$250,000 USD $20,000 signing bonus 4 weeks vacation + country-specific holidays Fully remote Please mention the word **HUMOUR** and tag RNjQuMjM2LjIwMS4xOQ== when applying to show you read the job post completely (#RNjQuMjM2LjIwMS4xOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers. Work performed Identify where agents can help and build them accordingly. Work with department leads to assess AI needs. Help connect...",
       "jd_language": "en",
       "skills": [
@@ -504,7 +504,7 @@
       "source": "GitHub RAG Repositories",
       "title": "headroomlabs-ai/headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
-      "published_at": "2026-10-10T05:04:40+00:00",
+      "published_at": "2026-10-11T04:48:05+00:00",
       "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "tags": [
         "agent",
@@ -532,8 +532,70 @@
       ],
       "relevance_score": 16,
       "repo": "headroomlabs-ai/headroom",
-      "stars": 74852,
+      "stars": 74966,
       "language": "Python"
+    },
+    {
+      "id": "7699ead083dace74",
+      "section": "github_repos",
+      "source": "GitHub LLM Repositories",
+      "title": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "published_at": "2026-10-11T04:51:00+00:00",
+      "summary": "An open-source AI coding agent that lives in your terminal.",
+      "tags": [
+        "agentic",
+        "agents",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "ai_coding",
+        "cli",
+        "coding-agent",
+        "developer-tools",
+        "github",
+        "llm",
+        "mcp",
+        "qwen",
+        "terminal",
+        "typescript"
+      ],
+      "relevance_score": 14,
+      "repo": "QwenLM/qwen-code",
+      "stars": 28408,
+      "language": "TypeScript"
+    },
+    {
+      "id": "0098cbbd90db01f2",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "SourceWeft/SourceWeft",
+      "url": "https://github.com/SourceWeft/SourceWeft",
+      "published_at": "2026-10-11T04:39:40+00:00",
+      "summary": "Open-source, self-hostable alternative to ChatGPT and NotebookLM — agents, skills, MCP, and cited knowledge in one AI workstation. Your models, your infrastructure. Free to use GPT 6: https://SourceWeft.com/",
+      "tags": [
+        "agentic-ai",
+        "agentic-rag",
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatbot",
+        "generative-ai",
+        "github",
+        "knowledge-base",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "notebooklm",
+        "rag",
+        "self-hosted",
+        "skills",
+        "workbuddy"
+      ],
+      "relevance_score": 14,
+      "repo": "SourceWeft/SourceWeft",
+      "stars": 195,
+      "language": "TypeScript"
     },
     {
       "id": "8f2db0354e045f5e",
@@ -541,7 +603,7 @@
       "source": "GitHub RAG Repositories",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "published_at": "2026-10-10T04:53:50+00:00",
+      "published_at": "2026-10-11T04:34:47+00:00",
       "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "tags": [
         "agent",
@@ -569,100 +631,99 @@
       ],
       "relevance_score": 14,
       "repo": "langgenius/dify",
-      "stars": 158038,
+      "stars": 158106,
       "language": "TypeScript"
     },
     {
-      "id": "e1fbdfd70d6dc94b",
+      "id": "e5e60e97f977cd7e",
       "section": "github_repos",
       "source": "GitHub RAG Repositories",
-      "title": "pixeltable/pixeltable",
-      "url": "https://github.com/pixeltable/pixeltable",
-      "published_at": "2026-10-10T03:58:54+00:00",
-      "summary": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+      "title": "nageoffer/ragent",
+      "url": "https://github.com/nageoffer/ragent",
+      "published_at": "2026-10-11T03:57:47+00:00",
+      "summary": "企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。",
       "tags": [
+        "agent",
+        "agentic-rag",
         "agents",
         "ai",
-        "ai_infra",
-        "backend",
-        "computer-vision",
-        "data-science",
-        "database",
-        "genai",
         "github",
         "llm",
-        "machine-learning",
-        "multimodal",
-        "postgres",
-        "python",
+        "mcp",
         "rag",
-        "vector-database"
+        "springai"
       ],
       "relevance_score": 14,
-      "repo": "pixeltable/pixeltable",
-      "stars": 1639,
+      "repo": "nageoffer/ragent",
+      "stars": 4237,
+      "language": "Java"
+    },
+    {
+      "id": "715f479c65d2ea95",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "Shy2593666979/AgentChat",
+      "url": "https://github.com/Shy2593666979/AgentChat",
+      "published_at": "2026-10-11T03:52:50+00:00",
+      "summary": "AgentChat 是一个基于 LLM 的智能体交流平台，内置默认 Agent 并支持用户自定义 Agent。通过多轮对话和任务协作，Agent 可以理解并协助完成复杂任务。项目集成 LangChain、Function Call、MCP 协议、RAG、Memory、HITL、Skill、Milvus 和 ElasticSearch 等技术，实现高效的知识检索与工具调用，使用 FastAPI 构建高性能后端服务。",
+      "tags": [
+        "agent",
+        "agent-memory",
+        "agent-skills",
+        "agents",
+        "github",
+        "human-in-the-loop",
+        "langchain",
+        "llm",
+        "mcp",
+        "mcp-client",
+        "mcp-server",
+        "mysql",
+        "rag",
+        "redis"
+      ],
+      "relevance_score": 14,
+      "repo": "Shy2593666979/AgentChat",
+      "stars": 914,
       "language": "Python"
     },
     {
-      "id": "735296d96b847c08",
+      "id": "3dc3d2b8282aa10e",
       "section": "github_repos",
       "source": "GitHub RAG Repositories",
-      "title": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "published_at": "2026-10-10T05:05:18+00:00",
-      "summary": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "title": "winstonkoh87/Athena-Public",
+      "url": "https://github.com/winstonkoh87/Athena-Public",
+      "published_at": "2026-10-11T03:36:20+00:00",
+      "summary": "The compounding context layer for AI coding agents, portable across IDEs.. Own the state. Rent the intelligence. Plain Markdown on your disk, driven by a session routine that turns today's work into what tomorrow's agent already knows. Swap models or switch IDEs on a whim. The intelligence is rented; the state belongs to you.",
       "tags": [
-        "agent",
-        "agentic",
         "agents",
         "ai",
-        "chatbot",
-        "dsh-plugin",
-        "embeddings",
-        "evaluation",
-        "generative-ai",
+        "ai-agents",
+        "ai-assistant",
+        "ai_coding",
+        "automation",
+        "chatgpt",
+        "developer-tools",
+        "framework",
+        "gemini",
         "github",
-        "golang",
-        "knowledge-base",
+        "google-antigravity",
+        "graphrag",
+        "knowledge-management",
         "llm",
-        "multi-tenant",
-        "ollama",
-        "openai",
-        "question-answering",
+        "local-first",
+        "memory",
+        "open-source",
+        "prompt-engineering",
+        "python",
         "rag",
-        "reranking",
         "semantic-search",
-        "vector-search",
-        "wiki"
+        "vector-search"
       ],
-      "relevance_score": 13,
-      "repo": "Tencent/WeKnora",
-      "stars": 32897,
-      "language": "Go"
-    },
-    {
-      "id": "2841b33bc6b44c66",
-      "section": "github_repos",
-      "source": "GitHub LLM Repositories",
-      "title": "genkit-ai/genkit",
-      "url": "https://github.com/genkit-ai/genkit",
-      "published_at": "2026-10-10T05:03:43+00:00",
-      "summary": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google",
-      "tags": [
-        "agents",
-        "ai",
-        "embedders",
-        "genkit",
-        "github",
-        "llm",
-        "multimodal",
-        "rag",
-        "vector-database"
-      ],
-      "relevance_score": 13,
-      "repo": "genkit-ai/genkit",
-      "stars": 6507,
-      "language": "TypeScript"
+      "relevance_score": 14,
+      "repo": "winstonkoh87/Athena-Public",
+      "stars": 600,
+      "language": "Python"
     },
     {
       "id": "1505348ff667795f",
@@ -670,7 +731,7 @@
       "source": "GitHub LLM Repositories",
       "title": "DemonDamon/AgenticX",
       "url": "https://github.com/DemonDamon/AgenticX",
-      "published_at": "2026-10-10T04:59:34+00:00",
+      "published_at": "2026-10-11T04:53:28+00:00",
       "summary": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
       "tags": [
         "agent-framework",
@@ -693,37 +754,8 @@
       ],
       "relevance_score": 13,
       "repo": "DemonDamon/AgenticX",
-      "stars": 335,
+      "stars": 361,
       "language": "Python"
-    },
-    {
-      "id": "6b4228b4b5cec72d",
-      "section": "github_repos",
-      "source": "GitHub LLM Repositories",
-      "title": "mastra-ai/mastra",
-      "url": "https://github.com/mastra-ai/mastra",
-      "published_at": "2026-10-10T04:54:22+00:00",
-      "summary": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
-      "tags": [
-        "agents",
-        "ai",
-        "chatbots",
-        "evals",
-        "github",
-        "javascript",
-        "llm",
-        "mcp",
-        "nextjs",
-        "nodejs",
-        "reactjs",
-        "tts",
-        "typescript",
-        "workflows"
-      ],
-      "relevance_score": 13,
-      "repo": "mastra-ai/mastra",
-      "stars": 28674,
-      "language": "TypeScript"
     },
     {
       "id": "bb12a20c111b5903",
@@ -731,7 +763,7 @@
       "source": "GitHub RAG Repositories",
       "title": "r-uby-dev/llm",
       "url": "https://github.com/r-uby-dev/llm",
-      "published_at": "2026-10-10T04:06:39+00:00",
+      "published_at": "2026-10-11T04:47:24+00:00",
       "summary": "An agentic runtime",
       "tags": [
         "a2a",
@@ -760,76 +792,41 @@
       "language": "Ruby"
     },
     {
-      "id": "416d786b8aa3a199",
+      "id": "735296d96b847c08",
       "section": "github_repos",
       "source": "GitHub RAG Repositories",
-      "title": "vitali87/code-graph-rag",
-      "url": "https://github.com/vitali87/code-graph-rag",
-      "published_at": "2026-10-10T04:40:07+00:00",
-      "summary": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "title": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "published_at": "2026-10-11T04:46:31+00:00",
+      "summary": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "tags": [
+        "agent",
+        "agentic",
+        "agents",
         "ai",
-        "ast",
-        "claude-code",
-        "code-analysis",
-        "code-understanding",
-        "codebase-search",
-        "developer-tools",
+        "chatbot",
+        "dsh-plugin",
+        "embeddings",
+        "evaluation",
+        "generative-ai",
         "github",
-        "graph-database",
-        "knowledge-graph",
+        "golang",
+        "knowledge-base",
         "llm",
-        "mcp",
-        "mcp-server",
-        "memgraph",
-        "monorepo",
-        "multi-language",
-        "python",
-        "rag",
-        "retrieval-augmented-generation",
-        "semantic-search",
-        "tree-sitter"
-      ],
-      "relevance_score": 12,
-      "repo": "vitali87/code-graph-rag",
-      "stars": 5240,
-      "language": "Python"
-    },
-    {
-      "id": "336f7951c65ba7f8",
-      "section": "github_repos",
-      "source": "GitHub RAG Repositories",
-      "title": "pipeshub-ai/pipeshub-ai",
-      "url": "https://github.com/pipeshub-ai/pipeshub-ai",
-      "published_at": "2026-10-10T04:36:11+00:00",
-      "summary": "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 40+ connectors) into a permission-aware workspace that agents can search, grep, navigate and cite. MCP, SDKs and built-in agents. Self-hosted.",
-      "tags": [
-        "agentic-rag",
-        "ai",
-        "ai-agents",
-        "claude-code",
-        "context-engineering",
-        "context-layer",
-        "deep-research",
-        "enterprise-search",
-        "github",
-        "glean",
-        "graphrag",
-        "hybrid-search",
-        "knowledge-graph",
-        "llm",
-        "mcp",
-        "mcp-server",
+        "multi-tenant",
         "ollama",
-        "python",
+        "openai",
+        "question-answering",
         "rag",
-        "self-hosted",
-        "workplace-ai"
+        "reranking",
+        "semantic-search",
+        "vector-search",
+        "wiki"
       ],
-      "relevance_score": 12,
-      "repo": "pipeshub-ai/pipeshub-ai",
-      "stars": 3825,
-      "language": "Python"
+      "relevance_score": 13,
+      "repo": "Tencent/WeKnora",
+      "stars": 33052,
+      "language": "Go"
     }
   ],
   "knowledge_trends": [
@@ -842,36 +839,7 @@
         "tool use",
         "function calling"
       ],
-      "evidence_count": 34,
-      "evidence": [
-        {
-          "title": "ML Engineer",
-          "section": "jobs",
-          "url": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329"
-        },
-        {
-          "title": "Forward Deployed Engineer Agentic Platform",
-          "section": "jobs",
-          "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611"
-        },
-        {
-          "title": "Senior Independent AI Engineer / Architect",
-          "section": "jobs",
-          "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266"
-        }
-      ],
-      "status": "daily_evidence"
-    },
-    {
-      "name": "Retrieval-Augmented Generation",
-      "summary": "Knowledge-grounded LLM systems built on retrieval, vector search, and citations.",
-      "keywords": [
-        "rag",
-        "retrieval",
-        "vector",
-        "embedding"
-      ],
-      "evidence_count": 22,
+      "evidence_count": 36,
       "evidence": [
         {
           "title": "ML Engineer",
@@ -900,7 +868,7 @@
         "developer tool",
         "ide"
       ],
-      "evidence_count": 19,
+      "evidence_count": 22,
       "evidence": [
         {
           "title": "ML Engineer",
@@ -921,13 +889,42 @@
       "status": "daily_evidence"
     },
     {
+      "name": "Retrieval-Augmented Generation",
+      "summary": "Knowledge-grounded LLM systems built on retrieval, vector search, and citations.",
+      "keywords": [
+        "rag",
+        "retrieval",
+        "vector",
+        "embedding"
+      ],
+      "evidence_count": 20,
+      "evidence": [
+        {
+          "title": "ML Engineer",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329"
+        },
+        {
+          "title": "Forward Deployed Engineer Agentic Platform",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611"
+        },
+        {
+          "title": "Senior Independent AI Engineer / Architect",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266"
+        }
+      ],
+      "status": "daily_evidence"
+    },
+    {
       "name": "Model Context Protocol",
       "summary": "A tool and context integration pattern for connecting AI apps to external systems.",
       "keywords": [
         "mcp",
         "model context protocol"
       ],
-      "evidence_count": 8,
+      "evidence_count": 9,
       "evidence": [
         {
           "title": "MCP vs. Hooks: Enforcing Security in AI Coding Agents - Semgrep",
@@ -940,9 +937,9 @@
           "url": "https://github.com/headroomlabs-ai/headroom"
         },
         {
-          "title": "langgenius/dify",
+          "title": "QwenLM/qwen-code",
           "section": "github_repos",
-          "url": "https://github.com/langgenius/dify"
+          "url": "https://github.com/QwenLM/qwen-code"
         }
       ],
       "status": "daily_evidence"
@@ -956,7 +953,7 @@
         "observability",
         "benchmark"
       ],
-      "evidence_count": 6,
+      "evidence_count": 4,
       "evidence": [
         {
           "title": "ML Engineer",
@@ -999,19 +996,10 @@
     {
       "tag": "ai_infra",
       "sections": [
-        "github_repos",
         "jobs",
         "news"
       ],
-      "insight": "AI 基础设施同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
-    },
-    {
-      "tag": "evals",
-      "sections": [
-        "github_repos",
-        "jobs"
-      ],
-      "insight": "评测与可观测性同时出现在GitHub 项目、岗位中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
+      "insight": "AI 基础设施同时出现在岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
     },
     {
       "tag": "llmops",
@@ -1020,6 +1008,14 @@
         "news"
       ],
       "insight": "LLMOps同时出现在岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
+    },
+    {
+      "tag": "mcp",
+      "sections": [
+        "github_repos",
+        "news"
+      ],
+      "insight": "MCP同时出现在GitHub 项目、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
     }
   ],
   "errors": [],
