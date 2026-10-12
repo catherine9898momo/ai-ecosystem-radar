@@ -1,4 +1,4 @@
-# AI 新闻动态 - 2026-10-11
+# AI 新闻动态 - 2026-10-12
 
 新闻覆盖：10/5（达标）
 
@@ -26,21 +26,15 @@
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
+### [OutSystems Agent Experience Is Now Generally Available, Bringing Governed AI Development to Any Coding Agent - PR Newswire](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNN1B6b1BpVTVkOFRfT195UzZPZTlhU3dMaEo0OFp3Z2hNYWwtdzJTYnJ6VWVXZURqaFpuOXhTZU5kRzNyZENyT0IySFRxbmppQ1d6empUSG1PYzR4RjVmNUg1WG1haFQ2R3lLS3RDN3pUQ05KdDJUY0dQUkx5MDlxcXJKaWpMbXVqdUF5bGptWXd6THJ0R1ZrR0dMNG1uTFItb1J5NG9ZY0xzQnhqRlh5SDNWTi1DRHY1Q0ppOXQyZlRhbW1MMlNBV2xSWVk3aFhkZG41NEFjTV9GUFo3NFQtZ191T1QwRGplaHIxQnktT2gxWmxrSGxuY0hOdnM?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-10-08T04:00:00+00:00
+- 标签：智能体、AI 编程
+- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
+
 ### [OutSystems opens Agent Experience to third-party AI agents - IT Brief Australia](https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3VBeXJJbnd3VHZJbDJnSDY3V0VDVWpsSkNpOGhFRGthWkhRMGlNRmtYam9TOXMtaXp5WlQtMGJENmluUVBmb0x6dWFIZGdlbzZOODJfWkNGa0NQYU5tcjRaUXBMaGpNU1hvSmdZSzJKX21UaXB3QlNoR2hlbWJ5Vm5zU2RnV25ZWW9lU2pSTHg?oc=5)
 - 来源：AI Coding Tools News
 - 发布时间：2026-10-07T22:43:50+00:00
-- 标签：智能体、AI 编程
-- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [Jellyfish Advances Developer and Agent Productivity Insights for the AI-Native SDLC - SD Times](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTTNTd3BzWklxaXhUM3pmcTZiZTFvMi1fSE5pTm05UEpuNmRnZW53bDN2bGFHaE9yNWV0N1RmXzlCRk1rMmpCU21WUWdLYTN1M2hZSmhJclF3eDdpTGRNSFhMNGhJR1VhbWwydnh1M2xaczc0bUFMRzFTLWI0elhfRVNnMWZpUUZHRmViY3ZmdVBKMERDZE5lWUlvdE5pRXk1aE80d0lPWTR6V1Foa0pzaTZKamVyYVV6dDNkeGwzUVhESjhYYzBMekoxOFQzc05n?oc=5)
-- 来源：AI Coding Tools News
-- 发布时间：2026-10-07T20:36:50+00:00
-- 标签：智能体、AI 编程
-- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [OutSystems Agent Experience Is Now Generally Available, Bringing Governed AI Development to Any Coding Agent - Business Wire](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQnVYNmZIT2xFUFVHbGprb2RMTU40RE5WRzloRkFzQk9JQ3FfSlJFLVNFdjBlRWt0QUF2dVotVFZwdHVUYUlwWlpndWNaR1VTaTNUU2pLSHAtUjExTFdTWWVGaWJpV1NPRXdKRFpJb1JHZHN3dDBMSUIzWU4wSjhKUVdFblFjcERWbTE5c1J5NGg0TUhUeVZIUGk4dnlLNEIyWVFCOXBYNDlVSHZidUoxVUthRW50NVFWbE1qZ1BNT1djRmxUcF9nSS0tZlJfSkthU1FCU2lNVHVhSExickJMcGd6NkQ5OE5NcnFuc25PNEpmUVdYWXV3?oc=5)
-- 来源：AI Coding Tools News
-- 发布时间：2026-10-07T17:00:00+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
@@ -49,6 +43,12 @@
 - 发布时间：2026-10-06T00:03:09+00:00
 - 标签：MCP、AI 编程
 - 摘要：这条动态与MCP、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJKXy1xWWNFX3hLZktkaW5tZ2Q3cHoyZ3FnTDRHM2hQSlFjRVJ5X253RUNmZTg5VjJtOUFnMlhpZHN5VU5meVFGTWRFbWprUnBrb3pnMjl1bjJIUWdjQ2ZXa0w5V2g0X3E4ODloa0FmTXc3MTlHMDBQZFh6LXpYbTUwbVBYcTZSMEh1MXRQbFdyRFdBbzhPbmFn?oc=5)
+- 来源：AI Model Releases
+- 发布时间：2026-09-30T07:00:00+00:00
+- 标签：智能体、模型发布
+- 摘要：这条动态与智能体、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
 ### [Momentic debuts Mo AI agent to automate software testing without scripts - SiliconANGLE](https://news.google.com/rss/articles/CBMirgFBVV95cUxNN0F4UUpvbkpBZ0lhN202dHEtbmh0QUdhQVVITGNxdGNlVVllcVBwOGVqTW9Pb2hGRk9NVXhLRXc5MkF5eGpIeTQwRno5eUlUa3ZYM05odFNtT1VuZ0lxc2JnVjNlQmFfMHZfVG9fcWF0b0JUdmJHOGxSTFJGWFdiVnZiU2k2NDFWbmZ2bFhhMlROV19XaVdfTzZRT05fQjNlbERLVHUyWVF1ZjdMa3c?oc=5)
 - 来源：AI Coding Tools News
