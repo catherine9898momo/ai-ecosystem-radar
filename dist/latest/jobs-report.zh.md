@@ -1,4 +1,4 @@
-# AI 岗位趋势 - 2026-10-13
+# AI 岗位趋势 - 2026-10-14
 
 岗位覆盖：10/5（达标）
 
@@ -101,13 +101,13 @@
 - JD 原文摘录：Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates —...
 - JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、JavaScript、Agents；岗位范围为 Global Remote；发布方为 Lemon.io。
 
-### [AI agent engineer](https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399)
-- 公司：Sticker Mule
+### [Video Data Annotator](https://remoteOK.com/remote-jobs/remote-video-data-annotator-imerit-technology-1137428)
+- 公司：iMerit Technology
 - 地区：未知
 - 来源：RemoteOK AI Jobs
 - 匹配范围：Global Remote
-- 标签：智能体、远程岗位
-- 技能点：TypeScript、Agents、SQL
-- 关注点：该岗位信号与智能体、远程岗位 相关，显示 Sticker Mule 在 未标明地区 对相关 AI 能力有招聘需求。
-- JD 原文摘录：Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers. Work performed Identify where agents can help and build them accordingly. Work with department leads to assess AI needs. Help connect...
-- JD 中文解读：该岗位要求的核心技能包括 TypeScript、Agents、SQL；岗位范围为 Global Remote；发布方为 Sticker Mule。
+- 标签：评测与可观测性、多模态、远程岗位
+- 技能点：评测
+- 关注点：该岗位信号与评测与可观测性、多模态、远程岗位 相关，显示 iMerit Technology 在 未标明地区 对相关 AI 能力有招聘需求。
+- JD 原文摘录：Location: Remote Engagement: Independent Contractor | Project-Based iMerit, an EXL company, is looking for Video Data Annotators to support an AI training project. You’ll review video footage and annotate actions, objects, and events according to detailed project guidelines. No prior AI experience is required. Responsibilities Review and annotate videos. Identify and label actions, objects, and events accurately....
+- JD 中文解读：该岗位要求的核心技能包括 评测；岗位范围为 Global Remote；发布方为 iMerit Technology。

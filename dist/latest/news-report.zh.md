@@ -1,4 +1,4 @@
-# AI 新闻动态 - 2026-10-13
+# AI 新闻动态 - 2026-10-14
 
 新闻覆盖：10/5（达标）
 
@@ -20,15 +20,33 @@
 - 标签：LLMOps、AI 基础设施、模型发布
 - 摘要：这条动态与LLMOps、AI 基础设施、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [OutSystems opens Agent Experience to third-party AI agents - IT Brief Australia](https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3VBeXJJbnd3VHZJbDJnSDY3V0VDVWpsSkNpOGhFRGthWkhRMGlNRmtYam9TOXMtaXp5WlQtMGJENmluUVBmb0x6dWFIZGdlbzZOODJfWkNGa0NQYU5tcjRaUXBMaGpNU1hvSmdZSzJKX21UaXB3QlNoR2hlbWJ5Vm5zU2RnV25ZWW9lU2pSTHg?oc=5)
+### [Digits Launches Write MCP, the Safe Way for AI Agents to do Accounting - CPA Practice Advisor](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTi1VYnlaSzdZVkQtZ0xsOU1Tc0ZSV2pFNEJpdnYyRnJsM3MxeEdmaDhpc0ZyejAtckVBVk41azRWcjVUci0zdVM4OXJoeFpjdjZQVmhkUWd3R3o5eEpiNjdXaUtYYUZmQUt5VXRxNTJ5X04tQlVQeTRkXzhubndUQ3N2RVg0Y1p4ZUpiWFRvRlhaaG51eHhfRjJOMHJqQzJ0UFJfR2Ztc0RWSE5CZEplWFI4NlFyNTRxX3pnRGlYeE8?oc=5)
+- 来源：AI Agents News
+- 发布时间：2026-10-13T22:14:42+00:00
+- 标签：智能体、MCP
+- 摘要：这条动态与智能体、MCP相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [NinjaOne Brings Governed Agentic AI to Unified IT Operations with Katana AI and MCP - VMblog](https://news.google.com/rss/articles/CBMirAFBVV95cUxPRHlIX1YwZUdtSXU4eFhMODByNHVCQ09vdzlHakZ0ZnFFNkliaFZSaUJoczllMjlZNTFIOFBscXIxaWFCTlRSNVRrRVVsZFZBVVpaZGlPWjl2VGR6Y05GeU5ldU9vR3QyVUV1UG1STHdNMWp4UkNkVzh6a1ZYb2lCZTdDbC1mSDhhT3NfTjZSZkhfemVyb1dxRm9VRzJsaFRDc2hKa3djWHI5M3Ri?oc=5)
+- 来源：AI Agents News
+- 发布时间：2026-10-13T20:51:46+00:00
+- 标签：智能体、MCP
+- 摘要：这条动态与智能体、MCP相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [Pharma’s next security problem isn’t the code. It’s what the AI agent can touch. - pharmaphorum](https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUpqRXktVmpSaS1xcm5JR0VKeGJOQTVqQW1nQ3d4eVNhZEJ5OGdUNFlYSW15U1RVVjlvS3BOeVlmRkZCZlBaaEJmV3RmaVMtZUFvQmJET2hLMXJUQTdGRkxKeUtsd19ZTDNDc0NvWXdST1d2U2N2MnhON0RnY3I5VHU2N0lsT3UyTm5qdERxa1Mxd1ZLbGllOFZTUjcxRTl3eUE?oc=5)
 - 来源：AI Coding Tools News
-- 发布时间：2026-10-07T22:43:50+00:00
+- 发布时间：2026-10-13T12:22:53+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [OutSystems Agent Experience Is Now Generally Available, Bringing Governed AI Development to Any Coding Agent - Business Wire](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQnVYNmZIT2xFUFVHbGprb2RMTU40RE5WRzloRkFzQk9JQ3FfSlJFLVNFdjBlRWt0QUF2dVotVFZwdHVUYUlwWlpndWNaR1VTaTNUU2pLSHAtUjExTFdTWWVGaWJpV1NPRXdKRFpJb1JHZHN3dDBMSUIzWU4wSjhKUVdFblFjcERWbTE5c1J5NGg0TUhUeVZIUGk4dnlLNEIyWVFCOXBYNDlVSHZidUoxVUthRW50NVFWbE1qZ1BNT1djRmxUcF9nSS0tZlJfSkthU1FCU2lNVHVhSExickJMcGd6NkQ5OE5NcnFuc25PNEpmUVdYWXV3?oc=5)
+### [OutSystems Agent Experience Is Now Generally Available, Bringing Governed AI Development to Any Coding Agent - PR Newswire](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNN1B6b1BpVTVkOFRfT195UzZPZTlhU3dMaEo0OFp3Z2hNYWwtdzJTYnJ6VWVXZURqaFpuOXhTZU5kRzNyZENyT0IySFRxbmppQ1d6empUSG1PYzR4RjVmNUg1WG1haFQ2R3lLS3RDN3pUQ05KdDJUY0dQUkx5MDlxcXJKaWpMbXVqdUF5bGptWXd6THJ0R1ZrR0dMNG1uTFItb1J5NG9ZY0xzQnhqRlh5SDNWTi1DRHY1Q0ppOXQyZlRhbW1MMlNBV2xSWVk3aFhkZG41NEFjTV9GUFo3NFQtZ191T1QwRGplaHIxQnktT2gxWmxrSGxuY0hOdnM?oc=5)
 - 来源：AI Coding Tools News
-- 发布时间：2026-10-07T17:00:00+00:00
+- 发布时间：2026-10-08T04:00:00+00:00
+- 标签：智能体、AI 编程
+- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [OutSystems opens Agent Experience to third-party AI agents - IT Brief Australia](https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3VBeXJJbnd3VHZJbDJnSDY3V0VDVWpsSkNpOGhFRGthWkhRMGlNRmtYam9TOXMtaXp5WlQtMGJENmluUVBmb0x6dWFIZGdlbzZOODJfWkNGa0NQYU5tcjRaUXBMaGpNU1hvSmdZSzJKX21UaXB3QlNoR2hlbWJ5Vm5zU2RnV25ZWW9lU2pSTHg?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-10-07T22:43:50+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
@@ -38,26 +56,8 @@
 - 标签：MCP、AI 编程
 - 摘要：这条动态与MCP、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [Momentic debuts Mo AI agent to automate software testing without scripts - SiliconANGLE](https://news.google.com/rss/articles/CBMirgFBVV95cUxNN0F4UUpvbkpBZ0lhN202dHEtbmh0QUdhQVVITGNxdGNlVVllcVBwOGVqTW9Pb2hGRk9NVXhLRXc5MkF5eGpIeTQwRno5eUlUa3ZYM05odFNtT1VuZ0lxc2JnVjNlQmFfMHZfVG9fcWF0b0JUdmJHOGxSTFJGWFdiVnZiU2k2NDFWbmZ2bFhhMlROV19XaVdfTzZRT05fQjNlbERLVHUyWVF1ZjdMa3c?oc=5)
-- 来源：AI Coding Tools News
-- 发布时间：2026-09-28T07:00:00+00:00
-- 标签：智能体、AI 编程
-- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
-
 ### [Build your way: Use any AI agent of your choice in Android Studio - blog.google](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMkhlOExaczNiUW0yQlZTSVotTmQ5SGhiMzVqejFDSmxUSHhvT0VERVU5Y2F6LTV1UHBLMm1ZTmtrV3hOLUQ2ME9VLVFZV19mUW5QdG44NmlBbGh4Zm1fNHFfZVFaVkNldmpmc3ZwTFFBOEFfWE5jby1SQjl1ZG1QcTdLd003OXdQSzRQVERXTk1qbTJsWmVuaGFLUDgyeUFzaml0M0x1TQ?oc=5)
 - 来源：AI Coding Tools News
 - 发布时间：2026-09-24T07:00:00+00:00
-- 标签：智能体、AI 编程
-- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [ACM Queue Publishes CAFE(S): A Framework for Improving AI Coding Agent Effectiveness - Business Wire](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQnlsQUJkSC1ST21FX3ExckViZEg0YUxQTUtEbE9LMFZTeTB2RVlMV0t0OEhXTUdxV2s4ejRVR0tXTEU1cS1qRG9QTXZkQW5VT29icVIxSmhjdHU2bk53aUN4YjdCYjZBSk9pSnVTT1VqWng1TGxHTWE1X1NiODd1X0JGc0lHLTR2MTc1dmktclEwM0NWRXdBRzhuQVJNa1E4TWVDbjVPRFVUX0J6bFBrRWNSdUdSSWlGbUEtVDVDLVhRaG42WHdsV0o3a3lMV29UZGhzUA?oc=5)
-- 来源：AI Coding Tools News
-- 发布时间：2026-09-24T07:00:00+00:00
-- 标签：智能体、AI 编程
-- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [Secure AI Coding: Governing every agent, artifact, and identity - Palo Alto Networks](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1V1REVSZTJlaFBrTzBpcE9JLTlXeTVhcEFaVm1aeGUyRUlIaWVneHlGUC1xMFIzOUhmVngxU2hXeDdUN3pjOTM1X19OcXpOYzEzNFhEYldwMjhxMFBlT19CbUpHVlpJWEtyZFVxQ3R6R0JvRkFWdDJaejdZd0FlWS1VYnJqM1Rsa2lJSGtZd0s0NjJXZ3MwbV9yNmYwVGpvV2hFT1dHdkZLS0U?oc=5)
-- 来源：AI Coding Tools News
-- 发布时间：2026-09-10T07:00:00+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
