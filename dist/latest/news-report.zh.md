@@ -1,6 +1,18 @@
-# AI 新闻动态 - 2026-10-14
+# AI 新闻动态 - 2026-10-15
 
 新闻覆盖：10/5（达标）
+
+### [Tensormesh Launches Platform to Cut LLM Inference Costs Through KV-Cache Reuse - Unite.AI](https://news.google.com/rss/articles/CBMibEFVX3lxTE0tc1RxSncyd3dqQVB0ai1qVGtRcmg1VDRsaGpjQkVadVBHM0NtYkpZMGRhZk1fRmtNSklLa0RBaXZPZHRnUGVNTGpSUFY5dUlrcno1ZHluQUFPSnFJQlBPTHNsb3NEZzJGS3RoWg?oc=5)
+- 来源：AI Model Releases
+- 发布时间：2026-10-14T13:00:04+00:00
+- 标签：LLMOps、AI 基础设施、模型发布
+- 摘要：这条动态与LLMOps、AI 基础设施、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [AI Agent Security: Best Practices for Safe Deployment - Security Boulevard](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnpQZFM1M0QteG9CeVgyMm1QcEJoaTY5ODM5d2pnbkYwZTZXYTNtSHpvQ05saFpDeWlaZl9oUHZFS1VEQkJUby1SXzk1N3NjSVBuVnB3TlUwQTNLbFhzN04xamlBd3NUR0pZX1VVdE9DZW54MlJUTUp4bHJxb053RlNHZG8yc09BNTVfU1ZNTGZfRXRGc0E?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-10-13T13:53:53+00:00
+- 标签：智能体、AI 编程、LLMOps
+- 摘要：这条动态与智能体、AI 编程、LLMOps相关，可能反映相关产品、技术或监管方向的新变化。
 
 ### [Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5)
 - 来源：AI Model Releases
@@ -20,18 +32,6 @@
 - 标签：LLMOps、AI 基础设施、模型发布
 - 摘要：这条动态与LLMOps、AI 基础设施、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [Digits Launches Write MCP, the Safe Way for AI Agents to do Accounting - CPA Practice Advisor](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTi1VYnlaSzdZVkQtZ0xsOU1Tc0ZSV2pFNEJpdnYyRnJsM3MxeEdmaDhpc0ZyejAtckVBVk41azRWcjVUci0zdVM4OXJoeFpjdjZQVmhkUWd3R3o5eEpiNjdXaUtYYUZmQUt5VXRxNTJ5X04tQlVQeTRkXzhubndUQ3N2RVg0Y1p4ZUpiWFRvRlhaaG51eHhfRjJOMHJqQzJ0UFJfR2Ztc0RWSE5CZEplWFI4NlFyNTRxX3pnRGlYeE8?oc=5)
-- 来源：AI Agents News
-- 发布时间：2026-10-13T22:14:42+00:00
-- 标签：智能体、MCP
-- 摘要：这条动态与智能体、MCP相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [NinjaOne Brings Governed Agentic AI to Unified IT Operations with Katana AI and MCP - VMblog](https://news.google.com/rss/articles/CBMirAFBVV95cUxPRHlIX1YwZUdtSXU4eFhMODByNHVCQ09vdzlHakZ0ZnFFNkliaFZSaUJoczllMjlZNTFIOFBscXIxaWFCTlRSNVRrRVVsZFZBVVpaZGlPWjl2VGR6Y05GeU5ldU9vR3QyVUV1UG1STHdNMWp4UkNkVzh6a1ZYb2lCZTdDbC1mSDhhT3NfTjZSZkhfemVyb1dxRm9VRzJsaFRDc2hKa3djWHI5M3Ri?oc=5)
-- 来源：AI Agents News
-- 发布时间：2026-10-13T20:51:46+00:00
-- 标签：智能体、MCP
-- 摘要：这条动态与智能体、MCP相关，可能反映相关产品、技术或监管方向的新变化。
-
 ### [Pharma’s next security problem isn’t the code. It’s what the AI agent can touch. - pharmaphorum](https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUpqRXktVmpSaS1xcm5JR0VKeGJOQTVqQW1nQ3d4eVNhZEJ5OGdUNFlYSW15U1RVVjlvS3BOeVlmRkZCZlBaaEJmV3RmaVMtZUFvQmJET2hLMXJUQTdGRkxKeUtsd19ZTDNDc0NvWXdST1d2U2N2MnhON0RnY3I5VHU2N0lsT3UyTm5qdERxa1Mxd1ZLbGllOFZTUjcxRTl3eUE?oc=5)
 - 来源：AI Coding Tools News
 - 发布时间：2026-10-13T12:22:53+00:00
@@ -44,17 +44,17 @@
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [OutSystems opens Agent Experience to third-party AI agents - IT Brief Australia](https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3VBeXJJbnd3VHZJbDJnSDY3V0VDVWpsSkNpOGhFRGthWkhRMGlNRmtYam9TOXMtaXp5WlQtMGJENmluUVBmb0x6dWFIZGdlbzZOODJfWkNGa0NQYU5tcjRaUXBMaGpNU1hvSmdZSzJKX21UaXB3QlNoR2hlbWJ5Vm5zU2RnV25ZWW9lU2pSTHg?oc=5)
-- 来源：AI Coding Tools News
-- 发布时间：2026-10-07T22:43:50+00:00
-- 标签：智能体、AI 编程
-- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
-
 ### [MCP vs. Hooks: Enforcing Security in AI Coding Agents - Semgrep](https://news.google.com/rss/articles/CBMibEFVX3lxTFBwb3hTdFFudXJndWMxVGtndW9obVg3TG1aOU02clVIZnV2MmJwcnJDWWFRUkNHR3N0UUJSMUMzRTRUaEE3aWxGOWFsbjlhdGwxWFRDRTR3amN0ZlJuUlN4bkVBb1lGQUJwZmc0Ng?oc=5)
 - 来源：AI Coding Tools News
 - 发布时间：2026-10-06T00:03:09+00:00
 - 标签：MCP、AI 编程
 - 摘要：这条动态与MCP、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJKXy1xWWNFX3hLZktkaW5tZ2Q3cHoyZ3FnTDRHM2hQSlFjRVJ5X253RUNmZTg5VjJtOUFnMlhpZHN5VU5meVFGTWRFbWprUnBrb3pnMjl1bjJIUWdjQ2ZXa0w5V2g0X3E4ODloa0FmTXc3MTlHMDBQZFh6LXpYbTUwbVBYcTZSMEh1MXRQbFdyRFdBbzhPbmFn?oc=5)
+- 来源：AI Model Releases
+- 发布时间：2026-09-30T07:00:00+00:00
+- 标签：智能体、模型发布
+- 摘要：这条动态与智能体、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
 ### [Build your way: Use any AI agent of your choice in Android Studio - blog.google](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMkhlOExaczNiUW0yQlZTSVotTmQ5SGhiMzVqejFDSmxUSHhvT0VERVU5Y2F6LTV1UHBLMm1ZTmtrV3hOLUQ2ME9VLVFZV19mUW5QdG44NmlBbGh4Zm1fNHFfZVFaVkNldmpmc3ZwTFFBOEFfWE5jby1SQjl1ZG1QcTdLd003OXdQSzRQVERXTk1qbTJsWmVuaGFLUDgyeUFzaml0M0x1TQ?oc=5)
 - 来源：AI Coding Tools News

@@ -1,18 +1,18 @@
-# AI Ecosystem Radar - 2026-10-14
+# AI Ecosystem Radar - 2026-10-15
 
 ## 今日摘要
 
-- agents 在 23 条记录中出现，中文主题可理解为：智能体。
-- rag 在 13 条记录中出现，中文主题可理解为：RAG。
-- mcp 在 10 条记录中出现，中文主题可理解为：MCP。
-- ai_coding 在 9 条记录中出现，中文主题可理解为：AI 编程。
+- agents 在 22 条记录中出现，中文主题可理解为：智能体。
+- rag 在 12 条记录中出现，中文主题可理解为：RAG。
+- ai_coding 在 10 条记录中出现，中文主题可理解为：AI 编程。
 - llm 在 9 条记录中出现，中文主题可理解为：大模型。
+- mcp 在 7 条记录中出现，中文主题可理解为：MCP。
 
 ## 分报告
 
-- [AI 岗位趋势](./2026-10-14-jobs-report.zh.md)
-- [AI 新闻动态](./2026-10-14-news-report.zh.md)
-- [GitHub 热门项目](./2026-10-14-github-report.zh.md)
+- [AI 岗位趋势](./2026-10-15-jobs-report.zh.md)
+- [AI 新闻动态](./2026-10-15-news-report.zh.md)
+- [GitHub 热门项目](./2026-10-15-github-report.zh.md)
 
 ## 知识框架与趋势
 
@@ -24,25 +24,25 @@
 
 ### Retrieval-Augmented Generation
 - 状态：今日有直接证据
-- 证据数量：20
+- 证据数量：19
 - 说明：RAG 关注如何把外部知识检索、向量库和引用证据接入大模型应用。
 - 证据：ML Engineer；Forward Deployed Engineer Agentic Platform；Senior Independent AI Engineer / Architect
 
 ### AI coding workflows
 - 状态：今日有直接证据
-- 证据数量：17
+- 证据数量：19
 - 说明：AI 编程工作流关注 IDE、CLI、代码审查和自动化开发中的模型协作方式。
 - 证据：ML Engineer；Forward Deployed Engineer Agentic Platform；Senior AI Engineer
 
 ### Model Context Protocol
 - 状态：今日有直接证据
-- 证据数量：10
+- 证据数量：7
 - 说明：MCP 关注 AI 应用如何用标准化方式连接工具、数据源和外部系统。
-- 证据：Digits Launches Write MCP, the Safe Way for AI Agents to do Accounting - CPA Practice Advisor；NinjaOne Brings Governed Agentic AI to Unified IT Operations with Katana AI and MCP - VMblog；MCP vs. Hooks: Enforcing Security in AI Coding Agents - Semgrep
+- 证据：MCP vs. Hooks: Enforcing Security in AI Coding Agents - Semgrep；langgenius/dify；askimo-ai/askimo
 
 ### LLM evaluation and observability
 - 状态：今日有直接证据
-- 证据数量：8
+- 证据数量：7
 - 说明：评测与可观测性关注如何测试、追踪和监控生产环境中的大模型行为。
 - 证据：ML Engineer；Senior Independent AI Engineer / Architect；Video Data Annotator
 
