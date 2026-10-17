@@ -1,16 +1,10 @@
-# AI 新闻动态 - 2026-10-16
+# AI 新闻动态 - 2026-10-17
 
 新闻覆盖：10/5（达标）
 
-### [Tensormesh Launches Platform to Cut LLM Inference Costs Through KV-Cache Reuse - Unite.AI](https://news.google.com/rss/articles/CBMibEFVX3lxTE0tc1RxSncyd3dqQVB0ai1qVGtRcmg1VDRsaGpjQkVadVBHM0NtYkpZMGRhZk1fRmtNSklLa0RBaXZPZHRnUGVNTGpSUFY5dUlrcno1ZHluQUFPSnFJQlBPTHNsb3NEZzJGS3RoWg?oc=5)
-- 来源：AI Model Releases
-- 发布时间：2026-10-14T13:00:04+00:00
-- 标签：LLMOps、AI 基础设施、模型发布
-- 摘要：这条动态与LLMOps、AI 基础设施、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [AI Agent Security: Best Practices for Safe Deployment - Security Boulevard](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnpQZFM1M0QteG9CeVgyMm1QcEJoaTY5ODM5d2pnbkYwZTZXYTNtSHpvQ05saFpDeWlaZl9oUHZFS1VEQkJUby1SXzk1N3NjSVBuVnB3TlUwQTNLbFhzN04xamlBd3NUR0pZX1VVdE9DZW54MlJUTUp4bHJxb053RlNHZG8yc09BNTVfU1ZNTGZfRXRGc0E?oc=5)
+### [AI Agent Security: Best Practices for Safe Deployment - GitGuardian Blog](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSWlwWk5QQXNwMEJabHZsb2wtRzROdzZ0cnJlYmQ5ZlRTU2lMRFB1V0lTdlZWSWxGLXNteW1IYVJGNjczMkJWTFJGWlBRakFDb0VNOGtWYkxyY0FXMVE0ODNGLUExNkVVdTd1eXdIbw?oc=5)
 - 来源：AI Coding Tools News
-- 发布时间：2026-10-13T13:53:53+00:00
+- 发布时间：2026-10-13T13:02:14+00:00
 - 标签：智能体、AI 编程、LLMOps
 - 摘要：这条动态与智能体、AI 编程、LLMOps相关，可能反映相关产品、技术或监管方向的新变化。
 
@@ -38,17 +32,17 @@
 - 标签：LLMOps、AI 基础设施、模型发布
 - 摘要：这条动态与LLMOps、AI 基础设施、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
+### [Connect AI Agents to Telemetry with Observe MCP & CLI - Snowflake](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdkJ0T2szRWd4ci1ZRVo2cUF3VFplcUw5c3FrOVJnT2NKNDBrX2NwS3pwdFJYMjhOOTRyZGxBQ1o0OGZKdG5qNEJOX0RqaXFjQWNLcUFseE5CM1dmdkMyUXBRTjI1MFE2YUdwNUZYanZWRjQ2N1RfNV9NUmwtN21jRngzOA?oc=5)
+- 来源：AI Agents News
+- 发布时间：2026-10-16T17:30:47+00:00
+- 标签：智能体、MCP
+- 摘要：这条动态与智能体、MCP相关，可能反映相关产品、技术或监管方向的新变化。
+
 ### [Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side - PR Underground](https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUhWR2tmZmdxMHI2VUdsek5hU3JxVUZUNFkzLUVTYlhNSUY5SzJaYnZPNU1UekFyNnhxeU1Ha3l4SHJ1Zm9FTHBsdS1qdGpfR0g2cW5hU2w1YjRlUFhnNEdJeU05TGZlcHBvNmhjbUZSRHFSR040ZjhPQUJwdWlKb0NmSW5ZamhDVzZsTlQ0Um9ZeXNPRDlWUS1qX2VwUXl0OHFsblpEb1oyaFlKcmJPbmlJRDdRQzlNQjB2dlhOX0U1c0dyVUpFNEUyS08?oc=5)
 - 来源：AI Model Releases
 - 发布时间：2026-10-16T01:08:37+00:00
 - 标签：多模态、模型发布
 - 摘要：这条动态与多模态、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [Pharma’s next security problem isn’t the code. It’s what the AI agent can touch. - pharmaphorum](https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUpqRXktVmpSaS1xcm5JR0VKeGJOQTVqQW1nQ3d4eVNhZEJ5OGdUNFlYSW15U1RVVjlvS3BOeVlmRkZCZlBaaEJmV3RmaVMtZUFvQmJET2hLMXJUQTdGRkxKeUtsd19ZTDNDc0NvWXdST1d2U2N2MnhON0RnY3I5VHU2N0lsT3UyTm5qdERxa1Mxd1ZLbGllOFZTUjcxRTl3eUE?oc=5)
-- 来源：AI Coding Tools News
-- 发布时间：2026-10-13T12:22:53+00:00
-- 标签：智能体、AI 编程
-- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
 ### [OutSystems Agent Experience Is Now Generally Available, Bringing Governed AI Development to Any Coding Agent - PR Newswire](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNN1B6b1BpVTVkOFRfT195UzZPZTlhU3dMaEo0OFp3Z2hNYWwtdzJTYnJ6VWVXZURqaFpuOXhTZU5kRzNyZENyT0IySFRxbmppQ1d6empUSG1PYzR4RjVmNUg1WG1haFQ2R3lLS3RDN3pUQ05KdDJUY0dQUkx5MDlxcXJKaWpMbXVqdUF5bGptWXd6THJ0R1ZrR0dMNG1uTFItb1J5NG9ZY0xzQnhqRlh5SDNWTi1DRHY1Q0ppOXQyZlRhbW1MMlNBV2xSWVk3aFhkZG41NEFjTV9GUFo3NFQtZ191T1QwRGplaHIxQnktT2gxWmxrSGxuY0hOdnM?oc=5)
 - 来源：AI Coding Tools News
@@ -61,3 +55,9 @@
 - 发布时间：2026-10-06T00:03:09+00:00
 - 标签：MCP、AI 编程
 - 摘要：这条动态与MCP、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [DeepSeek-Reasonix: How a poisoned config can hijack an AI coding agent - GitLab](https://news.google.com/rss/articles/CBMifkFVX3lxTFBKNzFrYVR1bzE4c3lVbmFJZ1NhbFlhTzI5Mk1oczFIaWN2dU95OFBuZVlWVTdIQnVEc2JzSGZNbWk0VDJrblZaUEcyUjFxNVRSSklQdERqZm9pU1BKVm5qMVZULWoyMHI3OHB2dk1IcFpaVENfbGZhRERJMTNCQQ?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-10-02T07:00:00+00:00
+- 标签：智能体、AI 编程
+- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
