@@ -1,18 +1,6 @@
-# AI 新闻动态 - 2026-10-17
+# AI 新闻动态 - 2026-10-18
 
 新闻覆盖：10/5（达标）
-
-### [AI Agent Security: Best Practices for Safe Deployment - GitGuardian Blog](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSWlwWk5QQXNwMEJabHZsb2wtRzROdzZ0cnJlYmQ5ZlRTU2lMRFB1V0lTdlZWSWxGLXNteW1IYVJGNjczMkJWTFJGWlBRakFDb0VNOGtWYkxyY0FXMVE0ODNGLUExNkVVdTd1eXdIbw?oc=5)
-- 来源：AI Coding Tools News
-- 发布时间：2026-10-13T13:02:14+00:00
-- 标签：智能体、AI 编程、LLMOps
-- 摘要：这条动态与智能体、AI 编程、LLMOps相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [Critical remote code execution in Serena, a popular MCP coding agent - GitLab](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tckdYU095UnNiWEl1U2k1SS1sbGRTNzhyZDE2Wk9zVDJTME9wbDJzZTU2SVlCTWZLTU1CVkZqUWRmaEpUd2R5bWJ1cW1kbHNXY29BOUxNS1ZRdENoR3VYZ09oWQ?oc=5)
-- 来源：AI Coding Tools News
-- 发布时间：2026-08-17T07:00:00+00:00
-- 标签：智能体、MCP、AI 编程
-- 摘要：这条动态与智能体、MCP、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
 ### [Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5)
 - 来源：AI Model Releases
@@ -32,11 +20,11 @@
 - 标签：LLMOps、AI 基础设施、模型发布
 - 摘要：这条动态与LLMOps、AI 基础设施、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [Connect AI Agents to Telemetry with Observe MCP & CLI - Snowflake](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdkJ0T2szRWd4ci1ZRVo2cUF3VFplcUw5c3FrOVJnT2NKNDBrX2NwS3pwdFJYMjhOOTRyZGxBQ1o0OGZKdG5qNEJOX0RqaXFjQWNLcUFseE5CM1dmdkMyUXBRTjI1MFE2YUdwNUZYanZWRjQ2N1RfNV9NUmwtN21jRngzOA?oc=5)
-- 来源：AI Agents News
-- 发布时间：2026-10-16T17:30:47+00:00
-- 标签：智能体、MCP
-- 摘要：这条动态与智能体、MCP相关，可能反映相关产品、技术或监管方向的新变化。
+### [Warp – Agentic Development Environment, AI Coding & Cloud Agent Orchestration - Quasa.io](https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0dzV1pFZEp2QTdTQS13aXVlbjdkSl9nVThXVjQ1OVBHNVpYUzJCNmZZTU5PUGNRTGhiMnNYTHBrOVk4eUJicFNEd2U2a09hZWxBdFVSbXp4dGlUOUphV05Xb1MwT2N2YjM5M2dCT0tDUTdDb1ZMZzJXWUI3ekMyUlA0ZWxzSVB5MnM1bVQ0SXFGTTdSZXNNblBjbw?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-10-17T20:18:17+00:00
+- 标签：智能体、AI 编程
+- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
 ### [Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side - PR Underground](https://news.google.com/rss/articles/CBMizAFBVV95cUxPSUhWR2tmZmdxMHI2VUdsek5hU3JxVUZUNFkzLUVTYlhNSUY5SzJaYnZPNU1UekFyNnhxeU1Ha3l4SHJ1Zm9FTHBsdS1qdGpfR0g2cW5hU2w1YjRlUFhnNEdJeU05TGZlcHBvNmhjbUZSRHFSR040ZjhPQUJwdWlKb0NmSW5ZamhDVzZsTlQ0Um9ZeXNPRDlWUS1qX2VwUXl0OHFsblpEb1oyaFlKcmJPbmlJRDdRQzlNQjB2dlhOX0U1c0dyVUpFNEUyS08?oc=5)
 - 来源：AI Model Releases
@@ -59,5 +47,17 @@
 ### [DeepSeek-Reasonix: How a poisoned config can hijack an AI coding agent - GitLab](https://news.google.com/rss/articles/CBMifkFVX3lxTFBKNzFrYVR1bzE4c3lVbmFJZ1NhbFlhTzI5Mk1oczFIaWN2dU95OFBuZVlWVTdIQnVEc2JzSGZNbWk0VDJrblZaUEcyUjFxNVRSSklQdERqZm9pU1BKVm5qMVZULWoyMHI3OHB2dk1IcFpaVENfbGZhRERJMTNCQQ?oc=5)
 - 来源：AI Coding Tools News
 - 发布时间：2026-10-02T07:00:00+00:00
+- 标签：智能体、AI 编程
+- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJKXy1xWWNFX3hLZktkaW5tZ2Q3cHoyZ3FnTDRHM2hQSlFjRVJ5X253RUNmZTg5VjJtOUFnMlhpZHN5VU5meVFGTWRFbWprUnBrb3pnMjl1bjJIUWdjQ2ZXa0w5V2g0X3E4ODloa0FmTXc3MTlHMDBQZFh6LXpYbTUwbVBYcTZSMEh1MXRQbFdyRFdBbzhPbmFn?oc=5)
+- 来源：AI Model Releases
+- 发布时间：2026-09-30T07:00:00+00:00
+- 标签：智能体、模型发布
+- 摘要：这条动态与智能体、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [Build your way: Use any AI agent of your choice in Android Studio - Android Developers Blog](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMkhlOExaczNiUW0yQlZTSVotTmQ5SGhiMzVqejFDSmxUSHhvT0VERVU5Y2F6LTV1UHBLMm1ZTmtrV3hOLUQ2ME9VLVFZV19mUW5QdG44NmlBbGh4Zm1fNHFfZVFaVkNldmpmc3ZwTFFBOEFfWE5jby1SQjl1ZG1QcTdLd003OXdQSzRQVERXTk1qbTJsWmVuaGFLUDgyeUFzaml0M0x1TQ?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-09-24T07:00:00+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。

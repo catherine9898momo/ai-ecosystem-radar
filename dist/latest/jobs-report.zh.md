@@ -1,4 +1,4 @@
-# AI 岗位趋势 - 2026-10-17
+# AI 岗位趋势 - 2026-10-18
 
 岗位覆盖：10/5（达标）
 
@@ -23,17 +23,6 @@
 - 关注点：该岗位信号与智能体、RAG、AI 编程、小模型与端侧 AI 相关，显示 Cohere 在 未标明地区 对相关 AI 能力有招聘需求。
 - JD 原文摘录：Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to...
 - JD 中文解读：该岗位要求的核心技能包括 Python、RAG、Agents；岗位范围为 Global Remote；发布方为 Cohere。
-
-### [Senior Independent AI Engineer / Architect](https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266)
-- 公司：A.Team
-- 地区：Americas, Europe, Israel
-- 来源：Remotive AI Jobs
-- 匹配范围：Global Remote
-- 标签：智能体、RAG、评测与可观测性、远程岗位
-- 技能点：RAG、Agents、评测
-- 关注点：该岗位信号与智能体、RAG、评测与可观测性、远程岗位 相关，显示 A.Team 在 Americas, Europe, Israel 对相关 AI 能力有招聘需求。
-- JD 原文摘录：Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production AI systems for startups, enterprises, and global companies. Since 2020, builders in the network have earned more than $200M working with companies including...
-- JD 中文解读：该岗位要求的核心技能包括 RAG、Agents、评测；岗位范围为 Global Remote；发布方为 A.Team。
 
 ### [Tech Lead Full-Stack Rails Engineer](https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746)
 - 公司：Mitre Media
@@ -111,3 +100,14 @@
 - 关注点：该岗位信号与评测与可观测性、多模态、远程岗位 相关，显示 iMerit Technology 在 未标明地区 对相关 AI 能力有招聘需求。
 - JD 原文摘录：Location: Remote Engagement: Independent Contractor | Project-Based iMerit, an EXL company, is looking for Video Data Annotators to support an AI training project. You’ll review video footage and annotate actions, objects, and events according to detailed project guidelines. No prior AI experience is required. Responsibilities Review and annotate videos. Identify and label actions, objects, and events accurately....
 - JD 中文解读：该岗位要求的核心技能包括 评测；岗位范围为 Global Remote；发布方为 iMerit Technology。
+
+### [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567)
+- 公司：Phaidra
+- 地区：Remote - United States
+- 来源：RemoteOK AI Jobs
+- 匹配范围：Global Remote
+- 标签：AI 编程、远程岗位
+- 技能点：Agents
+- 关注点：该岗位信号与AI 编程、远程岗位 相关，显示 Phaidra 在 Remote - United States 对相关 AI 能力有招聘需求。
+- JD 原文摘录：About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades — because the controls programming is hard-coded. Thousands of lines of rules and heuristics that define how the machines interact with each other. The result of all this hard-coding is that...
+- JD 中文解读：该岗位要求的核心技能包括 Agents；岗位范围为 Global Remote；发布方为 Phaidra。
