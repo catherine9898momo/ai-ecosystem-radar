@@ -1,4 +1,4 @@
-# AI 岗位趋势 - 2026-10-18
+# AI 岗位趋势 - 2026-10-19
 
 岗位覆盖：10/5（达标）
 
@@ -45,17 +45,6 @@
 - 关注点：该岗位信号与智能体、RAG、远程岗位 相关，显示 Lemon.io 在 Northern America, LATAM, Europe, APAC 对相关 AI 能力有招聘需求。
 - JD 原文摘录：Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle...
 - JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、JavaScript、LangChain、RAG、向量数据库、Agents；岗位范围为 Global Remote；发布方为 Lemon.io。
-
-### [Senior Data Scientist](https://remotive.com/remote-jobs/data/senior-data-scientist-2091129)
-- 公司：Lemon.io
-- 地区：Northern America, LATAM, Europe, APAC
-- 来源：Remotive AI Jobs
-- 匹配范围：Global Remote
-- 标签：智能体、RAG、远程岗位
-- 技能点：Python、TypeScript、JavaScript、RAG、Agents
-- 关注点：该岗位信号与智能体、RAG、远程岗位 相关，显示 Lemon.io 在 Northern America, LATAM, Europe, APAC 对相关 AI 能力有招聘需求。
-- JD 原文摘录：Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us...
-- JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、JavaScript、RAG、Agents；岗位范围为 Global Remote；发布方为 Lemon.io。
 
 ### [Senior back-end Engineer](https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132)
 - 公司：Lemon.io
@@ -111,3 +100,14 @@
 - 关注点：该岗位信号与AI 编程、远程岗位 相关，显示 Phaidra 在 Remote - United States 对相关 AI 能力有招聘需求。
 - JD 原文摘录：About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades — because the controls programming is hard-coded. Thousands of lines of rules and heuristics that define how the machines interact with each other. The result of all this hard-coding is that...
 - JD 中文解读：该岗位要求的核心技能包括 Agents；岗位范围为 Global Remote；发布方为 Phaidra。
+
+### [Senior Platform Engineer](https://remoteOK.com/remote-jobs/remote-senior-platform-engineer-saas-group-1131468)
+- 公司：saas.group
+- 地区：Remote, Europe
+- 来源：RemoteOK AI Jobs
+- 匹配范围：Global Remote
+- 标签：LLMOps、远程岗位
+- 技能点：可观测性
+- 关注点：该岗位信号与LLMOps、远程岗位 相关，显示 saas.group 在 Remote, Europe 对相关 AI 能力有招聘需求。
+- JD 原文摘录：This role is part of our ScraperAPI team, one of our growing brands at saas.group. ScraperAPI is an enterprise-scale web scraping solution, trusted by businesses across a wide range of industries to extract crucial data at scale. From e-commerce, travel to real estate and market research, we support companies in turning the web into actionable insights. We're currently on an exciting growth journey, scaling...
+- JD 中文解读：该岗位要求的核心技能包括 可观测性；岗位范围为 Global Remote；发布方为 saas.group。
