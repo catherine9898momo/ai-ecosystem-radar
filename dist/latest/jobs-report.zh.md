@@ -1,4 +1,4 @@
-# AI 岗位趋势 - 2026-10-19
+# AI 岗位趋势 - 2026-10-20
 
 岗位覆盖：10/5（达标）
 
@@ -23,6 +23,17 @@
 - 关注点：该岗位信号与智能体、RAG、AI 编程、小模型与端侧 AI 相关，显示 Cohere 在 未标明地区 对相关 AI 能力有招聘需求。
 - JD 原文摘录：Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to...
 - JD 中文解读：该岗位要求的核心技能包括 Python、RAG、Agents；岗位范围为 Global Remote；发布方为 Cohere。
+
+### [Software Engineer, AI Coding Tasks](https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158)
+- 公司：Askable
+- 地区：Worldwide
+- 来源：Remotive AI Jobs
+- 匹配范围：Global Remote
+- 标签：智能体、评测与可观测性、AI 编程、远程岗位
+- 技能点：Python、TypeScript、Agents、评测、Docker
+- 关注点：该岗位信号与智能体、评测与可观测性、AI 编程、远程岗位 相关，显示 Askable 在 Worldwide 对相关 AI 能力有招聘需求。
+- JD 原文摘录：We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote, any location....
+- JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、Agents、评测、Docker；岗位范围为 Global Remote；发布方为 Askable。
 
 ### [Tech Lead Full-Stack Rails Engineer](https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746)
 - 公司：Mitre Media
@@ -65,17 +76,6 @@
 - 标签：智能体、远程岗位
 - 技能点：Python、TypeScript、JavaScript、Agents
 - 关注点：该岗位信号与智能体、远程岗位 相关，显示 Lemon.io 在 Europe, USA, Canada, APAC 对相关 AI 能力有招聘需求。
-- JD 原文摘录：Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates —...
-- JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、JavaScript、Agents；岗位范围为 Global Remote；发布方为 Lemon.io。
-
-### [Senior .NET Full-stack Developer](https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130)
-- 公司：Lemon.io
-- 地区：Northern America, LATAM, Europe, APAC
-- 来源：Remotive AI Jobs
-- 匹配范围：Global Remote
-- 标签：智能体、远程岗位
-- 技能点：Python、TypeScript、JavaScript、Agents
-- 关注点：该岗位信号与智能体、远程岗位 相关，显示 Lemon.io 在 Northern America, LATAM, Europe, APAC 对相关 AI 能力有招聘需求。
 - JD 原文摘录：Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates —...
 - JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、JavaScript、Agents；岗位范围为 Global Remote；发布方为 Lemon.io。
 
