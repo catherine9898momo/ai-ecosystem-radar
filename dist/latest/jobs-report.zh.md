@@ -1,4 +1,4 @@
-# AI 岗位趋势 - 2026-10-20
+# AI 岗位趋势 - 2026-10-21
 
 岗位覆盖：10/5（达标）
 
@@ -45,17 +45,6 @@
 - 关注点：该岗位信号与LLMOps、小模型与端侧 AI、AI 基础设施、远程岗位 相关，显示 Mitre Media 在 USA, Canada, USA timezones 对相关 AI 能力有招聘需求。
 - JD 原文摘录：About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and...
 - JD 中文解读：该岗位要求的核心技能包括 JavaScript、LangChain、Docker、Kubernetes、SQL；岗位范围为 Global Remote；发布方为 Mitre Media。
-
-### [Senior AI Engineer](https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131)
-- 公司：Lemon.io
-- 地区：Northern America, LATAM, Europe, APAC
-- 来源：Remotive AI Jobs
-- 匹配范围：Global Remote
-- 标签：智能体、RAG、远程岗位
-- 技能点：Python、TypeScript、JavaScript、LangChain、RAG、向量数据库、Agents
-- 关注点：该岗位信号与智能体、RAG、远程岗位 相关，显示 Lemon.io 在 Northern America, LATAM, Europe, APAC 对相关 AI 能力有招聘需求。
-- JD 原文摘录：Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle...
-- JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、JavaScript、LangChain、RAG、向量数据库、Agents；岗位范围为 Global Remote；发布方为 Lemon.io。
 
 ### [Senior back-end Engineer](https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132)
 - 公司：Lemon.io
@@ -111,3 +100,14 @@
 - 关注点：该岗位信号与LLMOps、远程岗位 相关，显示 saas.group 在 Remote, Europe 对相关 AI 能力有招聘需求。
 - JD 原文摘录：This role is part of our ScraperAPI team, one of our growing brands at saas.group. ScraperAPI is an enterprise-scale web scraping solution, trusted by businesses across a wide range of industries to extract crucial data at scale. From e-commerce, travel to real estate and market research, we support companies in turning the web into actionable insights. We're currently on an exciting growth journey, scaling...
 - JD 中文解读：该岗位要求的核心技能包括 可观测性；岗位范围为 Global Remote；发布方为 saas.group。
+
+### [HQ AI Enablement Lead](https://remoteOK.com/remote-jobs/remote-hq-ai-enablement-lead-everfield-1131322)
+- 公司：Everfield
+- 地区：未知
+- 来源：RemoteOK AI Jobs
+- 匹配范围：Global Remote
+- 标签：智能体、远程岗位
+- 技能点：Agents
+- 关注点：该岗位信号与智能体、远程岗位 相关，显示 Everfield 在 未标明地区 对相关 AI 能力有招聘需求。
+- JD 原文摘录：About Everfield Everfield buys, builds, and grows European vertical market and specialist software companies, providing them with the tools they need to move to the next level. Our mission is to foster ambition, fuel growth, and unlock opportunities for Europe's software ecosystem. Companies in the Everfield ecosystem follow a decentralised model, maintaining their team, brand, and offices, while focusing on what...
+- JD 中文解读：该岗位要求的核心技能包括 Agents；岗位范围为 Global Remote；发布方为 Everfield。

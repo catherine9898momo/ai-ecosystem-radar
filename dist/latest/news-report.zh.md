@@ -1,6 +1,12 @@
-# AI 新闻动态 - 2026-10-20
+# AI 新闻动态 - 2026-10-21
 
 新闻覆盖：10/5（达标）
+
+### [Ready Server Launches ReadyServer LLM API, Giving Every VPS Customer Private AI Inference at No Extra Cost - AOL.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSlJEVDZIaHV3NWttRTYxMC1KMlFackVSMnpnczRIZ3FHampvdVpHMTVEbmNTRkhNMzEzMFRjYksyQ2Z0Yi1GY1BzN0ZENTlzWWpwenVPWGxEekpYdDhZLUEyS1FUMVhhb0hJMTh1dnRkTEhKQzVlT0V5SE1yQlRKcUN4enJHSnFW?oc=5)
+- 来源：AI Model Releases
+- 发布时间：2026-10-20T06:12:00+00:00
+- 标签：LLMOps、AI 基础设施、模型发布
+- 摘要：这条动态与LLMOps、AI 基础设施、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
 ### [AI Agent Security: Best Practices for Safe Deployment - GitGuardian Blog](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSWlwWk5QQXNwMEJabHZsb2wtRzROdzZ0cnJlYmQ5ZlRTU2lMRFB1V0lTdlZWSWxGLXNteW1IYVJGNjczMkJWTFJGWlBRakFDb0VNOGtWYkxyY0FXMVE0ODNGLUExNkVVdTd1eXdIbw?oc=5)
 - 来源：AI Coding Tools News
@@ -26,7 +32,19 @@
 - 标签：LLMOps、AI 基础设施、模型发布
 - 摘要：这条动态与LLMOps、AI 基础设施、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [Chrome DevTools 154 Adds AI Agent Controls [2026] - shattered.io](https://news.google.com/rss/articles/CBMickFVX3lxTE50S3NmMGpsbEpOUnVRdWdBdGhrQjN5Qko2YkYzaThhMjJsUGVQUXRzazhOWkRJNE9IRE9rNnhKam0tOGlXNlBJTnE0OXRxQnduUGNwa0VYZDZNTkZEZHYxWVYzSElDU0xNNHdBUkkzV2x6QQ?oc=5)
+### [Work management context for AI agents with Smartsheet MCP on AWS - Amazon Web Services (AWS)](https://news.google.com/rss/articles/CBMisAFBVV95cUxORGttQXp5c0k5YmZXSGMySDlra3BfSGYzcDh2aW5udHBqZzdpSVRuMWxWTFJueVB5XzlQUTZLVFhEcVZkUkoxYkV2SnZGdm5TdDJDdEdnclRxNXpRUkxxS08wTGVQaDJZXzlnbmVOQ0szQ0FlaGxPTXBrSU5YaTVGSlZ5QmpCczVyN3RhQTRMRVp6dHZnOGFzX0dYWFVpLUlTcDd4THpob1FJek9YLTktMw?oc=5)
+- 来源：AI Agents News
+- 发布时间：2026-10-20T17:59:07+00:00
+- 标签：智能体、MCP
+- 摘要：这条动态与智能体、MCP相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [Microsoft’s AI Coding Agent Testing Tool Has Been Open-Sourced - It's FOSS](https://news.google.com/rss/articles/CBMidkFVX3lxTE9UdUlZS29UU2NwY0dDdjFndll3VjhaWUVyN0MzVkE1QmlPQnI1ZWJXd1ZJOWFnYUVERlRaalE3VjFpajk2MEdTQ0hTVGVWc0hKV1dNOGE0dGNwbWR4aXVyejdqNHpWMTJieTNnVmxTRzFkX3JHenc?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-10-20T08:15:32+00:00
+- 标签：智能体、AI 编程
+- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [Chrome DevTools 154: AI Agent Controls Explained [2026] - shattered.io](https://news.google.com/rss/articles/CBMickFVX3lxTE50S3NmMGpsbEpOUnVRdWdBdGhrQjN5Qko2YkYzaThhMjJsUGVQUXRzazhOWkRJNE9IRE9rNnhKam0tOGlXNlBJTnE0OXRxQnduUGNwa0VYZDZNTkZEZHYxWVYzSElDU0xNNHdBUkkzV2x6QQ?oc=5)
 - 来源：AI Coding Tools News
 - 发布时间：2026-10-20T02:41:32+00:00
 - 标签：智能体、AI 编程
@@ -41,23 +59,5 @@
 ### [BAND Debuts AI Agent Hub as Hy Memory Syncs 10 Tools [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEo2eFg5Rlg1YTNYS21udGg3YURONnlVaVBHT2tTbXBfUW82NHI0d0xVZFlwUWNicl9feFpxYmxXX0FwVV95VnZXMkd6TmRlRzZud25PNy0wODJCT3ZSR2xtclJmZ25IOHdsR2cwU3pTVm9CcmM3X0dFZDl4SmRuM0thOA?oc=5)
 - 来源：AI Coding Tools News
 - 发布时间：2026-10-18T03:45:18+00:00
-- 标签：智能体、AI 编程
-- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side - FinancialContent](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNREUxby1YeHNKZW1jdWpNY280M1pWV0VVYjZfX19JVEo5SEh3Tkx0NTVuRVgxLV83bHBvcWRTRnlLVVJoQW5mclNKWmhjSFM3aWt6RjB6Q3JZSS1SNzJUajBNUkpPbU8zZl8za1EwZXZwRmVXaDRneFB6aU5ZWGZSU1dIc3VTdDlWT01kWndRZFJRM0Q5bGJMaGVMOGl6c05OOU1IX0FSVTRNVjF4aTlNYkN2a0tuXzJkR3h0U3lGVzdITUxyZUtNUkNHWVZ4MEM3ZmNXcENLbjVmcDgtWF81bmVTYXBjM1BJR3c?oc=5)
-- 来源：AI Model Releases
-- 发布时间：2026-10-16T01:07:00+00:00
-- 标签：多模态、模型发布
-- 摘要：这条动态与多模态、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [OutSystems opens Agent Experience to third-party AI agents - IT Brief Australia](https://news.google.com/rss/articles/CBMikAFBVV95cUxOY3VBeXJJbnd3VHZJbDJnSDY3V0VDVWpsSkNpOGhFRGthWkhRMGlNRmtYam9TOXMtaXp5WlQtMGJENmluUVBmb0x6dWFIZGdlbzZOODJfWkNGa0NQYU5tcjRaUXBMaGpNU1hvSmdZSzJKX21UaXB3QlNoR2hlbWJ5Vm5zU2RnV25ZWW9lU2pSTHg?oc=5)
-- 来源：AI Coding Tools News
-- 发布时间：2026-10-07T22:43:50+00:00
-- 标签：智能体、AI 编程
-- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [OutSystems Agent Experience Is Now Generally Available, Bringing Governed AI Development to Any Coding Agent - Yahoo Finance](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMkdVVTRZSlB4MVBiVVZzazVjc0YtTk9jRHktaUFtblA5MXVWS2gtTk5CY3pVQzlyUEdZd203dzJRQzU5Q2dlR2hXVkpjaENJRE92VDdyUGVNM2ZpanYyQlJKMkxJUUVOSmxZbENwV3FueGZxVXM0Z0xJQ0wxNjQ1eV9JekpSTzg3V0I2UzFHUDJBR2E4Zk1EYmhIdjJ6TWJBbGtka09rLTU?oc=5)
-- 来源：AI Coding Tools News
-- 发布时间：2026-10-07T07:00:00+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
