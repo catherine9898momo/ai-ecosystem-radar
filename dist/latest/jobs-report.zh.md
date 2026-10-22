@@ -1,4 +1,4 @@
-# AI 岗位趋势 - 2026-10-21
+# AI 岗位趋势 - 2026-10-22
 
 岗位覆盖：10/5（达标）
 
@@ -101,13 +101,13 @@
 - JD 原文摘录：This role is part of our ScraperAPI team, one of our growing brands at saas.group. ScraperAPI is an enterprise-scale web scraping solution, trusted by businesses across a wide range of industries to extract crucial data at scale. From e-commerce, travel to real estate and market research, we support companies in turning the web into actionable insights. We're currently on an exciting growth journey, scaling...
 - JD 中文解读：该岗位要求的核心技能包括 可观测性；岗位范围为 Global Remote；发布方为 saas.group。
 
-### [HQ AI Enablement Lead](https://remoteOK.com/remote-jobs/remote-hq-ai-enablement-lead-everfield-1131322)
-- 公司：Everfield
-- 地区：未知
+### [Product Marketing Lead](https://remoteOK.com/remote-jobs/remote-product-marketing-lead-paragon-1131395)
+- 公司：Paragon
+- 地区：Los Angeles or Remote
 - 来源：RemoteOK AI Jobs
 - 匹配范围：Global Remote
-- 标签：智能体、远程岗位
+- 标签：远程岗位
 - 技能点：Agents
-- 关注点：该岗位信号与智能体、远程岗位 相关，显示 Everfield 在 未标明地区 对相关 AI 能力有招聘需求。
-- JD 原文摘录：About Everfield Everfield buys, builds, and grows European vertical market and specialist software companies, providing them with the tools they need to move to the next level. Our mission is to foster ambition, fuel growth, and unlock opportunities for Europe's software ecosystem. Companies in the Everfield ecosystem follow a decentralised model, maintaining their team, brand, and offices, while focusing on what...
-- JD 中文解读：该岗位要求的核心技能包括 Agents；岗位范围为 Global Remote；发布方为 Everfield。
+- 关注点：该岗位信号与远程岗位 相关，显示 Paragon 在 Los Angeles or Remote 对相关 AI 能力有招聘需求。
+- JD 原文摘录：AI agents are only as useful as the data they can reach. SaaS products are only as sticky as the integrations they support. Paragon sits at the intersection of both: integration infrastructure for the companies building the next generation of software. Our platform gives product and engineering teams the primitives to connect anything, fast, without owning the infrastructure themselves. The category is forming...
+- JD 中文解读：该岗位要求的核心技能包括 Agents；岗位范围为 Global Remote；发布方为 Paragon。
