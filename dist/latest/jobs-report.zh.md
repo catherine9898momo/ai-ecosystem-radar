@@ -1,17 +1,6 @@
-# AI 岗位趋势 - 2026-10-22
+# AI 岗位趋势 - 2026-10-23
 
-岗位覆盖：10/5（达标）
-
-### [ML Engineer](https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329)
-- 公司：Trunk Tools, Inc.
-- 地区：未知
-- 来源：RemoteOK AI Jobs
-- 匹配范围：Global Remote
-- 标签：智能体、RAG、评测与可观测性、AI 编程
-- 技能点：Python、RAG、Agents、评测、Kubernetes
-- 关注点：该岗位信号与智能体、RAG、评测与可观测性、AI 编程 相关，显示 Trunk Tools, Inc. 在 未标明地区 对相关 AI 能力有招聘需求。
-- JD 原文摘录：At Trunk Tools, we’re the leading AI company revolutionizing construction, the second-largest industry on earth. We recently raised a $40M Series B led by Insight Partners, bringing our total funding to $70M from top-tier investors including Redpoint and Innovation Endeavors. This new round is fueling our next phase of growth as we scale AI agents across the jobsite. Our mission is to build the future of...
-- JD 中文解读：该岗位要求的核心技能包括 Python、RAG、Agents、评测、Kubernetes；岗位范围为 Global Remote；发布方为 Trunk Tools, Inc.。
+岗位覆盖：9/5（达标）
 
 ### [Forward Deployed Engineer Agentic Platform](https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611)
 - 公司：Cohere
