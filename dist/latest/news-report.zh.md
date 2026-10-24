@@ -1,4 +1,4 @@
-# AI 新闻动态 - 2026-10-23
+# AI 新闻动态 - 2026-10-24
 
 新闻覆盖：10/5（达标）
 
@@ -14,17 +14,23 @@
 - 标签：智能体、MCP、AI 编程
 - 摘要：这条动态与智能体、MCP、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom](https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR?oc=5)
+### [Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5)
 - 来源：AI Model Releases
-- 发布时间：2026-09-28T07:00:00+00:00
-- 标签：智能体、LLMOps、模型发布
-- 摘要：这条动态与智能体、LLMOps、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
+- 发布时间：2026-08-05T07:00:00+00:00
+- 标签：智能体、AI 编程、模型发布
+- 摘要：这条动态与智能体、AI 编程、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
 ### [OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI](https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5)
 - 来源：AI Model Releases
 - 发布时间：2026-06-24T07:00:00+00:00
 - 标签：LLMOps、AI 基础设施、模型发布
 - 摘要：这条动态与LLMOps、AI 基础设施、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [Functionize launches MCP server for AI coding agents - IT Brief UK](https://news.google.com/rss/articles/CBMihwFBVV95cUxOenhQOFRoemplUzAyX1B1Tl9LVVpyTTE4bmlnT0NRQXBIVXZSRXlqUnlYXzJQRFJ1YzE0UjhQSDB6d0NqT1NNem95MHhTeERrYmJIVDFjRmhNT2hrUDZxcDN2WDFoNUZaemsxcWhnQ1ZRQ2luNm55WmFUSVp0UTdUTm9XZkR0RHc?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-10-23T08:15:00+00:00
+- 标签：MCP、AI 编程
+- 摘要：这条动态与MCP、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
 ### [Xojo Agentic Mode: AI Coding Agent Loop Explained [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMidkFVX3lxTFBOTWRwbktuYXBCQ0FTOXE1LWRTU2hfWmM5OU5mYl84MWdTRzZxZWRUYThMNU9ILTdvZlBRaUw2LVpVS1N4ZkZ5UkU2R2pSOWVkS1V0TENMeDhYZV9DcjVLVVNjMWViZWxJNU5sWjZ4czVaeFQ1UEE?oc=5)
 - 来源：AI Coding Tools News
@@ -44,17 +50,11 @@
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [Chrome DevTools 154: AI Agent Controls Explained [2026] - shattered.io](https://news.google.com/rss/articles/CBMickFVX3lxTE50S3NmMGpsbEpOUnVRdWdBdGhrQjN5Qko2YkYzaThhMjJsUGVQUXRzazhOWkRJNE9IRE9rNnhKam0tOGlXNlBJTnE0OXRxQnduUGNwa0VYZDZNTkZEZHYxWVYzSElDU0xNNHdBUkkzV2x6QQ?oc=5)
+### [Chrome DevTools 154 Adds AI Agent Controls [2026] - shattered.io](https://news.google.com/rss/articles/CBMickFVX3lxTE50S3NmMGpsbEpOUnVRdWdBdGhrQjN5Qko2YkYzaThhMjJsUGVQUXRzazhOWkRJNE9IRE9rNnhKam0tOGlXNlBJTnE0OXRxQnduUGNwa0VYZDZNTkZEZHYxWVYzSElDU0xNNHdBUkkzV2x6QQ?oc=5)
 - 来源：AI Coding Tools News
 - 发布时间：2026-10-20T02:41:32+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [MiniMax launches M3.1 Flash model, says it cuts AI agent costs by 70% - SiliconANGLE](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTFzLTVJTXFMdGsxc3NOTWtLTVhkOFcxX1BjcVFrOGVTUnhUMmFhWWNmaVhQVjFnNEt2cXJWVWZSQmhvQXlxeVNTM2d1aFI4RHIxVjFnMkhoX2Q5SHp6d0xCS1FwZ2FBeEhrWWdZWE5ST0RCeFg4VW5PTDFqczNvbjYwd2dOb0tOSTc1RkJ0WXBaeHoxdnhCWXEzOUNtTERfV1AyRGNiVQ?oc=5)
-- 来源：AI Model Releases
-- 发布时间：2026-10-19T22:25:00+00:00
-- 标签：智能体、模型发布
-- 摘要：这条动态与智能体、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
 ### [BAND vs Hy Memory 2.0: AI Coding Agent Tools 2026 - https://tech-insider.org/](https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEo2eFg5Rlg1YTNYS21udGg3YURONnlVaVBHT2tTbXBfUW82NHI0d0xVZFlwUWNicl9feFpxYmxXX0FwVV95VnZXMkd6TmRlRzZud25PNy0wODJCT3ZSR2xtclJmZ25IOHdsR2cwU3pTVm9CcmM3X0dFZDl4SmRuM0thOA?oc=5)
 - 来源：AI Coding Tools News

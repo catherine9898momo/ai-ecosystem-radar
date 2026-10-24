@@ -1,50 +1,50 @@
-# AI Ecosystem Radar - 2026-10-23
+# AI Ecosystem Radar - 2026-10-24
 
 ## 今日摘要
 
-- agents 在 23 条记录中出现，中文主题可理解为：智能体。
+- agents 在 19 条记录中出现，中文主题可理解为：智能体。
 - ai_coding 在 13 条记录中出现，中文主题可理解为：AI 编程。
-- llm 在 9 条记录中出现，中文主题可理解为：大模型。
-- rag 在 9 条记录中出现，中文主题可理解为：RAG。
-- llmops 在 6 条记录中出现，中文主题可理解为：LLMOps。
+- mcp 在 10 条记录中出现，中文主题可理解为：MCP。
+- rag 在 10 条记录中出现，中文主题可理解为：RAG。
+- llm 在 8 条记录中出现，中文主题可理解为：大模型。
 
 ## 分报告
 
-- [AI 岗位趋势](./2026-10-23-jobs-report.zh.md)
-- [AI 新闻动态](./2026-10-23-news-report.zh.md)
-- [GitHub 热门项目](./2026-10-23-github-report.zh.md)
+- [AI 岗位趋势](./2026-10-24-jobs-report.zh.md)
+- [AI 新闻动态](./2026-10-24-news-report.zh.md)
+- [GitHub 热门项目](./2026-10-24-github-report.zh.md)
 
 ## 知识框架与趋势
 
 ### Agentic workflows
 - 状态：今日有直接证据
-- 证据数量：30
+- 证据数量：28
 - 说明：智能体工作流关注模型如何规划任务、调用工具并完成多步骤工作。
 - 证据：Forward Deployed Engineer Agentic Platform；Software Engineer, AI Coding Tasks；Senior back-end Engineer
 
 ### AI coding workflows
 - 状态：今日有直接证据
-- 证据数量：20
+- 证据数量：21
 - 说明：AI 编程工作流关注 IDE、CLI、代码审查和自动化开发中的模型协作方式。
 - 证据：Forward Deployed Engineer Agentic Platform；Software Engineer, AI Coding Tasks；Tech Lead Full-Stack Rails Engineer
 
 ### Retrieval-Augmented Generation
 - 状态：今日有直接证据
-- 证据数量：18
+- 证据数量：14
 - 说明：RAG 关注如何把外部知识检索、向量库和引用证据接入大模型应用。
 - 证据：Forward Deployed Engineer Agentic Platform；Tech Lead Full-Stack Rails Engineer；Senior back-end Engineer
 
-### LLM evaluation and observability
-- 状态：今日有直接证据
-- 证据数量：7
-- 说明：评测与可观测性关注如何测试、追踪和监控生产环境中的大模型行为。
-- 证据：Software Engineer, AI Coding Tasks；Video Data Annotator；dataelement/bisheng
-
 ### Model Context Protocol
 - 状态：今日有直接证据
-- 证据数量：6
+- 证据数量：10
 - 说明：MCP 关注 AI 应用如何用标准化方式连接工具、数据源和外部系统。
-- 证据：Critical remote code execution in Serena, a popular MCP coding agent - GitLab；youngyangyang04/llm-master；langgenius/dify
+- 证据：Critical remote code execution in Serena, a popular MCP coding agent - GitLab；Functionize launches MCP server for AI coding agents - IT Brief UK；juspay/neurolink
+
+### LLM evaluation and observability
+- 状态：今日有直接证据
+- 证据数量：4
+- 说明：评测与可观测性关注如何测试、追踪和监控生产环境中的大模型行为。
+- 证据：Software Engineer, AI Coding Tasks；Video Data Annotator；amitshekhariitbhu/ai-engineering-course
 
 ## 交叉信号
 
