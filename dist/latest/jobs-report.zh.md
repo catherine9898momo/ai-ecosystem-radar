@@ -1,6 +1,6 @@
-# AI 岗位趋势 - 2026-10-24
+# AI 岗位趋势 - 2026-10-25
 
-岗位覆盖：9/5（达标）
+岗位覆盖：8/5（达标）
 
 ### [Forward Deployed Engineer Agentic Platform](https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611)
 - 公司：Cohere
@@ -56,17 +56,6 @@
 - 关注点：该岗位信号与智能体、远程岗位 相关，显示 Lemon.io 在 Europe, USA, Canada, APAC 对相关 AI 能力有招聘需求。
 - JD 原文摘录：Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates —...
 - JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、JavaScript、Agents；岗位范围为 Global Remote；发布方为 Lemon.io。
-
-### [Video Data Annotator](https://remoteOK.com/remote-jobs/remote-video-data-annotator-imerit-technology-1137428)
-- 公司：iMerit Technology
-- 地区：未知
-- 来源：RemoteOK AI Jobs
-- 匹配范围：Global Remote
-- 标签：评测与可观测性、多模态、远程岗位
-- 技能点：评测
-- 关注点：该岗位信号与评测与可观测性、多模态、远程岗位 相关，显示 iMerit Technology 在 未标明地区 对相关 AI 能力有招聘需求。
-- JD 原文摘录：Location: Remote Engagement: Independent Contractor | Project-Based iMerit, an EXL company, is looking for Video Data Annotators to support an AI training project. You’ll review video footage and annotate actions, objects, and events according to detailed project guidelines. No prior AI experience is required. Responsibilities Review and annotate videos. Identify and label actions, objects, and events accurately....
-- JD 中文解读：该岗位要求的核心技能包括 评测；岗位范围为 Global Remote；发布方为 iMerit Technology。
 
 ### [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567)
 - 公司：Phaidra
