@@ -1,4 +1,4 @@
-# AI 新闻动态 - 2026-10-25
+# AI 新闻动态 - 2026-10-26
 
 新闻覆盖：10/5（达标）
 
@@ -8,23 +8,23 @@
 - 标签：智能体、AI 编程、LLMOps
 - 摘要：这条动态与智能体、AI 编程、LLMOps相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [Critical remote code execution in Serena, a popular MCP coding agent - GitLab](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tckdYU095UnNiWEl1U2k1SS1sbGRTNzhyZDE2Wk9zVDJTME9wbDJzZTU2SVlCTWZLTU1CVkZqUWRmaEpUd2R5bWJ1cW1kbHNXY29BOUxNS1ZRdENoR3VYZ09oWQ?oc=5)
-- 来源：AI Coding Tools News
-- 发布时间：2026-08-17T07:00:00+00:00
-- 标签：智能体、MCP、AI 编程
-- 摘要：这条动态与智能体、MCP、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
+### [Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5)
+- 来源：AI Model Releases
+- 发布时间：2026-08-05T07:00:00+00:00
+- 标签：智能体、AI 编程、模型发布
+- 摘要：这条动态与智能体、AI 编程、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom](https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR?oc=5)
+### [Recorded Future Launches MCP, the Intelligence Layer for Agentic Security Operations - Recorded Future](https://news.google.com/rss/articles/CBMiakFVX3lxTE9SbDdnY3hDcFlDQ3ZpZlZ4aUtkdGllZkxjOEp6UHlIZDFuUWJIdzZsMm9CX1lkNmI4Nmd3YVB5dEF6cGgyYnNkT29GWlY2dzNjekFBS09BdzFMZlBBUzd2NUx6a1hxaWlUU1E?oc=5)
 - 来源：AI Model Releases
 - 发布时间：2026-09-28T07:00:00+00:00
-- 标签：智能体、LLMOps、模型发布
-- 摘要：这条动态与智能体、LLMOps、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
+- 标签：智能体、MCP、模型发布
+- 摘要：这条动态与智能体、MCP、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI](https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5)
-- 来源：AI Model Releases
-- 发布时间：2026-06-24T07:00:00+00:00
-- 标签：LLMOps、AI 基础设施、模型发布
-- 摘要：这条动态与LLMOps、AI 基础设施、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
+### [Automating SEO and Link Building for AI Agents with Rapid Indexer's New MCP Server1 - Yahoo Finance](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdTFlRGJQN3F4SHVkdFBKbVFpMEdEWjNsaE9LRVB3bWFEWElLRTI4MS00bVNQWXk3d2NTT3BnanRPVnlGWl82LTJQTUtQa1o4bnV0U0JiQm4xZ1FDeWZCR2tXRUQ1ZzhKeTExenpncl9hMmJwLUE4Zkg5MWNyTjR2VGlPem5LbUtpUGxmRmRXU3JSUGV6RjItQ2JR?oc=5)
+- 来源：AI Agents News
+- 发布时间：2026-10-25T11:06:00+00:00
+- 标签：智能体、MCP
+- 摘要：这条动态与智能体、MCP相关，可能反映相关产品、技术或监管方向的新变化。
 
 ### [How to Price an AI Coding Agent Subscription Without Losing Seat Revenue - Startup Fortune](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmo4aVFYTzYzY3hDQW93LWhvN1RoMXVBRHFMNkFWVzdQM2E4YVF0cU1IclUxM1NFNjlEZWQxbWUtTmFlYTFkWW5yWS1fYWZVbUtYVEY2cEkwS3QxTHBsemY3NnJRMWFrY1JPX2hsaG9QLWlIOElJYW5WNzFBd0JRN2xUYzlaSGdwbWdOSDBVRUtkbzR1enhvdWJWS0t1UndoNEE?oc=5)
 - 来源：AI Coding Tools News
