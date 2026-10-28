@@ -1,6 +1,6 @@
-# AI 岗位趋势 - 2026-10-27
+# AI 岗位趋势 - 2026-10-28
 
-岗位覆盖：8/5（达标）
+岗位覆盖：7/5（达标）
 
 ### [Forward Deployed Engineer Agentic Platform](https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611)
 - 公司：Cohere
@@ -78,14 +78,3 @@
 - 关注点：该岗位信号与LLMOps、远程岗位 相关，显示 saas.group 在 Remote, Europe 对相关 AI 能力有招聘需求。
 - JD 原文摘录：This role is part of our ScraperAPI team, one of our growing brands at saas.group. ScraperAPI is an enterprise-scale web scraping solution, trusted by businesses across a wide range of industries to extract crucial data at scale. From e-commerce, travel to real estate and market research, we support companies in turning the web into actionable insights. We're currently on an exciting growth journey, scaling...
 - JD 中文解读：该岗位要求的核心技能包括 可观测性；岗位范围为 Global Remote；发布方为 saas.group。
-
-### [Product Marketing Lead](https://remoteOK.com/remote-jobs/remote-product-marketing-lead-paragon-1131395)
-- 公司：Paragon
-- 地区：Los Angeles or Remote
-- 来源：RemoteOK AI Jobs
-- 匹配范围：Global Remote
-- 标签：远程岗位
-- 技能点：Agents
-- 关注点：该岗位信号与远程岗位 相关，显示 Paragon 在 Los Angeles or Remote 对相关 AI 能力有招聘需求。
-- JD 原文摘录：AI agents are only as useful as the data they can reach. SaaS products are only as sticky as the integrations they support. Paragon sits at the intersection of both: integration infrastructure for the companies building the next generation of software. Our platform gives product and engineering teams the primitives to connect anything, fast, without owning the infrastructure themselves. The category is forming...
-- JD 中文解读：该岗位要求的核心技能包括 Agents；岗位范围为 Global Remote；发布方为 Paragon。
