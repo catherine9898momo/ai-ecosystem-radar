@@ -1,50 +1,50 @@
-# AI Ecosystem Radar - 2026-10-28
+# AI Ecosystem Radar - 2026-10-29
 
 ## 今日摘要
 
-- agents 在 21 条记录中出现，中文主题可理解为：智能体。
-- ai_coding 在 12 条记录中出现，中文主题可理解为：AI 编程。
-- llm 在 9 条记录中出现，中文主题可理解为：大模型。
-- rag 在 8 条记录中出现，中文主题可理解为：RAG。
-- ai 在 6 条记录中出现，中文主题可理解为：ai。
+- agents 在 19 条记录中出现，中文主题可理解为：智能体。
+- ai_coding 在 13 条记录中出现，中文主题可理解为：AI 编程。
+- rag 在 10 条记录中出现，中文主题可理解为：RAG。
+- mcp 在 9 条记录中出现，中文主题可理解为：MCP。
+- ai 在 8 条记录中出现，中文主题可理解为：ai。
 
 ## 分报告
 
-- [AI 岗位趋势](./2026-10-28-jobs-report.zh.md)
-- [AI 新闻动态](./2026-10-28-news-report.zh.md)
-- [GitHub 热门项目](./2026-10-28-github-report.zh.md)
+- [AI 岗位趋势](./2026-10-29-jobs-report.zh.md)
+- [AI 新闻动态](./2026-10-29-news-report.zh.md)
+- [GitHub 热门项目](./2026-10-29-github-report.zh.md)
 
 ## 知识框架与趋势
 
 ### Agentic workflows
 - 状态：今日有直接证据
-- 证据数量：29
+- 证据数量：27
 - 说明：智能体工作流关注模型如何规划任务、调用工具并完成多步骤工作。
 - 证据：Forward Deployed Engineer Agentic Platform；Software Engineer, AI Coding Tasks；Senior back-end Engineer
 
 ### AI coding workflows
 - 状态：今日有直接证据
-- 证据数量：18
+- 证据数量：21
 - 说明：AI 编程工作流关注 IDE、CLI、代码审查和自动化开发中的模型协作方式。
 - 证据：Forward Deployed Engineer Agentic Platform；Software Engineer, AI Coding Tasks；Tech Lead Full-Stack Rails Engineer
 
 ### Retrieval-Augmented Generation
 - 状态：今日有直接证据
-- 证据数量：12
+- 证据数量：15
 - 说明：RAG 关注如何把外部知识检索、向量库和引用证据接入大模型应用。
 - 证据：Forward Deployed Engineer Agentic Platform；Tech Lead Full-Stack Rails Engineer；Senior back-end Engineer
 
-### LLM evaluation and observability
-- 状态：今日有直接证据
-- 证据数量：8
-- 说明：评测与可观测性关注如何测试、追踪和监控生产环境中的大模型行为。
-- 证据：Software Engineer, AI Coding Tasks；dataelement/bisheng；amitshekhariitbhu/ai-engineering-course
-
 ### Model Context Protocol
 - 状态：今日有直接证据
-- 证据数量：6
+- 证据数量：9
 - 说明：MCP 关注 AI 应用如何用标准化方式连接工具、数据源和外部系统。
-- 证据：headroomlabs-ai/headroom；langgenius/dify；amitshekhariitbhu/ai-engineering-interview-questions
+- 证据：Meta's developer MCP gains six tools that let AI agents create apps - PPC Land；rocketride-org/rocketride-server；headroomlabs-ai/headroom
+
+### Multimodal AI
+- 状态：今日有直接证据
+- 证据数量：4
+- 说明：多模态 AI 关注文本、图像、音频和视频等多种输入输出的统一处理。
+- 证据：Crun AI Launches AI Leaderboard to Compare LLM, Video, Image, and Audio Models Side by Side - FinancialContent；genkit-ai/genkit
 
 ## 交叉信号
 
