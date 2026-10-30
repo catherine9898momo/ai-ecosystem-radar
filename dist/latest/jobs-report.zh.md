@@ -1,6 +1,17 @@
-# AI 岗位趋势 - 2026-10-29
+# AI 岗位趋势 - 2026-10-30
 
-岗位覆盖：7/5（达标）
+岗位覆盖：8/5（达标）
+
+### [Senior Back-end Developer](https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135)
+- 公司：Lemon.io
+- 地区：Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia
+- 来源：Remotive AI Jobs
+- 匹配范围：东南亚 Remote
+- 标签：智能体、AI 编程、LLMOps、AI 基础设施
+- 技能点：Python、TypeScript、JavaScript、Agents、Kubernetes
+- 关注点：该岗位信号与智能体、AI 编程、LLMOps、AI 基础设施 相关，显示 Lemon.io 在 Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia 对相关 AI 能力有招聘需求。
+- JD 原文摘录：Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. Currently, we have a few open positions from our client, an AI-native cloud company. AI teams use its platform to run inference on open-source models, fine-tune them and rent large...
+- JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、JavaScript、Agents、Kubernetes；岗位范围为 东南亚 Remote；发布方为 Lemon.io。
 
 ### [Forward Deployed Engineer Agentic Platform](https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611)
 - 公司：Cohere
