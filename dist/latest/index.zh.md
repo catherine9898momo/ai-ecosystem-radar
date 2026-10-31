@@ -1,58 +1,58 @@
-# AI Ecosystem Radar - 2026-10-30
+# AI Ecosystem Radar - 2026-10-31
 
 ## 今日摘要
 
-- agents 在 19 条记录中出现，中文主题可理解为：智能体。
-- rag 在 10 条记录中出现，中文主题可理解为：RAG。
-- ai 在 9 条记录中出现，中文主题可理解为：ai。
-- ai_coding 在 9 条记录中出现，中文主题可理解为：AI 编程。
-- llmops 在 9 条记录中出现，中文主题可理解为：LLMOps。
+- agents 在 23 条记录中出现，中文主题可理解为：智能体。
+- ai_coding 在 13 条记录中出现，中文主题可理解为：AI 编程。
+- llm 在 10 条记录中出现，中文主题可理解为：大模型。
+- llmops 在 8 条记录中出现，中文主题可理解为：LLMOps。
+- mcp 在 8 条记录中出现，中文主题可理解为：MCP。
 
 ## 分报告
 
-- [AI 岗位趋势](./2026-10-30-jobs-report.zh.md)
-- [AI 新闻动态](./2026-10-30-news-report.zh.md)
-- [GitHub 热门项目](./2026-10-30-github-report.zh.md)
+- [AI 岗位趋势](./2026-10-31-jobs-report.zh.md)
+- [AI 新闻动态](./2026-10-31-news-report.zh.md)
+- [GitHub 热门项目](./2026-10-31-github-report.zh.md)
 
 ## 知识框架与趋势
 
 ### Agentic workflows
 - 状态：今日有直接证据
-- 证据数量：26
+- 证据数量：30
 - 说明：智能体工作流关注模型如何规划任务、调用工具并完成多步骤工作。
+- 证据：Senior Back-end Developer；Forward Deployed Engineer Agentic Platform；Software Engineer, AI Coding Tasks
+
+### AI coding workflows
+- 状态：今日有直接证据
+- 证据数量：20
+- 说明：AI 编程工作流关注 IDE、CLI、代码审查和自动化开发中的模型协作方式。
 - 证据：Senior Back-end Developer；Forward Deployed Engineer Agentic Platform；Software Engineer, AI Coding Tasks
 
 ### Retrieval-Augmented Generation
 - 状态：今日有直接证据
-- 证据数量：15
+- 证据数量：13
 - 说明：RAG 关注如何把外部知识检索、向量库和引用证据接入大模型应用。
 - 证据：Senior Back-end Developer；Forward Deployed Engineer Agentic Platform；Tech Lead Full-Stack Rails Engineer
-
-### AI coding workflows
-- 状态：今日有直接证据
-- 证据数量：14
-- 说明：AI 编程工作流关注 IDE、CLI、代码审查和自动化开发中的模型协作方式。
-- 证据：Senior Back-end Developer；Forward Deployed Engineer Agentic Platform；Software Engineer, AI Coding Tasks
 
 ### Model Context Protocol
 - 状态：今日有直接证据
 - 证据数量：8
 - 说明：MCP 关注 AI 应用如何用标准化方式连接工具、数据源和外部系统。
-- 证据：Meta's developer MCP gains six tools that let AI agents create apps - PPC Land；Haohao-end/openagent；langgenius/dify
+- 证据：ADP Expands AI Agents and MCP Integrations Across Enterprise Workflows - The National CIO Review；calmrocks/ai-engineer-notebooks；juspay/neurolink
 
-### LLM evaluation and observability
+### Small and on-device models
 - 状态：今日有直接证据
-- 证据数量：6
-- 说明：评测与可观测性关注如何测试、追踪和监控生产环境中的大模型行为。
-- 证据：Software Engineer, AI Coding Tasks；dataelement/bisheng；modelscope/ms-cookbook
+- 证据数量：4
+- 说明：小模型与端侧 AI 关注本地、边缘设备和隐私敏感场景中的模型部署。
+- 证据：Forward Deployed Engineer Agentic Platform；Tech Lead Full-Stack Rails Engineer；DenisovAV/flutter_edge_ai
 
 ## 交叉信号
 
 - 智能体同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。
+- AI 编程同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。
 - AI 基础设施同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。
 - LLMOps同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。
-- RAG同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。
-- AI 编程同时出现在岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。
+- 评测与可观测性同时出现在GitHub 项目、岗位中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。
 
 ## 数据覆盖情况
 
