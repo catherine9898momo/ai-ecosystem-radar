@@ -1,6 +1,6 @@
-# AI 岗位趋势 - 2026-10-31
+# AI 岗位趋势 - 2026-11-01
 
-岗位覆盖：8/5（达标）
+岗位覆盖：9/5（达标）
 
 ### [Senior Back-end Developer](https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135)
 - 公司：Lemon.io
@@ -56,6 +56,17 @@
 - 关注点：该岗位信号与智能体、AI 基础设施、远程岗位 相关，显示 Lemon.io 在 Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway 对相关 AI 能力有招聘需求。
 - JD 原文摘录：Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to...
 - JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、JavaScript、Agents、Kubernetes；岗位范围为 东南亚 Remote；发布方为 Lemon.io。
+
+### [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165)
+- 公司：Fluence International, Inc.
+- 地区：Worldwide
+- 来源：Remotive AI Jobs
+- 匹配范围：Global Remote
+- 标签：评测与可观测性、LLMOps、远程岗位
+- 技能点：TypeScript、JavaScript、评测、可观测性、Docker
+- 关注点：该岗位信号与评测与可观测性、LLMOps、远程岗位 相关，显示 Fluence International, Inc. 在 Worldwide 对相关 AI 能力有招聘需求。
+- JD 原文摘录：We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental health. You’ll work closely with and report to our Senior AI & Design Lead to turn product requirements into robust, secure, and well-documented applications, as well as maintain existing ones. What you’ll do...
+- JD 中文解读：该岗位要求的核心技能包括 TypeScript、JavaScript、评测、可观测性、Docker；岗位范围为 Global Remote；发布方为 Fluence International, Inc.。
 
 ### [Senior React Full-stack Developer](https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133)
 - 公司：Lemon.io
