@@ -1,6 +1,6 @@
-# AI 岗位趋势 - 2026-11-01
+# AI 岗位趋势 - 2026-11-02
 
-岗位覆盖：9/5（达标）
+岗位覆盖：7/5（达标）
 
 ### [Senior Back-end Developer](https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135)
 - 公司：Lemon.io
@@ -46,17 +46,6 @@
 - JD 原文摘录：About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and...
 - JD 中文解读：该岗位要求的核心技能包括 JavaScript、LangChain、Docker、Kubernetes、SQL；岗位范围为 Global Remote；发布方为 Mitre Media。
 
-### [Senior back-end Engineer](https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132)
-- 公司：Lemon.io
-- 地区：Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway
-- 来源：Remotive AI Jobs
-- 匹配范围：东南亚 Remote
-- 标签：智能体、AI 基础设施、远程岗位
-- 技能点：Python、TypeScript、JavaScript、Agents、Kubernetes
-- 关注点：该岗位信号与智能体、AI 基础设施、远程岗位 相关，显示 Lemon.io 在 Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway 对相关 AI 能力有招聘需求。
-- JD 原文摘录：Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities. We're currently hiring for a research-driven AI company on a mission to slash the cost of modern AI — co-designing hardware, software, algorithms, and models to make AI's benefits accessible to...
-- JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、JavaScript、Agents、Kubernetes；岗位范围为 东南亚 Remote；发布方为 Lemon.io。
-
 ### [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165)
 - 公司：Fluence International, Inc.
 - 地区：Worldwide
@@ -89,14 +78,3 @@
 - 关注点：该岗位信号与AI 编程、远程岗位 相关，显示 Phaidra 在 Remote - United States 对相关 AI 能力有招聘需求。
 - JD 原文摘录：About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades — because the controls programming is hard-coded. Thousands of lines of rules and heuristics that define how the machines interact with each other. The result of all this hard-coding is that...
 - JD 中文解读：该岗位要求的核心技能包括 Agents；岗位范围为 Global Remote；发布方为 Phaidra。
-
-### [Senior Platform Engineer](https://remoteOK.com/remote-jobs/remote-senior-platform-engineer-saas-group-1131468)
-- 公司：saas.group
-- 地区：Remote, Europe
-- 来源：RemoteOK AI Jobs
-- 匹配范围：Global Remote
-- 标签：LLMOps、远程岗位
-- 技能点：可观测性
-- 关注点：该岗位信号与LLMOps、远程岗位 相关，显示 saas.group 在 Remote, Europe 对相关 AI 能力有招聘需求。
-- JD 原文摘录：This role is part of our ScraperAPI team, one of our growing brands at saas.group. ScraperAPI is an enterprise-scale web scraping solution, trusted by businesses across a wide range of industries to extract crucial data at scale. From e-commerce, travel to real estate and market research, we support companies in turning the web into actionable insights. We're currently on an exciting growth journey, scaling...
-- JD 中文解读：该岗位要求的核心技能包括 可观测性；岗位范围为 Global Remote；发布方为 saas.group。
