@@ -1,4 +1,4 @@
-# AI 岗位趋势 - 2026-11-03
+# AI 岗位趋势 - 2026-11-04
 
 岗位覆盖：7/5（达标）
 
@@ -57,16 +57,16 @@
 - JD 原文摘录：We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental health. You’ll work closely with and report to our Senior AI & Design Lead to turn product requirements into robust, secure, and well-documented applications, as well as maintain existing ones. What you’ll do...
 - JD 中文解读：该岗位要求的核心技能包括 TypeScript、JavaScript、评测、可观测性、Docker；岗位范围为 Global Remote；发布方为 Fluence International, Inc.。
 
-### [Senior React Full-stack Developer](https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133)
-- 公司：Lemon.io
-- 地区：Europe, USA, Canada, APAC
-- 来源：Remotive AI Jobs
+### [AI ML Engineer](https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619)
+- 公司：Docusketch
+- 地区：未知
+- 来源：RemoteOK AI Jobs
 - 匹配范围：Global Remote
-- 标签：智能体、远程岗位
-- 技能点：Python、TypeScript、JavaScript、Agents
-- 关注点：该岗位信号与智能体、远程岗位 相关，显示 Lemon.io 在 Europe, USA, Canada, APAC 对相关 AI 能力有招聘需求。
-- JD 原文摘录：Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates —...
-- JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、JavaScript、Agents；岗位范围为 Global Remote；发布方为 Lemon.io。
+- 标签：多模态、远程岗位
+- 技能点：Python、PyTorch
+- 关注点：该岗位信号与多模态、远程岗位 相关，显示 Docusketch 在 未标明地区 对相关 AI 能力有招聘需求。
+- JD 原文摘录：The fastest-growing European SaaS company is searching for an AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing software vendors in the...
+- JD 中文解读：该岗位要求的核心技能包括 Python、PyTorch；岗位范围为 Global Remote；发布方为 Docusketch。
 
 ### [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567)
 - 公司：Phaidra
