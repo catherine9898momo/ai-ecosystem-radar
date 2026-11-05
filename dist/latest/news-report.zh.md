@@ -1,18 +1,6 @@
-# AI 新闻动态 - 2026-11-04
+# AI 新闻动态 - 2026-11-05
 
 新闻覆盖：10/5（达标）
-
-### [Uber Builds MCP Gateway to Govern Access to 800+ Servers and 5,000+ AI Agent Tools - infoq.com](https://news.google.com/rss/articles/CBMib0FVX3lxTFAwYTRmTzZjT1YyVjRJMnpNcGQxMjRKZFZJN0tXYTlscmRub0pGdDVuMmxfVm5BaE0yV3ZTQjVBay1TZmVkYlhuUmhTaVJYX3NFTlE2VDVYNTJjUWFUX2x1QUt2b3piN0xRYjMwbDlvUQ?oc=5)
-- 来源：AI Agents News
-- 发布时间：2026-11-02T13:53:31+00:00
-- 标签：智能体、MCP
-- 摘要：这条动态与智能体、MCP相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [DeepSeek Super Agent's Powerful Ways to Transform AI Coding - Open Source For You](https://news.google.com/rss/articles/CBMibEFVX3lxTFBBSWRQZHowLVB1QUN5RUJsX3pLSWlZVDRXUXE1SmNJaTluVGVuVURVNjcwUlpPQlRuY1dnQXpsa2E0TlNmZktTM2xNU2FnbmhUOXhkWDFPZlJRNG5Vc3B0NmpSY2tCOFVhZl8tWQ?oc=5)
-- 来源：AI Coding Tools News
-- 发布时间：2026-11-02T07:58:36+00:00
-- 标签：智能体、AI 编程
-- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
 ### [NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom](https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR?oc=5)
 - 来源：AI Model Releases
@@ -26,38 +14,50 @@
 - 标签：LLMOps、AI 基础设施、模型发布
 - 摘要：这条动态与LLMOps、AI 基础设施、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [Liner Launches Actions MCP, Connecting AI Agents to More Than 1,100 Verified Apps Through a Single Integration - VMblog](https://news.google.com/rss/articles/CBMizgFBVV95cUxQSU05dGhRdUFjRW41Q3lwaktNd0FackkwNnhnZXNGUUxLZUNsOFZETVNsdnFlM3ZxSXJKb3FGUXdLdWZ5eHp0eUNuQURscFA5UjZjNUlTbGFrdFlxc2pnOVhWUHVFWGtlNm9FbzUxSTdtZWxPZ21jNjZLOHMzZTFQdXZZWFBhbXJvRDFGUFgzWDktY1JUMHd6eE9DSDhxM21DelRZenFYeWdPc1dXZksyWU5JclRTa0cwT0FBQjR5ZGtqVS02a2N1aFc2M2xTZw?oc=5)
-- 来源：AI Agents News
-- 发布时间：2026-11-03T21:22:30+00:00
-- 标签：智能体、MCP
-- 摘要：这条动态与智能体、MCP相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [Lofty AI: Andrew Wild on Agents, MCP and the End of Login Metrics - The Tech Buzz](https://news.google.com/rss/articles/CBMieEFVX3lxTE11bDA4WWtaajh6NWg2eXhNdnEtQi1saEZ5Xy1xNm01dnNJZjRrWFdiV3BZU0haNWh5WmxDX1FjbHFjWklud1FYSVNOWC1nSWZkYl9NZ0pGRjlnRG40dXdZNTd6cEdmazhVTk41UmgzQ2Jka3l1VVNwSw?oc=5)
-- 来源：AI Agents News
-- 发布时间：2026-11-03T19:56:50+00:00
-- 标签：智能体、MCP
-- 摘要：这条动态与智能体、MCP相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [Homesage.ai Opens 160M+ U.S. Properties to AI Agents With New Real Estate MCP Server - The National Law Review](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUxsUWwtdGxRelVRa1pTRE5QdEdyY05OOHBLVGsxaWNHY2xkdDBhZW53S2FncUV6Q1B3V1VFcGFkQnVCMzJxVFhSU0lkcUpnRlJCWFZ0ZU5tNnR3c29lcDdsekc4QUZjalVSYTZyeXBnN0RVNzJ3SS1kWW9RSVlwYTF2ZkRRbWYxRmZPejYtSkJWSUotZV9qNGkyc1R6ZWh4ckFMcHZscUNvQmVPeUU4ZjVB?oc=5)
-- 来源：AI Agents News
-- 发布时间：2026-11-03T17:11:08+00:00
-- 标签：智能体、MCP
-- 摘要：这条动态与智能体、MCP相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [AI Agent Plugin Backdoor Steals Credentials Without a Model Tool Call - TechNadu](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1lkcGVDeElRVXpfVVczQWZ3RUFBbUVOMTJ6OVZseS0yNFhvS0FrVlFDZDhKMGlDYlhwNGtwT1Bnc2h4aDVMcHEwd05ndW1YNDVsQnVWR2c3RGM4VlpHNnRLbnJpNW90UHNMeWdZc2w0Mi1lU2RXcXNtTWhqMFYxcU5weVRvOGZxVl80S1Qxd1JodFlTaklLdU53UkdLa3dVVTJqNg?oc=5)
+### [Meta Acquires AI Coding Startup Conductor, Securing Development Environment for 'Agent Legions' - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTFA3d1I1NXlmLVNaM2FXbzhKTUxOZHZ0blljR0Z2WHFvdjV0MHpCQ3RrQndJNmRBNWpoLUdhai1oTnp4OUJfRVNtSUlIZ2VXUzV6bXFnX2ZVelE0NDhMU3o4NHRjdzBxUWFfSTJ4bnphYlZKMGFjd0E?oc=5)
 - 来源：AI Coding Tools News
-- 发布时间：2026-11-02T21:54:48+00:00
+- 发布时间：2026-11-05T01:46:00+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [DeepSeek Super-Agent AI Arrives to Compete With Anthropic’s Claude Code: Details Inside - Mashable India](https://news.google.com/rss/articles/CBMivgFBVV95cUxNRW01Q0RQaFlIeXNhZ2FRRkhpU2ZOcW1XakYxLU42RXRBNmtDWHBfVVNqU1lhMTRpeUhESUJaV3hIeHFJTFhFbDRpbGY4RjhRYU5oMEVhTFZvT0hvQlN1SXR3MEpZbDBHaXh6a3V2WTVCVlNsVi1aVjZVbXQ4LXVhdFFlR0prcHpVTWtPTzczazNRMTE0VlVEa194dVZhWE9wNkMyb3lqUk9GZkw2RzBBeHp6cU1QeVJPdm1SVmF3?oc=5)
+### [DeepSeek wants to steal Claude Code and Codex’s lunch with an AI Super Agent that does not wait around - Yahoo Tech](https://news.google.com/rss/articles/CBMikwFBVV95cUxPU2g5WFVPX0EySnY3X2dWYTVlb2xfaUNaVVAyTU45UjUyY3Vyb2xDYTQ5b2g0X192TmMxLWdxQ1cyOS1ubXlsalhQQm1sdUZPNWxvWV9JSERTNC1xbktGd3dwY1QtVFgxSlZJZm44SlI2UTJrZFhuN2VUVmNYcUg1aEVLeEc4emd3WFRTQUZxNmZpNFE?oc=5)
 - 来源：AI Coding Tools News
-- 发布时间：2026-11-02T09:15:40+00:00
+- 发布时间：2026-11-04T16:16:01+00:00
+- 标签：智能体、AI 编程
+- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [Exclusive: BlueFlag Security expands AI agent governance to cover unapproved coding agents - SiliconANGLE](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlY3QnNIN2VlOGJGbC1sTzZuRVpYZjNhZ0swdDJBdF82R3lHMng0eWg4ZVRaVU9qcVA2dlh4ejFDNHBYa1RLQnV5ZDhDeWRycTIxaGV2NmFRMjVlSjB4LVBKeU5nWlh2TmNpQ3hoQlVZWUJiSmx0NkdCdi1QdXVyb2VsZWFsNUY3MFBieG1ldEpxSkl4NDNzdVdlWnozQ05JQXNId1VuNkVOWVdQNlZqV05XVjhPMG40SHRSWHNQdl8wQUJw?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-11-04T14:00:00+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
 ### [DeepSeek Launches Autonomous AI Coding Agent to Rival Anthropic’s Claude Code - Convergence Now](https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVVsWDlaT3o2TlJKR0dEdjNwS0I2OUhkajBfd2V1cU1lU045Y2RIYllFQTh3R2pHZWZ1UzVyMV9UUGx1VzgtbDZ5em5hRnp4clVwR2JXNjhyQW84VDdCMXhHbVJCaThVRXJQSFFSZVprWk12R2RTeS1hOHBmcGxrbm55VWI5ZERhc0JBckMxUDl3NW9BLU9RQ0dZTTBhR2JpWk5KZW9mRHdIX2lEXzBlTDRWajY0QVM5SkZTaFRzRHRMR0ZoZFplbl9Hd1pKQQ?oc=5)
 - 来源：AI Coding Tools News
 - 发布时间：2026-11-02T09:06:08+00:00
+- 标签：智能体、AI 编程
+- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJKXy1xWWNFX3hLZktkaW5tZ2Q3cHoyZ3FnTDRHM2hQSlFjRVJ5X253RUNmZTg5VjJtOUFnMlhpZHN5VU5meVFGTWRFbWprUnBrb3pnMjl1bjJIUWdjQ2ZXa0w5V2g0X3E4ODloa0FmTXc3MTlHMDBQZFh6LXpYbTUwbVBYcTZSMEh1MXRQbFdyRFdBbzhPbmFn?oc=5)
+- 来源：AI Model Releases
+- 发布时间：2026-09-30T07:00:00+00:00
+- 标签：智能体、模型发布
+- 摘要：这条动态与智能体、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [We’re bringing governed agent loops to the AI-Native SDLC - Atlassian](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtWmVoNk9RRGhkek5YVXlGNkYwek5laXRNSFV0ZkdVWnVJdUY4d0dyUUhNWHV2ZWw4TEdvSGk4YldpMXhpNlFEWm16SHZZMUJtMnQzblhEOGk5dW54S1JsaE5HQVNwUUE?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-09-10T07:00:00+00:00
+- 标签：智能体、AI 编程
+- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-08-05T07:00:00+00:00
+- 标签：智能体、AI 编程
+- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [ServiceNow Build Agent now works inside every major AI coding tool, governed by default - ServiceNow Newsroom](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZS1lSWhkUW1kb3dmckQ3cDNRNVJ0MFFBN0VjVnhQR1EtWlNjZDJXc0tRdFV1cU9LVy1oT2xtaWI2Z2ZfTl9ySG5ITjJYcW5NWF8zOG5jOXVoZFBsMUpIdV9XS3l3ODhZN2FIVC1DZkxzaGg1eG45alUtUnNmOFZCcEhUZndzNjM5TUlNLWJCT0JJRHhYTnRQU1gxZWdlTkZ3QUVMZmdGemlCTXhEYXRhYURjOWl2RGtoMk84ZkplZ0g2dGNIbEJZSjBRcURwRTFaRjVfTlNSYnJPSjZ3RUdCOGk5NXNLanlfWWJpcloybk0?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-05-06T07:00:00+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。

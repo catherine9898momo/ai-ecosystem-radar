@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-04T05:31:19.877577+00:00",
+  "generated_at": "2026-11-05T05:51:33.354330+00:00",
   "coverage": {
     "jobs": {
       "count": 7,
@@ -25,11 +25,11 @@
     }
   },
   "summary": [
-    "agents 在 20 条记录中出现，中文主题可理解为：智能体。",
-    "mcp 在 12 条记录中出现，中文主题可理解为：MCP。",
-    "ai_coding 在 10 条记录中出现，中文主题可理解为：AI 编程。",
-    "llm 在 9 条记录中出现，中文主题可理解为：大模型。",
-    "rag 在 9 条记录中出现，中文主题可理解为：RAG。"
+    "agents 在 19 条记录中出现，中文主题可理解为：智能体。",
+    "ai_coding 在 13 条记录中出现，中文主题可理解为：AI 编程。",
+    "ai 在 10 条记录中出现，中文主题可理解为：ai。",
+    "rag 在 9 条记录中出现，中文主题可理解为：RAG。",
+    "llm 在 8 条记录中出现，中文主题可理解为：大模型。"
   ],
   "jobs": [
     {
@@ -84,7 +84,7 @@
       "relevance_score": 16,
       "company": "Cohere",
       "location": "",
-      "jd": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers. Cohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of the best in the world at what they do. We believe that a diverse range of perspectives is a requirement for building great products. Join us on our mission and shape the future! About North: North is Cohere's cutting-edge AI workspace platform, designed to revolutionize the way enterprises utilize AI. It offers a secure and customizable environment, allowing companies to deploy AI while maintaining control over sensitive data. North integrates seamlessly with existing workflows, providing a trusted platform that connects AI agents with workplace tools and applications. Why This Role? This role offers a unique opportunity to shape how enterprises harness the power of AI in real-world applications. As a bridge between our core North product and our clients’ engineering teams, you’ll be at the forefront of solving complex problems and securely integrating AI into critical sectors such as finance, healthcare, and telecommunications. We are seeking engineers with diverse skill sets, including backend, infrastructure, agent development, and deployments, who deeply care about customers and want to work at the cutting edge of Agentic AI. Note: between 20 - 40% travel anticipated In this role, you will: Build and ship features for North, our AI workspace platform Develop autonomous agents that talk to sensitive enterprise data Experiment at a high velocity and with a high level of quality to engage our customers and ultimately deliver solutions that exceed their expectations Work across the entire product lifecycle from conceptualization through production You may be a good fit if: You have experience with and enjoy working directly with customers You are fluent in both English and Arabic You have shipped (lots of) Python in production You have built and deployed highly performant client-side or server-side RAG/agentic applications You have strong coding abilities and are comfortable working across the stack. You’re able to read and understand, and even fix issues outside of the main code base You excel in fast-paced environments and can execute while priorities and objectives are a moving target We are open to candidates currently based in the Middle East or who are open to travelling or relocating. If some of the above doesn’t line up perfectly with your experience, we still encourage you to apply! We value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form , and we will work together to meet your needs. Full-Time Employees at Cohere enjoy these Perks: 🤝 An open and inclusive culture and work environment 🧑‍💻 Work closely with a team on the cutting edge of AI research 🍽 Weekly lunch stipend, in-office lunches & snacks 🦷 Full health and dental benefits, including a separate budget to take care of your mental health 🐣 100% Parental Leave top-up for up to 6 months 🎨 Personal enrichment benefits towards arts and culture, fitness and well-being, quality time, and workspace improvement 🏙 Remote-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co-working stipend ✈️ 6 weeks of vacation (30 working days!) Please mention the word **LIKABLE** and tag RNTIuMjQyLjI0Mi4xODI= when applying to show you read the job post completely (#RNTIuMjQyLjI0Mi4xODI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers. Cohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of the best in the world at what they do. We believe that a diverse range of perspectives is a requirement for building great products. Join us on our mission and shape the future! About North: North is Cohere's cutting-edge AI workspace platform, designed to revolutionize the way enterprises utilize AI. It offers a secure and customizable environment, allowing companies to deploy AI while maintaining control over sensitive data. North integrates seamlessly with existing workflows, providing a trusted platform that connects AI agents with workplace tools and applications. Why This Role? This role offers a unique opportunity to shape how enterprises harness the power of AI in real-world applications. As a bridge between our core North product and our clients’ engineering teams, you’ll be at the forefront of solving complex problems and securely integrating AI into critical sectors such as finance, healthcare, and telecommunications. We are seeking engineers with diverse skill sets, including backend, infrastructure, agent development, and deployments, who deeply care about customers and want to work at the cutting edge of Agentic AI. Note: between 20 - 40% travel anticipated In this role, you will: Build and ship features for North, our AI workspace platform Develop autonomous agents that talk to sensitive enterprise data Experiment at a high velocity and with a high level of quality to engage our customers and ultimately deliver solutions that exceed their expectations Work across the entire product lifecycle from conceptualization through production You may be a good fit if: You have experience with and enjoy working directly with customers You are fluent in both English and Arabic You have shipped (lots of) Python in production You have built and deployed highly performant client-side or server-side RAG/agentic applications You have strong coding abilities and are comfortable working across the stack. You’re able to read and understand, and even fix issues outside of the main code base You excel in fast-paced environments and can execute while priorities and objectives are a moving target We are open to candidates currently based in the Middle East or who are open to travelling or relocating. If some of the above doesn’t line up perfectly with your experience, we still encourage you to apply! We value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form , and we will work together to meet your needs. Full-Time Employees at Cohere enjoy these Perks: 🤝 An open and inclusive culture and work environment 🧑‍💻 Work closely with a team on the cutting edge of AI research 🍽 Weekly lunch stipend, in-office lunches & snacks 🦷 Full health and dental benefits, including a separate budget to take care of your mental health 🐣 100% Parental Leave top-up for up to 6 months 🎨 Personal enrichment benefits towards arts and culture, fitness and well-being, quality time, and workspace improvement 🏙 Remote-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co-working stipend ✈️ 6 weeks of vacation (30 working days!) Please mention the word **LIKABLE** and tag RMTMuODkuMTI2LjY1 when applying to show you read the job post completely (#RMTMuODkuMTI2LjY1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to...",
       "jd_language": "en",
       "skills": [
@@ -207,7 +207,7 @@
       "relevance_score": 8,
       "company": "Docusketch",
       "location": "",
-      "jd": "The fastest-growing European SaaS company is searching for an AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing software vendors in the rapidly expanding property tech sector. Our enthusiastic customer base is located across Europe and North America. DocuSketch's groundbreaking digital technology greatly facilitates real estate companies and building restoration companies to digitize, visualize, and virtualize real estate properties. Our solutions help our clients realize tremendous cost-saving potentials, process optimization, and revenue growth. You’ll be working in a team that drives the company's AI development to develop algorithms for a variety of different use cases. This includes e.g. working with equirectangular, phone, or satellite images to detect doors, windows, or other objects inside of buildings or finding facets on the roof. You’ll be challenged by solving complex 3D geometry problems and working closely with our labeling team to ensure the best possible data quality. Responsibilities and Duties: · Research, train and deploy state-of-the-art machine learning models for object detection and 3D perception on equirectangular images · Quickly prototype new ideas/technologies to create proof of concept and demos Qualifications: · Bachelor’s Degree in Computer Science or equivalent experience · Excellent math skills · Experience with 3D computer vision algorithms · Preferably 5+ years of experience developing and training machine learning models · Strong Experience with Deep ML frameworks (PyTorch) · Strong Experience in Python · Self-motivated and energetic team player with a strong work ethic and cooperative attitude · Excellent communication and organizational skills Plus: · Familiarity with building big data systems · Training very large models using multiple GPUs in the cloud · Experience with training machine learning models on equirectangular images We are seeking a performance-driven, high-energy personality who has several years of experience in the field. Since you will work intensely with teams from many countries solid command of the English language is a prerequisite. We offer attractive compensation, unlimited career opportunities, and the possibility to work in one of the most exciting software companies in the industry. The position will be remote in any location of choice in Europe (outside Russia, Belarus, and Ukraine). Our headquarters are in Berlin, Germany, with major offices in Belgrade, Serbia, Lakeland, Florida, and in Canada. We look forward to receiving your application! Please mention the word **REGAL** and tag RNTIuMjQyLjI0Mi4xODI= when applying to show you read the job post completely (#RNTIuMjQyLjI0Mi4xODI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "The fastest-growing European SaaS company is searching for an AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing software vendors in the rapidly expanding property tech sector. Our enthusiastic customer base is located across Europe and North America. DocuSketch's groundbreaking digital technology greatly facilitates real estate companies and building restoration companies to digitize, visualize, and virtualize real estate properties. Our solutions help our clients realize tremendous cost-saving potentials, process optimization, and revenue growth. You’ll be working in a team that drives the company's AI development to develop algorithms for a variety of different use cases. This includes e.g. working with equirectangular, phone, or satellite images to detect doors, windows, or other objects inside of buildings or finding facets on the roof. You’ll be challenged by solving complex 3D geometry problems and working closely with our labeling team to ensure the best possible data quality. Responsibilities and Duties: · Research, train and deploy state-of-the-art machine learning models for object detection and 3D perception on equirectangular images · Quickly prototype new ideas/technologies to create proof of concept and demos Qualifications: · Bachelor’s Degree in Computer Science or equivalent experience · Excellent math skills · Experience with 3D computer vision algorithms · Preferably 5+ years of experience developing and training machine learning models · Strong Experience with Deep ML frameworks (PyTorch) · Strong Experience in Python · Self-motivated and energetic team player with a strong work ethic and cooperative attitude · Excellent communication and organizational skills Plus: · Familiarity with building big data systems · Training very large models using multiple GPUs in the cloud · Experience with training machine learning models on equirectangular images We are seeking a performance-driven, high-energy personality who has several years of experience in the field. Since you will work intensely with teams from many countries solid command of the English language is a prerequisite. We offer attractive compensation, unlimited career opportunities, and the possibility to work in one of the most exciting software companies in the industry. The position will be remote in any location of choice in Europe (outside Russia, Belarus, and Ukraine). Our headquarters are in Berlin, Germany, with major offices in Belgrade, Serbia, Lakeland, Florida, and in Canada. We look forward to receiving your application! Please mention the word **REGAL** and tag RMTMuODkuMTI2LjY1 when applying to show you read the job post completely (#RMTMuODkuMTI2LjY1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "The fastest-growing European SaaS company is searching for an AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing software vendors in the...",
       "jd_language": "en",
       "skills": [
@@ -234,7 +234,7 @@
       "relevance_score": 8,
       "company": "Phaidra",
       "location": "Remote - United States",
-      "jd": "About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades — because the controls programming is hard-coded. Thousands of lines of rules and heuristics that define how the machines interact with each other. The result of all this hard-coding is that facilities are frozen in time, unable to adapt to their environment while their performance slowly degrades. Phaidra creates AI-powered control systems for the industrial sector, enabling industrial facilities to automatically learn and improve over time. Specifically: We use reinforcement learning algorithms to provide this intelligence, converting raw sensor data into high-value actions and decisions. We focus on industrial applications, which tend to be well-sensorized with measurable KPIs — perfect for reinforcement learning. We enable domain experts (our users) to configure the AI control systems (i.e. agents) without writing code. They define what they want their AI agents to do, and we do it for them. Our team has a track record of applying AI to some of the toughest problems. From achieving superhuman performance with DeepMind's AlphaGo, to reducing the energy required to cool Google's Data Centers by 40%, we deeply understand AI and how to apply it in production for massive impact. Phaidra’s ability to achieve its mission is determined by our ability to work together — as defined by our core values: Transparency, Collaboration, Operational Excellence, Ownership, and Empathy. We seek individuals who embody these values, as they are instrumental i Please mention the word **ASTOUNDED** and tag RNTIuMjQyLjI0Mi4xODI= when applying to show you read the job post completely (#RNTIuMjQyLjI0Mi4xODI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades — because the controls programming is hard-coded. Thousands of lines of rules and heuristics that define how the machines interact with each other. The result of all this hard-coding is that facilities are frozen in time, unable to adapt to their environment while their performance slowly degrades. Phaidra creates AI-powered control systems for the industrial sector, enabling industrial facilities to automatically learn and improve over time. Specifically: We use reinforcement learning algorithms to provide this intelligence, converting raw sensor data into high-value actions and decisions. We focus on industrial applications, which tend to be well-sensorized with measurable KPIs — perfect for reinforcement learning. We enable domain experts (our users) to configure the AI control systems (i.e. agents) without writing code. They define what they want their AI agents to do, and we do it for them. Our team has a track record of applying AI to some of the toughest problems. From achieving superhuman performance with DeepMind's AlphaGo, to reducing the energy required to cool Google's Data Centers by 40%, we deeply understand AI and how to apply it in production for massive impact. Phaidra’s ability to achieve its mission is determined by our ability to work together — as defined by our core values: Transparency, Collaboration, Operational Excellence, Ownership, and Empathy. We seek individuals who embody these values, as they are instrumental i Please mention the word **ASTOUNDED** and tag RMTMuODkuMTI2LjY1 when applying to show you read the job post completely (#RMTMuODkuMTI2LjY1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades — because the controls programming is hard-coded. Thousands of lines of rules and heuristics that define how the machines interact with each other. The result of all this hard-coding is that...",
       "jd_language": "en",
       "skills": [
@@ -246,36 +246,6 @@
     }
   ],
   "news": [
-    {
-      "id": "9d9394c5f12e2dc1",
-      "section": "news",
-      "source": "AI Agents News",
-      "title": "Uber Builds MCP Gateway to Govern Access to 800+ Servers and 5,000+ AI Agent Tools - infoq.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwYTRmTzZjT1YyVjRJMnpNcGQxMjRKZFZJN0tXYTlscmRub0pGdDVuMmxfVm5BaE0yV3ZTQjVBay1TZmVkYlhuUmhTaVJYX3NFTlE2VDVYNTJjUWFUX2x1QUt2b3piN0xRYjMwbDlvUQ?oc=5",
-      "published_at": "2026-11-02T13:53:31+00:00",
-      "summary": "Uber Builds MCP Gateway to Govern Access to 800+ Servers and 5,000+ AI Agent Tools infoq.com",
-      "tags": [
-        "agents",
-        "mcp",
-        "news"
-      ],
-      "relevance_score": 9
-    },
-    {
-      "id": "84884c0755914206",
-      "section": "news",
-      "source": "AI Coding Tools News",
-      "title": "DeepSeek Super Agent's Powerful Ways to Transform AI Coding - Open Source For You",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBSWRQZHowLVB1QUN5RUJsX3pLSWlZVDRXUXE1SmNJaTluVGVuVURVNjcwUlpPQlRuY1dnQXpsa2E0TlNmZktTM2xNU2FnbmhUOXhkWDFPZlJRNG5Vc3B0NmpSY2tCOFVhZl8tWQ?oc=5",
-      "published_at": "2026-11-02T07:58:36+00:00",
-      "summary": "DeepSeek Super Agent's Powerful Ways to Transform AI Coding Open Source For You",
-      "tags": [
-        "agents",
-        "ai_coding",
-        "news"
-      ],
-      "relevance_score": 9
-    },
     {
       "id": "33b752aa9fbedfc6",
       "section": "news",
@@ -309,58 +279,13 @@
       "relevance_score": 9
     },
     {
-      "id": "a6cf080bea1a2648",
-      "section": "news",
-      "source": "AI Agents News",
-      "title": "Liner Launches Actions MCP, Connecting AI Agents to More Than 1,100 Verified Apps Through a Single Integration - VMblog",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSU05dGhRdUFjRW41Q3lwaktNd0FackkwNnhnZXNGUUxLZUNsOFZETVNsdnFlM3ZxSXJKb3FGUXdLdWZ5eHp0eUNuQURscFA5UjZjNUlTbGFrdFlxc2pnOVhWUHVFWGtlNm9FbzUxSTdtZWxPZ21jNjZLOHMzZTFQdXZZWFBhbXJvRDFGUFgzWDktY1JUMHd6eE9DSDhxM21DelRZenFYeWdPc1dXZksyWU5JclRTa0cwT0FBQjR5ZGtqVS02a2N1aFc2M2xTZw?oc=5",
-      "published_at": "2026-11-03T21:22:30+00:00",
-      "summary": "Liner Launches Actions MCP, Connecting AI Agents to More Than 1,100 Verified Apps Through a Single Integration VMblog",
-      "tags": [
-        "agents",
-        "mcp",
-        "news"
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "1bcdac5c0a1b6904",
-      "section": "news",
-      "source": "AI Agents News",
-      "title": "Lofty AI: Andrew Wild on Agents, MCP and the End of Login Metrics - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11bDA4WWtaajh6NWg2eXhNdnEtQi1saEZ5Xy1xNm01dnNJZjRrWFdiV3BZU0haNWh5WmxDX1FjbHFjWklud1FYSVNOWC1nSWZkYl9NZ0pGRjlnRG40dXdZNTd6cEdmazhVTk41UmgzQ2Jka3l1VVNwSw?oc=5",
-      "published_at": "2026-11-03T19:56:50+00:00",
-      "summary": "Lofty AI: Andrew Wild on Agents, MCP and the End of Login Metrics The Tech Buzz",
-      "tags": [
-        "agents",
-        "mcp",
-        "news"
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "326fc941a8578473",
-      "section": "news",
-      "source": "AI Agents News",
-      "title": "Homesage.ai Opens 160M+ U.S. Properties to AI Agents With New Real Estate MCP Server - The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUxsUWwtdGxRelVRa1pTRE5QdEdyY05OOHBLVGsxaWNHY2xkdDBhZW53S2FncUV6Q1B3V1VFcGFkQnVCMzJxVFhSU0lkcUpnRlJCWFZ0ZU5tNnR3c29lcDdsekc4QUZjalVSYTZyeXBnN0RVNzJ3SS1kWW9RSVlwYTF2ZkRRbWYxRmZPejYtSkJWSUotZV9qNGkyc1R6ZWh4ckFMcHZscUNvQmVPeUU4ZjVB?oc=5",
-      "published_at": "2026-11-03T17:11:08+00:00",
-      "summary": "Homesage.ai Opens 160M+ U.S. Properties to AI Agents With New Real Estate MCP Server The National Law Review",
-      "tags": [
-        "agents",
-        "mcp",
-        "news"
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "de7a8a6cade572a1",
+      "id": "fbae81acddd3e524",
       "section": "news",
       "source": "AI Coding Tools News",
-      "title": "AI Agent Plugin Backdoor Steals Credentials Without a Model Tool Call - TechNadu",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1lkcGVDeElRVXpfVVczQWZ3RUFBbUVOMTJ6OVZseS0yNFhvS0FrVlFDZDhKMGlDYlhwNGtwT1Bnc2h4aDVMcHEwd05ndW1YNDVsQnVWR2c3RGM4VlpHNnRLbnJpNW90UHNMeWdZc2w0Mi1lU2RXcXNtTWhqMFYxcU5weVRvOGZxVl80S1Qxd1JodFlTaklLdU53UkdLa3dVVTJqNg?oc=5",
-      "published_at": "2026-11-02T21:54:48+00:00",
-      "summary": "AI Agent Plugin Backdoor Steals Credentials Without a Model Tool Call TechNadu",
+      "title": "Meta Acquires AI Coding Startup Conductor, Securing Development Environment for 'Agent Legions' - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3d1I1NXlmLVNaM2FXbzhKTUxOZHZ0blljR0Z2WHFvdjV0MHpCQ3RrQndJNmRBNWpoLUdhai1oTnp4OUJfRVNtSUlIZ2VXUzV6bXFnX2ZVelE0NDhMU3o4NHRjdzBxUWFfSTJ4bnphYlZKMGFjd0E?oc=5",
+      "published_at": "2026-11-05T01:46:00+00:00",
+      "summary": "Meta Acquires AI Coding Startup Conductor, Securing Development Environment for 'Agent Legions' BigGo Finance",
       "tags": [
         "agents",
         "ai_coding",
@@ -369,13 +294,28 @@
       "relevance_score": 8
     },
     {
-      "id": "c9386e37e3c48a1c",
+      "id": "7f01d75e93d7c660",
       "section": "news",
       "source": "AI Coding Tools News",
-      "title": "DeepSeek Super-Agent AI Arrives to Compete With Anthropic’s Claude Code: Details Inside - Mashable India",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRW01Q0RQaFlIeXNhZ2FRRkhpU2ZOcW1XakYxLU42RXRBNmtDWHBfVVNqU1lhMTRpeUhESUJaV3hIeHFJTFhFbDRpbGY4RjhRYU5oMEVhTFZvT0hvQlN1SXR3MEpZbDBHaXh6a3V2WTVCVlNsVi1aVjZVbXQ4LXVhdFFlR0prcHpVTWtPTzczazNRMTE0VlVEa194dVZhWE9wNkMyb3lqUk9GZkw2RzBBeHp6cU1QeVJPdm1SVmF3?oc=5",
-      "published_at": "2026-11-02T09:15:40+00:00",
-      "summary": "DeepSeek Super-Agent AI Arrives to Compete With Anthropic’s Claude Code: Details Inside Mashable India",
+      "title": "DeepSeek wants to steal Claude Code and Codex’s lunch with an AI Super Agent that does not wait around - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU2g5WFVPX0EySnY3X2dWYTVlb2xfaUNaVVAyTU45UjUyY3Vyb2xDYTQ5b2g0X192TmMxLWdxQ1cyOS1ubXlsalhQQm1sdUZPNWxvWV9JSERTNC1xbktGd3dwY1QtVFgxSlZJZm44SlI2UTJrZFhuN2VUVmNYcUg1aEVLeEc4emd3WFRTQUZxNmZpNFE?oc=5",
+      "published_at": "2026-11-04T16:16:01+00:00",
+      "summary": "DeepSeek wants to steal Claude Code and Codex’s lunch with an AI Super Agent that does not wait around Yahoo Tech",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "aae390fac40100e9",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "Exclusive: BlueFlag Security expands AI agent governance to cover unapproved coding agents - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlY3QnNIN2VlOGJGbC1sTzZuRVpYZjNhZ0swdDJBdF82R3lHMng0eWg4ZVRaVU9qcVA2dlh4ejFDNHBYa1RLQnV5ZDhDeWRycTIxaGV2NmFRMjVlSjB4LVBKeU5nWlh2TmNpQ3hoQlVZWUJiSmx0NkdCdi1QdXVyb2VsZWFsNUY3MFBieG1ldEpxSkl4NDNzdVdlWnozQ05JQXNId1VuNkVOWVdQNlZqV05XVjhPMG40SHRSWHNQdl8wQUJw?oc=5",
+      "published_at": "2026-11-04T14:00:00+00:00",
+      "summary": "Exclusive: BlueFlag Security expands AI agent governance to cover unapproved coding agents SiliconANGLE",
       "tags": [
         "agents",
         "ai_coding",
@@ -397,16 +337,76 @@
         "news"
       ],
       "relevance_score": 8
+    },
+    {
+      "id": "9563ef6496366e5d",
+      "section": "news",
+      "source": "AI Model Releases",
+      "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJKXy1xWWNFX3hLZktkaW5tZ2Q3cHoyZ3FnTDRHM2hQSlFjRVJ5X253RUNmZTg5VjJtOUFnMlhpZHN5VU5meVFGTWRFbWprUnBrb3pnMjl1bjJIUWdjQ2ZXa0w5V2g0X3E4ODloa0FmTXc3MTlHMDBQZFh6LXpYbTUwbVBYcTZSMEh1MXRQbFdyRFdBbzhPbmFn?oc=5",
+      "published_at": "2026-09-30T07:00:00+00:00",
+      "summary": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns The Guardian",
+      "tags": [
+        "agents",
+        "models",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "613b93abf8fd96c5",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "We’re bringing governed agent loops to the AI-Native SDLC - Atlassian",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtWmVoNk9RRGhkek5YVXlGNkYwek5laXRNSFV0ZkdVWnVJdUY4d0dyUUhNWHV2ZWw4TEdvSGk4YldpMXhpNlFEWm16SHZZMUJtMnQzblhEOGk5dW54S1JsaE5HQVNwUUE?oc=5",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "summary": "We’re bringing governed agent loops to the AI-Native SDLC Atlassian",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "bc692ba6e1436c1c",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5",
+      "published_at": "2026-08-05T07:00:00+00:00",
+      "summary": "Meta debuts first AI coding agent to take on Anthropic and OpenAI CNBC",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "256a15d9db1bf3c9",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "ServiceNow Build Agent now works inside every major AI coding tool, governed by default - ServiceNow Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZS1lSWhkUW1kb3dmckQ3cDNRNVJ0MFFBN0VjVnhQR1EtWlNjZDJXc0tRdFV1cU9LVy1oT2xtaWI2Z2ZfTl9ySG5ITjJYcW5NWF8zOG5jOXVoZFBsMUpIdV9XS3l3ODhZN2FIVC1DZkxzaGg1eG45alUtUnNmOFZCcEhUZndzNjM5TUlNLWJCT0JJRHhYTnRQU1gxZWdlTkZ3QUVMZmdGemlCTXhEYXRhYURjOWl2RGtoMk84ZkplZ0g2dGNIbEJZSjBRcURwRTFaRjVfTlNSYnJPSjZ3RUdCOGk5NXNLanlfWWJpcloybk0?oc=5",
+      "published_at": "2026-05-06T07:00:00+00:00",
+      "summary": "ServiceNow Build Agent now works inside every major AI coding tool, governed by default ServiceNow Newsroom",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
     }
   ],
   "github_repos": [
     {
       "id": "d783ebd33395316f",
       "section": "github_repos",
-      "source": "GitHub RAG Repositories",
+      "source": "GitHub LLM Repositories",
       "title": "headroomlabs-ai/headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
-      "published_at": "2026-11-04T05:20:00+00:00",
+      "published_at": "2026-11-05T05:49:24+00:00",
       "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "tags": [
         "agent",
@@ -434,110 +434,43 @@
       ],
       "relevance_score": 16,
       "repo": "headroomlabs-ai/headroom",
-      "stars": 78775,
+      "stars": 78880,
       "language": "Python"
     },
     {
-      "id": "2c8cfb138808fae1",
+      "id": "51d7d526a9e3f054",
       "section": "github_repos",
       "source": "GitHub LLM Repositories",
-      "title": "NVIDIA/skills",
-      "url": "https://github.com/NVIDIA/skills",
-      "published_at": "2026-11-04T05:22:52+00:00",
-      "summary": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+      "title": "langwatch/langwatch",
+      "url": "https://github.com/langwatch/langwatch",
+      "published_at": "2026-11-05T05:46:25+00:00",
+      "summary": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assistant in the company.",
       "tags": [
-        "agent-skills",
-        "agentic-ai",
+        "agent-testing",
         "agents",
-        "ai-agents",
+        "ai",
         "ai_coding",
-        "ai_infra",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "cuda",
-        "developer-tools",
-        "github",
-        "llm",
-        "omniverse",
-        "physical-ai",
-        "rag",
-        "robotics",
-        "simulation"
-      ],
-      "relevance_score": 15,
-      "repo": "NVIDIA/skills",
-      "stars": 3853,
-      "language": "Python"
-    },
-    {
-      "id": "089afc5381073398",
-      "section": "github_repos",
-      "source": "GitHub RAG Repositories",
-      "title": "fim-ai/fim-one",
-      "url": "https://github.com/fim-ai/fim-one",
-      "published_at": "2026-11-04T04:55:59+00:00",
-      "summary": "Source-available agent platform for Global × China enterprises — wire every system through one agent core. Self-hosted, any LLM.",
-      "tags": [
-        "agents",
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "connector",
-        "dag",
-        "fastapi",
-        "function-calling",
-        "github",
-        "llm",
-        "mcp",
-        "nextjs",
-        "openai-compatible",
-        "python",
-        "rag",
-        "react-agent",
-        "tool-use"
-      ],
-      "relevance_score": 15,
-      "repo": "fim-ai/fim-one",
-      "stars": 1586,
-      "language": "Python"
-    },
-    {
-      "id": "8f2db0354e045f5e",
-      "section": "github_repos",
-      "source": "GitHub RAG Repositories",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "published_at": "2026-11-04T05:31:04+00:00",
-      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "tags": [
-        "agent",
-        "agentic-ai",
-        "agentic-framework",
-        "agentic-workflow",
-        "agents",
-        "ai",
-        "automation",
-        "claude",
-        "deepseek",
-        "genai",
+        "analytics",
+        "datasets",
+        "dspy",
+        "evals",
+        "evaluation",
         "github",
         "gpt",
         "llm",
+        "llm-ops",
+        "llmops",
         "low-code",
-        "mcp",
-        "nextjs",
-        "no-code",
+        "observability",
+        "observability-platform",
         "openai",
-        "python",
-        "rag",
-        "skills",
-        "workflow"
+        "prompt-engineering",
+        "simulation-testing"
       ],
-      "relevance_score": 14,
-      "repo": "langgenius/dify",
-      "stars": 160365,
-      "language": "Python"
+      "relevance_score": 16,
+      "repo": "langwatch/langwatch",
+      "stars": 5014,
+      "language": "TypeScript"
     },
     {
       "id": "834d65fefb11e274",
@@ -545,7 +478,7 @@
       "source": "GitHub Agent Repositories",
       "title": "Haohao-end/openagent",
       "url": "https://github.com/Haohao-end/openagent",
-      "published_at": "2026-11-04T05:29:24+00:00",
+      "published_at": "2026-11-05T05:49:17+00:00",
       "summary": "What if OpenAI Deep Research and Dify were one platform? OpenAgent — harness architecture for rapidly building vertical AI agents, with deep reasoning loops, visual workflows, RAG, and A2A delegation.",
       "tags": [
         "agent",
@@ -574,43 +507,7 @@
       ],
       "relevance_score": 14,
       "repo": "Haohao-end/openagent",
-      "stars": 766,
-      "language": "Python"
-    },
-    {
-      "id": "121684e3e0746e6b",
-      "section": "github_repos",
-      "source": "GitHub LLM Repositories",
-      "title": "vstorm-co/agenticos",
-      "url": "https://github.com/vstorm-co/agenticos",
-      "published_at": "2026-11-04T05:22:57+00:00",
-      "summary": "Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail. An alternative to ChatGPT Enterprise and Grok Bot. Apache-2.0, built on Pydantic AI.",
-      "tags": [
-        "agentic-ai",
-        "agentic-os",
-        "agents",
-        "ai-agents",
-        "ai-assistant",
-        "ai-governance",
-        "ai-teammates",
-        "browser-automation",
-        "fastapi",
-        "github",
-        "llm",
-        "local-llm",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "on-premise",
-        "open-source",
-        "pydantic-ai",
-        "python",
-        "rag",
-        "self-hosted"
-      ],
-      "relevance_score": 14,
-      "repo": "vstorm-co/agenticos",
-      "stars": 207,
+      "stars": 749,
       "language": "Python"
     },
     {
@@ -619,7 +516,7 @@
       "source": "GitHub RAG Repositories",
       "title": "codecoradev/uteke",
       "url": "https://github.com/codecoradev/uteke",
-      "published_at": "2026-11-04T05:20:52+00:00",
+      "published_at": "2026-11-05T05:44:33+00:00",
       "summary": "Long-term memory for any AI agent. One Rust binary, offline, 98.2% recall@5 on LongMemEval-S. Self-host free or use Uteke Cloud.",
       "tags": [
         "agent-memory",
@@ -647,8 +544,45 @@
       ],
       "relevance_score": 14,
       "repo": "codecoradev/uteke",
-      "stars": 284,
+      "stars": 285,
       "language": "Rust"
+    },
+    {
+      "id": "8f2db0354e045f5e",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "published_at": "2026-11-05T05:44:17+00:00",
+      "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "tags": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "agents",
+        "ai",
+        "automation",
+        "claude",
+        "deepseek",
+        "genai",
+        "github",
+        "gpt",
+        "llm",
+        "low-code",
+        "mcp",
+        "nextjs",
+        "no-code",
+        "openai",
+        "python",
+        "rag",
+        "skills",
+        "workflow"
+      ],
+      "relevance_score": 14,
+      "repo": "langgenius/dify",
+      "stars": 160438,
+      "language": "Python"
     },
     {
       "id": "1dd40fc5ece12f99",
@@ -656,7 +590,7 @@
       "source": "GitHub AI Repositories",
       "title": "xorbitsai/inference",
       "url": "https://github.com/xorbitsai/inference",
-      "published_at": "2026-11-04T04:59:33+00:00",
+      "published_at": "2026-11-05T04:39:50+00:00",
       "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
       "tags": [
         "ai",
@@ -687,77 +621,148 @@
       ],
       "relevance_score": 13,
       "repo": "xorbitsai/inference",
-      "stars": 9641,
+      "stars": 9646,
       "language": "Python"
     },
     {
-      "id": "1505348ff667795f",
-      "section": "github_repos",
-      "source": "GitHub RAG Repositories",
-      "title": "DemonDamon/AgenticX",
-      "url": "https://github.com/DemonDamon/AgenticX",
-      "published_at": "2026-11-04T04:55:17+00:00",
-      "summary": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
-      "tags": [
-        "agent-framework",
-        "agentic-workflows",
-        "agents",
-        "ai-agent",
-        "ai-orchestration",
-        "chatbot",
-        "desktop-app",
-        "electron",
-        "fastapi",
-        "github",
-        "graphrag",
-        "llm",
-        "mcp",
-        "multi-agent-system",
-        "python",
-        "rag",
-        "tool-use"
-      ],
-      "relevance_score": 13,
-      "repo": "DemonDamon/AgenticX",
-      "stars": 937,
-      "language": "Python"
-    },
-    {
-      "id": "f000821fa1b46114",
+      "id": "f6f30e4a21cb668b",
       "section": "github_repos",
       "source": "GitHub Agent Repositories",
-      "title": "ldbumble/taskuary",
-      "url": "https://github.com/ldbumble/taskuary",
-      "published_at": "2026-11-04T05:30:32+00:00",
-      "summary": "Your work, already underway. A personal AI assistant for your job: mail, chats and tickets become tasks, the agents you already use (Claude Code, Codex, Gemini) do the work, and nothing goes out until you approve. Open source, runs on your machine.",
+      "title": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "published_at": "2026-11-05T05:49:56+00:00",
+      "summary": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "tags": [
-        "agentic-workflow",
         "agents",
         "ai",
         "ai-agents",
-        "automation",
-        "claude",
-        "claude-code",
-        "codex",
-        "email-triage",
-        "fastapi",
+        "chatbot",
+        "crm",
+        "customer-support",
         "github",
-        "kanban",
-        "llm",
-        "local-first",
+        "kommo-alternative",
+        "lgpd",
         "mcp",
-        "microsoft-teams",
-        "outlook",
-        "productivity",
-        "python",
-        "react",
-        "slack",
-        "task-management"
+        "nextjs",
+        "nuvemshop",
+        "open-source",
+        "open-source-crm",
+        "rag",
+        "sales-automation",
+        "self-hosted",
+        "supabase",
+        "waha",
+        "whatsapp",
+        "whatsapp-api",
+        "whatsapp-crm"
       ],
       "relevance_score": 12,
-      "repo": "ldbumble/taskuary",
-      "stars": 145,
+      "repo": "melgarafael/DeskcommCRM",
+      "stars": 5155,
+      "language": "TypeScript"
+    },
+    {
+      "id": "336f7951c65ba7f8",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "pipeshub-ai/pipeshub-ai",
+      "url": "https://github.com/pipeshub-ai/pipeshub-ai",
+      "published_at": "2026-11-05T05:45:35+00:00",
+      "summary": "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 50+ connectors) into a permission-aware workspace that agents can search, grep, navigate and cite. MCP, SDKs and built-in agents. Self-hosted.",
+      "tags": [
+        "agentic-rag",
+        "ai",
+        "ai-agents",
+        "claude-code",
+        "context-engineering",
+        "context-layer",
+        "deep-research",
+        "enterprise-search",
+        "github",
+        "glean",
+        "graphrag",
+        "hybrid-search",
+        "knowledge-graph",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "ollama",
+        "python",
+        "rag",
+        "self-hosted",
+        "workplace-ai"
+      ],
+      "relevance_score": 12,
+      "repo": "pipeshub-ai/pipeshub-ai",
+      "stars": 3928,
       "language": "Python"
+    },
+    {
+      "id": "ccceb52b8fb459a8",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "published_at": "2026-11-05T05:40:04+00:00",
+      "summary": "The agent engineering platform.",
+      "tags": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "github",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag",
+        "typescript"
+      ],
+      "relevance_score": 12,
+      "repo": "langchain-ai/langchain",
+      "stars": 149049,
+      "language": "Python"
+    },
+    {
+      "id": "17d937a7d929def9",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "nambok/mentedb",
+      "url": "https://github.com/nambok/mentedb",
+      "published_at": "2026-11-05T05:04:20+00:00",
+      "summary": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and speculative context pre assembly. Not a wrapper, a ground up storage engine that thinks.",
+      "tags": [
+        "agent-memory",
+        "agents",
+        "ai",
+        "ai-agents",
+        "cognitive-architecture",
+        "context-window",
+        "database",
+        "github",
+        "knowledge-graph",
+        "langchain",
+        "llm",
+        "memory",
+        "rag",
+        "rust",
+        "storage-engine",
+        "vector-database"
+      ],
+      "relevance_score": 12,
+      "repo": "nambok/mentedb",
+      "stars": 124,
+      "language": "Rust"
     }
   ],
   "knowledge_trends": [
@@ -770,7 +775,36 @@
         "tool use",
         "function calling"
       ],
-      "evidence_count": 27,
+      "evidence_count": 24,
+      "evidence": [
+        {
+          "title": "Senior Back-end Developer",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135"
+        },
+        {
+          "title": "Forward Deployed Engineer Agentic Platform",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611"
+        },
+        {
+          "title": "Software Engineer, AI Coding Tasks",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158"
+        }
+      ],
+      "status": "daily_evidence"
+    },
+    {
+      "name": "AI coding workflows",
+      "summary": "AI-assisted software development workflows across IDEs, CLIs, and review tools.",
+      "keywords": [
+        "coding",
+        "code assistant",
+        "developer tool",
+        "ide"
+      ],
+      "evidence_count": 17,
       "evidence": [
         {
           "title": "Senior Back-end Developer",
@@ -799,7 +833,7 @@
         "vector",
         "embedding"
       ],
-      "evidence_count": 15,
+      "evidence_count": 16,
       "evidence": [
         {
           "title": "Senior Back-end Developer",
@@ -820,57 +854,28 @@
       "status": "daily_evidence"
     },
     {
-      "name": "AI coding workflows",
-      "summary": "AI-assisted software development workflows across IDEs, CLIs, and review tools.",
-      "keywords": [
-        "coding",
-        "code assistant",
-        "developer tool",
-        "ide"
-      ],
-      "evidence_count": 15,
-      "evidence": [
-        {
-          "title": "Senior Back-end Developer",
-          "section": "jobs",
-          "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135"
-        },
-        {
-          "title": "Forward Deployed Engineer Agentic Platform",
-          "section": "jobs",
-          "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611"
-        },
-        {
-          "title": "Software Engineer, AI Coding Tasks",
-          "section": "jobs",
-          "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158"
-        }
-      ],
-      "status": "daily_evidence"
-    },
-    {
       "name": "Model Context Protocol",
       "summary": "A tool and context integration pattern for connecting AI apps to external systems.",
       "keywords": [
         "mcp",
         "model context protocol"
       ],
-      "evidence_count": 12,
+      "evidence_count": 6,
       "evidence": [
         {
-          "title": "Uber Builds MCP Gateway to Govern Access to 800+ Servers and 5,000+ AI Agent Tools - infoq.com",
-          "section": "news",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwYTRmTzZjT1YyVjRJMnpNcGQxMjRKZFZJN0tXYTlscmRub0pGdDVuMmxfVm5BaE0yV3ZTQjVBay1TZmVkYlhuUmhTaVJYX3NFTlE2VDVYNTJjUWFUX2x1QUt2b3piN0xRYjMwbDlvUQ?oc=5"
+          "title": "headroomlabs-ai/headroom",
+          "section": "github_repos",
+          "url": "https://github.com/headroomlabs-ai/headroom"
         },
         {
-          "title": "Liner Launches Actions MCP, Connecting AI Agents to More Than 1,100 Verified Apps Through a Single Integration - VMblog",
-          "section": "news",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSU05dGhRdUFjRW41Q3lwaktNd0FackkwNnhnZXNGUUxLZUNsOFZETVNsdnFlM3ZxSXJKb3FGUXdLdWZ5eHp0eUNuQURscFA5UjZjNUlTbGFrdFlxc2pnOVhWUHVFWGtlNm9FbzUxSTdtZWxPZ21jNjZLOHMzZTFQdXZZWFBhbXJvRDFGUFgzWDktY1JUMHd6eE9DSDhxM21DelRZenFYeWdPc1dXZksyWU5JclRTa0cwT0FBQjR5ZGtqVS02a2N1aFc2M2xTZw?oc=5"
+          "title": "Haohao-end/openagent",
+          "section": "github_repos",
+          "url": "https://github.com/Haohao-end/openagent"
         },
         {
-          "title": "Lofty AI: Andrew Wild on Agents, MCP and the End of Login Metrics - The Tech Buzz",
-          "section": "news",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11bDA4WWtaajh6NWg2eXhNdnEtQi1saEZ5Xy1xNm01dnNJZjRrWFdiV3BZU0haNWh5WmxDX1FjbHFjWklud1FYSVNOWC1nSWZkYl9NZ0pGRjlnRG40dXdZNTd6cEdmazhVTk41UmgzQ2Jka3l1VVNwSw?oc=5"
+          "title": "codecoradev/uteke",
+          "section": "github_repos",
+          "url": "https://github.com/codecoradev/uteke"
         }
       ],
       "status": "daily_evidence"
@@ -884,7 +889,7 @@
         "observability",
         "benchmark"
       ],
-      "evidence_count": 3,
+      "evidence_count": 6,
       "evidence": [
         {
           "title": "Software Engineer, AI Coding Tasks",
@@ -897,9 +902,9 @@
           "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165"
         },
         {
-          "title": "codecoradev/uteke",
+          "title": "langwatch/langwatch",
           "section": "github_repos",
-          "url": "https://github.com/codecoradev/uteke"
+          "url": "https://github.com/langwatch/langwatch"
         }
       ],
       "status": "daily_evidence"
@@ -943,12 +948,12 @@
       "insight": "LLMOps同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
     },
     {
-      "tag": "mcp",
+      "tag": "evals",
       "sections": [
         "github_repos",
-        "news"
+        "jobs"
       ],
-      "insight": "MCP同时出现在GitHub 项目、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
+      "insight": "评测与可观测性同时出现在GitHub 项目、岗位中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
     }
   ],
   "errors": [],
