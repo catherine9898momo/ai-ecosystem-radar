@@ -1,6 +1,6 @@
-# AI 岗位趋势 - 2026-11-05
+# AI 岗位趋势 - 2026-11-06
 
-岗位覆盖：7/5（达标）
+岗位覆盖：8/5（达标）
 
 ### [Senior Back-end Developer](https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135)
 - 公司：Lemon.io
@@ -23,6 +23,17 @@
 - 关注点：该岗位信号与智能体、RAG、AI 编程、小模型与端侧 AI 相关，显示 Cohere 在 未标明地区 对相关 AI 能力有招聘需求。
 - JD 原文摘录：Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to...
 - JD 中文解读：该岗位要求的核心技能包括 Python、RAG、Agents；岗位范围为 Global Remote；发布方为 Cohere。
+
+### [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685)
+- 公司：Claims
+- 地区：未知
+- 来源：RemoteOK AI Jobs
+- 匹配范围：Global Remote
+- 标签：智能体、评测与可观测性、LLMOps、远程岗位
+- 技能点：Python、TypeScript、JavaScript、Agents、评测、可观测性、Docker、FastAPI、SQL
+- 关注点：该岗位信号与智能体、评测与可观测性、LLMOps、远程岗位 相关，显示 Claims 在 未标明地区 对相关 AI 能力有招聘需求。
+- JD 原文摘录：🚀 Build the data layer AI needs to do science Application deadline: 16 Nov 2026 23:59 CET About Claims AI ate the Internet, but it can't digest science yet. A paper is thousands of words of prose written for humans, but an AI agent doing research needs to know what was claimed, what evidence supports it, and how far to trust it. Claims turns the scientific literature into exactly that: every claim, tied to its...
+- JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、JavaScript、Agents、评测、可观测性、Docker、FastAPI；岗位范围为 Global Remote；发布方为 Claims。
 
 ### [Software Engineer, AI Coding Tasks](https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158)
 - 公司：Askable
