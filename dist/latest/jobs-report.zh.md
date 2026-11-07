@@ -1,6 +1,6 @@
-# AI 岗位趋势 - 2026-11-06
+# AI 岗位趋势 - 2026-11-07
 
-岗位覆盖：8/5（达标）
+岗位覆盖：9/5（达标）
 
 ### [Senior Back-end Developer](https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135)
 - 公司：Lemon.io
@@ -67,6 +67,17 @@
 - 关注点：该岗位信号与评测与可观测性、LLMOps、远程岗位 相关，显示 Fluence International, Inc. 在 Worldwide 对相关 AI 能力有招聘需求。
 - JD 原文摘录：We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental health. You’ll work closely with and report to our Senior AI & Design Lead to turn product requirements into robust, secure, and well-documented applications, as well as maintain existing ones. What you’ll do...
 - JD 中文解读：该岗位要求的核心技能包括 TypeScript、JavaScript、评测、可观测性、Docker；岗位范围为 Global Remote；发布方为 Fluence International, Inc.。
+
+### [Operations Expert with Python for AI Supply Chain Task Design](https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690)
+- 公司：Toptal
+- 地区：Anywhere in the World
+- 来源：RemoteOK AI Jobs
+- 匹配范围：Global Remote
+- 标签：智能体、评测与可观测性、远程岗位
+- 技能点：Python、Agents、评测、Docker、SQL
+- 关注点：该岗位信号与智能体、评测与可观测性、远程岗位 相关，显示 Toptal 在 Anywhere in the World 对相关 AI 能力有招聘需求。
+- JD 原文摘录：Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE...
+- JD 中文解读：该岗位要求的核心技能包括 Python、Agents、评测、Docker、SQL；岗位范围为 Global Remote；发布方为 Toptal。
 
 ### [AI ML Engineer](https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619)
 - 公司：Docusketch
