@@ -1,6 +1,12 @@
-# AI 新闻动态 - 2026-11-07
+# AI 新闻动态 - 2026-11-08
 
 新闻覆盖：10/5（达标）
+
+### [Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster - MarkTechPost](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORzRUaTNBRkFMQVJ2UU1HSWc3eGg3aEJ6QkVEMEhXeFYzaEJpb0VRMkFzOUxFWnZ4TDZwc1ZmSnpkanV3azEzYkhpZzk4U19Mby1TMTVBTTN5S1pER2V4Mm94QTNDazV2cXhwUmVwRzlKR1p0NEViczJXZEw0ei01bXVFRGxJY0dVT05OZHBhYkMtSFdqTXExeTk0NW9ITGk3Uk9jdTlIY3HSAagBQVVfeXFMTkc0VGkzQUZBTEFSdlFNR0lnN3hoN2hCekJFRDBIV3hWM2hCaW9FUTJBczlMRVp2eEw2cHNWZkp6ZGp1d2sxM2JIaWc5OFNfTG8tUzE1QU0zeUtaREdleDJveEEzQ2s1dnF4cFJlcEc5SkdadDRFYnMyV2RMNHotNW11RURsSWNHVU9OTmRwYWJDLUhXak1xMXk5NDVvSExpN1JPY3U5SGNx?oc=5)
+- 来源：AI Agents News
+- 发布时间：2026-11-05T08:02:58+00:00
+- 标签：智能体、LLMOps、AI 基础设施
+- 摘要：这条动态与智能体、LLMOps、AI 基础设施相关，可能反映相关产品、技术或监管方向的新变化。
 
 ### [NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom](https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR?oc=5)
 - 来源：AI Model Releases
@@ -14,15 +20,15 @@
 - 标签：LLMOps、AI 基础设施、模型发布
 - 摘要：这条动态与LLMOps、AI 基础设施、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
+### [MCP for Travel Authorizations: Giving AI Agents Access to ETA and ESTA Status - Luxury Travel Magazine](https://news.google.com/rss/articles/CBMixgFBVV95cUxQQzFDbGExd0hQMUZMTlRQbGRscldHV2lONlJMLTNKU19HVTZYSnNJZHlxOVFyOHZrV1dVZ2ZRQXRpWWpaUDd0clNaclgzc1Z6OExfWURWNVlNNzlxT3JmM3g3UjVQLWJTM2ozOXVLOXJlRzlrODhXekgxb29ZazlQZThWQll6dklqQ3k0a2djbWthVlp1ZFhNVFZDc1E5aldIVWpXM0k1cUtvT18tekNmeThLYUxmajRWYXJzRlQxaHdLMnNMbkE?oc=5)
+- 来源：AI Agents News
+- 发布时间：2026-11-07T13:40:37+00:00
+- 标签：智能体、MCP
+- 摘要：这条动态与智能体、MCP相关，可能反映相关产品、技术或监管方向的新变化。
+
 ### [Meta Acquires Conductor to Expand Into Multi-Agent AI Coding Tools - THE ELEC, Korea Electronics Industry Media](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83VU01REtnMFM3cXRBdlRJcUhtX0ZQQ3M0c1RSM3E3VVFmZDJUc1dnd0ZTRVZWcmgtVUNZeDYxV0lfWXVIOHdsM3NSS0xCczZaeGRhcGo5M3ZMdzFpcHlPbDBkWklwYW8?oc=5)
 - 来源：AI Coding Tools News
 - 发布时间：2026-11-06T02:08:27+00:00
-- 标签：智能体、AI 编程
-- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [AxiomStudio Launches Vera, an Unlimited AI Code Review Agent - USA Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSV9DUmFEV1YySU9pWlVWVzcwT2w4Rmw5eTdHUDRkeDBOTWdMc05xZC1Lejl3dmpJTzZYM09DVC04X1dPdWlnaVdvNVZoY1E4UzVLbndSeUJWVGJWUzhxNnczWWxMbG5uYU5nMHZzbnlFZURsREZvWWh3RGcwM0kzZEJPUFBON2dsenM0djNyakotTE9rRWJScnFQcllpUEozLVRUTE1vWjl6aHdkM3M5MA?oc=5)
-- 来源：AI Coding Tools News
-- 发布时间：2026-11-05T17:09:50+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
@@ -41,12 +47,6 @@
 ### [Meta Acquires AI Coding Startup Conductor, Securing Development Environment for 'Agent Legions' - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTFA3d1I1NXlmLVNaM2FXbzhKTUxOZHZ0blljR0Z2WHFvdjV0MHpCQ3RrQndJNmRBNWpoLUdhai1oTnp4OUJfRVNtSUlIZ2VXUzV6bXFnX2ZVelE0NDhMU3o4NHRjdzBxUWFfSTJ4bnphYlZKMGFjd0E?oc=5)
 - 来源：AI Coding Tools News
 - 发布时间：2026-11-05T01:46:00+00:00
-- 标签：智能体、AI 编程
-- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [Exclusive: BlueFlag Security expands AI agent governance to cover unapproved coding agents - SiliconANGLE](https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlY3QnNIN2VlOGJGbC1sTzZuRVpYZjNhZ0swdDJBdF82R3lHMng0eWg4ZVRaVU9qcVA2dlh4ejFDNHBYa1RLQnV5ZDhDeWRycTIxaGV2NmFRMjVlSjB4LVBKeU5nWlh2TmNpQ3hoQlVZWUJiSmx0NkdCdi1QdXVyb2VsZWFsNUY3MFBieG1ldEpxSkl4NDNzdVdlWnozQ05JQXNId1VuNkVOWVdQNlZqV05XVjhPMG40SHRSWHNQdl8wQUJw?oc=5)
-- 来源：AI Coding Tools News
-- 发布时间：2026-11-04T14:00:00+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
