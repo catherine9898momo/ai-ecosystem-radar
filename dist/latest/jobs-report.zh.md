@@ -1,6 +1,6 @@
-# AI 岗位趋势 - 2026-11-08
+# AI 岗位趋势 - 2026-11-09
 
-岗位覆盖：9/5（达标）
+岗位覆盖：8/5（达标）
 
 ### [Senior Back-end Developer](https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135)
 - 公司：Lemon.io
@@ -89,14 +89,3 @@
 - 关注点：该岗位信号与多模态、远程岗位 相关，显示 Docusketch 在 未标明地区 对相关 AI 能力有招聘需求。
 - JD 原文摘录：The fastest-growing European SaaS company is searching for an AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing software vendors in the...
 - JD 中文解读：该岗位要求的核心技能包括 Python、PyTorch；岗位范围为 Global Remote；发布方为 Docusketch。
-
-### [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567)
-- 公司：Phaidra
-- 地区：Remote - United States
-- 来源：RemoteOK AI Jobs
-- 匹配范围：Global Remote
-- 标签：AI 编程、远程岗位
-- 技能点：Agents
-- 关注点：该岗位信号与AI 编程、远程岗位 相关，显示 Phaidra 在 Remote - United States 对相关 AI 能力有招聘需求。
-- JD 原文摘录：About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades — because the controls programming is hard-coded. Thousands of lines of rules and heuristics that define how the machines interact with each other. The result of all this hard-coding is that...
-- JD 中文解读：该岗位要求的核心技能包括 Agents；岗位范围为 Global Remote；发布方为 Phaidra。
