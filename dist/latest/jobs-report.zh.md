@@ -1,6 +1,6 @@
-# AI 岗位趋势 - 2026-11-10
+# AI 岗位趋势 - 2026-11-11
 
-岗位覆盖：8/5（达标）
+岗位覆盖：9/5（达标）
 
 ### [Senior Back-end Developer](https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135)
 - 公司：Lemon.io
@@ -78,6 +78,17 @@
 - 关注点：该岗位信号与智能体、评测与可观测性、远程岗位 相关，显示 Toptal 在 Anywhere in the World 对相关 AI 能力有招聘需求。
 - JD 原文摘录：Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE...
 - JD 中文解读：该岗位要求的核心技能包括 Python、Agents、评测、Docker、SQL；岗位范围为 Global Remote；发布方为 Toptal。
+
+### [Web3 Business Development](https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707)
+- 公司：CertiK
+- 地区：未知
+- 来源：RemoteOK AI Jobs
+- 匹配范围：Global Remote
+- 标签：LLMOps、远程岗位
+- 技能点：可观测性
+- 关注点：该岗位信号与LLMOps、远程岗位 相关，显示 CertiK 在 未标明地区 对相关 AI 能力有招聘需求。
+- JD 原文摘录：About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions...
+- JD 中文解读：该岗位要求的核心技能包括 可观测性；岗位范围为 Global Remote；发布方为 CertiK。
 
 ### [AI ML Engineer](https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619)
 - 公司：Docusketch
