@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-11T05:25:31.152745+00:00",
+  "generated_at": "2026-11-12T06:29:09.930472+00:00",
   "coverage": {
     "jobs": {
       "count": 9,
@@ -25,11 +25,11 @@
     }
   },
   "summary": [
-    "agents 在 21 条记录中出现，中文主题可理解为：智能体。",
+    "agents 在 22 条记录中出现，中文主题可理解为：智能体。",
     "ai_coding 在 11 条记录中出现，中文主题可理解为：AI 编程。",
-    "llmops 在 11 条记录中出现，中文主题可理解为：LLMOps。",
-    "evals 在 9 条记录中出现，中文主题可理解为：评测与可观测性。",
-    "ai 在 8 条记录中出现，中文主题可理解为：ai。"
+    "llm 在 10 条记录中出现，中文主题可理解为：大模型。",
+    "llmops 在 10 条记录中出现，中文主题可理解为：LLMOps。",
+    "mcp 在 8 条记录中出现，中文主题可理解为：MCP。"
   ],
   "jobs": [
     {
@@ -84,7 +84,7 @@
       "relevance_score": 16,
       "company": "Cohere",
       "location": "",
-      "jd": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers. Cohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of the best in the world at what they do. We believe that a diverse range of perspectives is a requirement for building great products. Join us on our mission and shape the future! About North: North is Cohere's cutting-edge AI workspace platform, designed to revolutionize the way enterprises utilize AI. It offers a secure and customizable environment, allowing companies to deploy AI while maintaining control over sensitive data. North integrates seamlessly with existing workflows, providing a trusted platform that connects AI agents with workplace tools and applications. Why This Role? This role offers a unique opportunity to shape how enterprises harness the power of AI in real-world applications. As a bridge between our core North product and our clients’ engineering teams, you’ll be at the forefront of solving complex problems and securely integrating AI into critical sectors such as finance, healthcare, and telecommunications. We are seeking engineers with diverse skill sets, including backend, infrastructure, agent development, and deployments, who deeply care about customers and want to work at the cutting edge of Agentic AI. Note: between 20 - 40% travel anticipated In this role, you will: Build and ship features for North, our AI workspace platform Develop autonomous agents that talk to sensitive enterprise data Experiment at a high velocity and with a high level of quality to engage our customers and ultimately deliver solutions that exceed their expectations Work across the entire product lifecycle from conceptualization through production You may be a good fit if: You have experience with and enjoy working directly with customers You are fluent in both English and Arabic You have shipped (lots of) Python in production You have built and deployed highly performant client-side or server-side RAG/agentic applications You have strong coding abilities and are comfortable working across the stack. You’re able to read and understand, and even fix issues outside of the main code base You excel in fast-paced environments and can execute while priorities and objectives are a moving target We are open to candidates currently based in the Middle East or who are open to travelling or relocating. If some of the above doesn’t line up perfectly with your experience, we still encourage you to apply! We value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form , and we will work together to meet your needs. Full-Time Employees at Cohere enjoy these Perks: 🤝 An open and inclusive culture and work environment 🧑‍💻 Work closely with a team on the cutting edge of AI research 🍽 Weekly lunch stipend, in-office lunches & snacks 🦷 Full health and dental benefits, including a separate budget to take care of your mental health 🐣 100% Parental Leave top-up for up to 6 months 🎨 Personal enrichment benefits towards arts and culture, fitness and well-being, quality time, and workspace improvement 🏙 Remote-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co-working stipend ✈️ 6 weeks of vacation (30 working days!) Please mention the word **LIKABLE** and tag RMTcyLjIwOC4yMy42NA== when applying to show you read the job post completely (#RMTcyLjIwOC4yMy42NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do what’s best for our customers. Cohere is a team of researchers, engineers, designers, and more, who are passionate about their craft. Each person is one of the best in the world at what they do. We believe that a diverse range of perspectives is a requirement for building great products. Join us on our mission and shape the future! About North: North is Cohere's cutting-edge AI workspace platform, designed to revolutionize the way enterprises utilize AI. It offers a secure and customizable environment, allowing companies to deploy AI while maintaining control over sensitive data. North integrates seamlessly with existing workflows, providing a trusted platform that connects AI agents with workplace tools and applications. Why This Role? This role offers a unique opportunity to shape how enterprises harness the power of AI in real-world applications. As a bridge between our core North product and our clients’ engineering teams, you’ll be at the forefront of solving complex problems and securely integrating AI into critical sectors such as finance, healthcare, and telecommunications. We are seeking engineers with diverse skill sets, including backend, infrastructure, agent development, and deployments, who deeply care about customers and want to work at the cutting edge of Agentic AI. Note: between 20 - 40% travel anticipated In this role, you will: Build and ship features for North, our AI workspace platform Develop autonomous agents that talk to sensitive enterprise data Experiment at a high velocity and with a high level of quality to engage our customers and ultimately deliver solutions that exceed their expectations Work across the entire product lifecycle from conceptualization through production You may be a good fit if: You have experience with and enjoy working directly with customers You are fluent in both English and Arabic You have shipped (lots of) Python in production You have built and deployed highly performant client-side or server-side RAG/agentic applications You have strong coding abilities and are comfortable working across the stack. You’re able to read and understand, and even fix issues outside of the main code base You excel in fast-paced environments and can execute while priorities and objectives are a moving target We are open to candidates currently based in the Middle East or who are open to travelling or relocating. If some of the above doesn’t line up perfectly with your experience, we still encourage you to apply! We value and celebrate diversity and strive to create an inclusive work environment for all. We welcome applicants from all backgrounds and are committed to providing equal opportunities. Should you require any accommodations during the recruitment process, please submit an Accommodations Request Form , and we will work together to meet your needs. Full-Time Employees at Cohere enjoy these Perks: 🤝 An open and inclusive culture and work environment 🧑‍💻 Work closely with a team on the cutting edge of AI research 🍽 Weekly lunch stipend, in-office lunches & snacks 🦷 Full health and dental benefits, including a separate budget to take care of your mental health 🐣 100% Parental Leave top-up for up to 6 months 🎨 Personal enrichment benefits towards arts and culture, fitness and well-being, quality time, and workspace improvement 🏙 Remote-flexible, offices in Toronto, New York, San Francisco, London and Paris, as well as a co-working stipend ✈️ 6 weeks of vacation (30 working days!) Please mention the word **LIKABLE** and tag RNTIuMTU1LjYwLjE4NA== when applying to show you read the job post completely (#RNTIuMTU1LjYwLjE4NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to...",
       "jd_language": "en",
       "skills": [
@@ -244,7 +244,7 @@
       "relevance_score": 10,
       "company": "Toptal",
       "location": "Anywhere in the World",
-      "jd": "Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities • Design expert-level Terminal-Bench tasks by turning a real supply chain task from your work into a challenge an AI agent solves end to end. • Define the files, data exports and systems each task runs on, such as ERP, MES and WMS extracts, so the scenario reflects realistic planning conditions. • Write a working solution for each task, for example a 5-day production plan, and confirm it can be solved in 60 to 75 minutes. • Build the automated check that proves the result is correct, using tests or scripts that accept valid answers and catch planning errors objectively. • Document the written rules, constraints and SOPs that decide each case, along with realistic edge cases, data inconsistencies and common planner errors from your process. • Iterate on tasks based on reviewer feedback, keeping instructions unambiguous, data consistent and the solution and verification reproducible in a command-line environment. Skills/Experience • 3+ years of hands-on supply chain or production planning work (not only studying, selling or managing it), or a PhD with active research in the subfield • Did the work within the last 3 years and can name the systems, tools, data and rules used • Personally executed a process where each case is decided by written rules such as SOPs, planning rules or constraints • Worked inside systems of record (ERP, WMS) and with their exports or reports • Can describe edge cases, data inconsistencies and common planner errors, and how a mistake would be caught • Technical fluency in Python or another language and the command line, plus files, CSV/JSON, APIs or databases • Available to start around November 4, 2026 Nice-to-have • Automated or audited the process with scripts, SQL, RPA or rules engines • 5+ years in the same process family • Docker, Git and experience writing tests • Hands-on experience with SAP or other ERPs and TMS/WMS platforms • Advanced Excel skills Process • Task-based engagement paid per task, with each task taking about 60 to 75 minutes • Vetting task instead of a live interview • Tasks are reviewed by the client before approval Please mention the word **EXELLENT** and tag RMTcyLjIwOC4yMy42NA== when applying to show you read the job post completely (#RMTcyLjIwOC4yMy42NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities • Design expert-level Terminal-Bench tasks by turning a real supply chain task from your work into a challenge an AI agent solves end to end. • Define the files, data exports and systems each task runs on, such as ERP, MES and WMS extracts, so the scenario reflects realistic planning conditions. • Write a working solution for each task, for example a 5-day production plan, and confirm it can be solved in 60 to 75 minutes. • Build the automated check that proves the result is correct, using tests or scripts that accept valid answers and catch planning errors objectively. • Document the written rules, constraints and SOPs that decide each case, along with realistic edge cases, data inconsistencies and common planner errors from your process. • Iterate on tasks based on reviewer feedback, keeping instructions unambiguous, data consistent and the solution and verification reproducible in a command-line environment. Skills/Experience • 3+ years of hands-on supply chain or production planning work (not only studying, selling or managing it), or a PhD with active research in the subfield • Did the work within the last 3 years and can name the systems, tools, data and rules used • Personally executed a process where each case is decided by written rules such as SOPs, planning rules or constraints • Worked inside systems of record (ERP, WMS) and with their exports or reports • Can describe edge cases, data inconsistencies and common planner errors, and how a mistake would be caught • Technical fluency in Python or another language and the command line, plus files, CSV/JSON, APIs or databases • Available to start around November 4, 2026 Nice-to-have • Automated or audited the process with scripts, SQL, RPA or rules engines • 5+ years in the same process family • Docker, Git and experience writing tests • Hands-on experience with SAP or other ERPs and TMS/WMS platforms • Advanced Excel skills Process • Task-based engagement paid per task, with each task taking about 60 to 75 minutes • Vetting task instead of a live interview • Tasks are reviewed by the client before approval Please mention the word **EXELLENT** and tag RNTIuMTU1LjYwLjE4NA== when applying to show you read the job post completely (#RNTIuMTU1LjYwLjE4NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE...",
       "jd_language": "en",
       "skills": [
@@ -274,7 +274,7 @@
       "relevance_score": 8,
       "company": "CertiK",
       "location": "",
-      "jd": "About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions including smart contract audits, penetration testing, on-chain monitoring, incident response, and compliance services for some of the largest projects in the digital asset ecosystem. Today, CertiK supports thousands of enterprise clients and Web3 projects globally, with a distributed international team spanning North America, Asia, and Europe. The company is backed by leading investors including Coatue, Goldman Sachs, Insight Partners, and Sequoia Capital, and has been recognized by organizations such as the World Economic Forum and CB Insights for its contributions to blockchain security innovation. About This Role Weâre looking for a passionate and proactive Business Development professional to help expand CertiKâs presence in the Web3 ecosystem. Youâll connect with founders and decision makers, identify new business opportunities, build lasting relationships, and drive deals from initial conversations to closing. We value people who take initiative, stay curious, and are eager to learn and grow alongside our global team. \\n Responsibilities Research and open new Web3 projects across DeFi, infrastructure, L1/L2 ecosystems and exchanges. Reach decision makers such as founders, CTOs and heads of security. Drive deals from first contact to signed contract. Build partnerships and referral channels with projects, VCs, launchpads and ecosystems Stay on top of market trends and developments, identify new business opportunities, and translate market insights into actionable feedback. Requirements Has experience in business development, sales, partnerships or consulting Web3 native, or a fast learner who can show how you got up to speed on something new Self-motivated, hard-working and responsive Fluent in English Based in Europe, the UAE or North America Nice to Have An existing network among Web3 founders, VCs, launchpads or exchanges Technical curiosity about smart contracts, DeFi mechanics and security Experience in a startup or in a role with a commission component What We Offer Base salary plus uncapped commission A security engineer mentor and support from senior BDs from day one Fully remote work with a global team across North America, Asia and Europe \\n This role must be performed outside the United States. We are unable to consider candidates who will work from within the U.S. Please mention the word **STEADY** and tag RMTcyLjIwOC4yMy42NA== when applying to show you read the job post completely (#RMTcyLjIwOC4yMy42NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions including smart contract audits, penetration testing, on-chain monitoring, incident response, and compliance services for some of the largest projects in the digital asset ecosystem. Today, CertiK supports thousands of enterprise clients and Web3 projects globally, with a distributed international team spanning North America, Asia, and Europe. The company is backed by leading investors including Coatue, Goldman Sachs, Insight Partners, and Sequoia Capital, and has been recognized by organizations such as the World Economic Forum and CB Insights for its contributions to blockchain security innovation. About This Role Weâre looking for a passionate and proactive Business Development professional to help expand CertiKâs presence in the Web3 ecosystem. Youâll connect with founders and decision makers, identify new business opportunities, build lasting relationships, and drive deals from initial conversations to closing. We value people who take initiative, stay curious, and are eager to learn and grow alongside our global team. \\n Responsibilities Research and open new Web3 projects across DeFi, infrastructure, L1/L2 ecosystems and exchanges. Reach decision makers such as founders, CTOs and heads of security. Drive deals from first contact to signed contract. Build partnerships and referral channels with projects, VCs, launchpads and ecosystems Stay on top of market trends and developments, identify new business opportunities, and translate market insights into actionable feedback. Requirements Has experience in business development, sales, partnerships or consulting Web3 native, or a fast learner who can show how you got up to speed on something new Self-motivated, hard-working and responsive Fluent in English Based in Europe, the UAE or North America Nice to Have An existing network among Web3 founders, VCs, launchpads or exchanges Technical curiosity about smart contracts, DeFi mechanics and security Experience in a startup or in a role with a commission component What We Offer Base salary plus uncapped commission A security engineer mentor and support from senior BDs from day one Fully remote work with a global team across North America, Asia and Europe \\n This role must be performed outside the United States. We are unable to consider candidates who will work from within the U.S. Please mention the word **STEADY** and tag RNTIuMTU1LjYwLjE4NA== when applying to show you read the job post completely (#RNTIuMTU1LjYwLjE4NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions...",
       "jd_language": "en",
       "skills": [
@@ -300,7 +300,7 @@
       "relevance_score": 8,
       "company": "Docusketch",
       "location": "",
-      "jd": "The fastest-growing European SaaS company is searching for an AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing software vendors in the rapidly expanding property tech sector. Our enthusiastic customer base is located across Europe and North America. DocuSketch's groundbreaking digital technology greatly facilitates real estate companies and building restoration companies to digitize, visualize, and virtualize real estate properties. Our solutions help our clients realize tremendous cost-saving potentials, process optimization, and revenue growth. You’ll be working in a team that drives the company's AI development to develop algorithms for a variety of different use cases. This includes e.g. working with equirectangular, phone, or satellite images to detect doors, windows, or other objects inside of buildings or finding facets on the roof. You’ll be challenged by solving complex 3D geometry problems and working closely with our labeling team to ensure the best possible data quality. Responsibilities and Duties: · Research, train and deploy state-of-the-art machine learning models for object detection and 3D perception on equirectangular images · Quickly prototype new ideas/technologies to create proof of concept and demos Qualifications: · Bachelor’s Degree in Computer Science or equivalent experience · Excellent math skills · Experience with 3D computer vision algorithms · Preferably 5+ years of experience developing and training machine learning models · Strong Experience with Deep ML frameworks (PyTorch) · Strong Experience in Python · Self-motivated and energetic team player with a strong work ethic and cooperative attitude · Excellent communication and organizational skills Plus: · Familiarity with building big data systems · Training very large models using multiple GPUs in the cloud · Experience with training machine learning models on equirectangular images We are seeking a performance-driven, high-energy personality who has several years of experience in the field. Since you will work intensely with teams from many countries solid command of the English language is a prerequisite. We offer attractive compensation, unlimited career opportunities, and the possibility to work in one of the most exciting software companies in the industry. The position will be remote in any location of choice in Europe (outside Russia, Belarus, and Ukraine). Our headquarters are in Berlin, Germany, with major offices in Belgrade, Serbia, Lakeland, Florida, and in Canada. We look forward to receiving your application! Please mention the word **REGAL** and tag RMTcyLjIwOC4yMy42NA== when applying to show you read the job post completely (#RMTcyLjIwOC4yMy42NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "The fastest-growing European SaaS company is searching for an AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing software vendors in the rapidly expanding property tech sector. Our enthusiastic customer base is located across Europe and North America. DocuSketch's groundbreaking digital technology greatly facilitates real estate companies and building restoration companies to digitize, visualize, and virtualize real estate properties. Our solutions help our clients realize tremendous cost-saving potentials, process optimization, and revenue growth. You’ll be working in a team that drives the company's AI development to develop algorithms for a variety of different use cases. This includes e.g. working with equirectangular, phone, or satellite images to detect doors, windows, or other objects inside of buildings or finding facets on the roof. You’ll be challenged by solving complex 3D geometry problems and working closely with our labeling team to ensure the best possible data quality. Responsibilities and Duties: · Research, train and deploy state-of-the-art machine learning models for object detection and 3D perception on equirectangular images · Quickly prototype new ideas/technologies to create proof of concept and demos Qualifications: · Bachelor’s Degree in Computer Science or equivalent experience · Excellent math skills · Experience with 3D computer vision algorithms · Preferably 5+ years of experience developing and training machine learning models · Strong Experience with Deep ML frameworks (PyTorch) · Strong Experience in Python · Self-motivated and energetic team player with a strong work ethic and cooperative attitude · Excellent communication and organizational skills Plus: · Familiarity with building big data systems · Training very large models using multiple GPUs in the cloud · Experience with training machine learning models on equirectangular images We are seeking a performance-driven, high-energy personality who has several years of experience in the field. Since you will work intensely with teams from many countries solid command of the English language is a prerequisite. We offer attractive compensation, unlimited career opportunities, and the possibility to work in one of the most exciting software companies in the industry. The position will be remote in any location of choice in Europe (outside Russia, Belarus, and Ukraine). Our headquarters are in Berlin, Germany, with major offices in Belgrade, Serbia, Lakeland, Florida, and in Canada. We look forward to receiving your application! Please mention the word **REGAL** and tag RNTIuMTU1LjYwLjE4NA== when applying to show you read the job post completely (#RNTIuMTU1LjYwLjE4NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "The fastest-growing European SaaS company is searching for an AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing software vendors in the...",
       "jd_language": "en",
       "skills": [
@@ -313,6 +313,36 @@
     }
   ],
   "news": [
+    {
+      "id": "762a50fde55d8156",
+      "section": "news",
+      "source": "AI Agents News",
+      "title": "Scaling AI agents with open standards: Kurtis Van Gent on MCP and Agent Skills joining the AAIF - Google Open Source Blog",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXlxSDV0VVBJcFBBRDhuaVM0TDRCeUh3UXJuVlctTlBqNXYydlRFc2YwWmxKYU9aV1AtWndHQTBFLXpIVl9iSTlmZjVnalVWRXJSREgzM243Y2ZVejYtUlBiV3FfZDJ6bUVJWnh1U1JLUGVIWGhYR1Y4VzkzUjB5YlBsSmdMbGVQUVMwQVlibW84dw?oc=5",
+      "published_at": "2026-11-11T19:31:54+00:00",
+      "summary": "Scaling AI agents with open standards: Kurtis Van Gent on MCP and Agent Skills joining the AAIF Google Open Source Blog",
+      "tags": [
+        "agents",
+        "mcp",
+        "news"
+      ],
+      "relevance_score": 10
+    },
+    {
+      "id": "e3784dda367bd31d",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "addyosmani/agent-skills Adds 788 GitHub Stars in 24 Hours as AI Coding Agents Get Senior-Engineer Guardrails - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BbUNWZTdzaDN6X1M1Z2R1UWFMY0pyQTAtcGpxcU53em5TcEF4LWRuNms4SjE2WXBjX3ZuNVJFanNrZFNlZVpzN2NaQXpwN3ViYjZKb1RhelFmRGdXaUM2a3ZINHBON3ZJREU0Ukp3VERoOU1Lb1E?oc=5",
+      "published_at": "2026-11-11T17:55:00+00:00",
+      "summary": "addyosmani/agent-skills Adds 788 GitHub Stars in 24 Hours as AI Coding Agents Get Senior-Engineer Guardrails BigGo Finance",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 9
+    },
     {
       "id": "33b752aa9fbedfc6",
       "section": "news",
@@ -346,28 +376,13 @@
       "relevance_score": 9
     },
     {
-      "id": "a75dc18636efc845",
-      "section": "news",
-      "source": "AI Agents News",
-      "title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeE50dFVQa3JwSGpPS1lSdkhRN0MzVC1xcVBmclpGakZoV1YzS3poQ24yaE5wQUJVc2V2Y1IxUzh3dmxzUFNEcEhRYVpydUJyM3MxaE15aXJhbE8wMm9fU3VNTkR1ZGZqR241UVNfREpBNDJDcFE3eWZLYm01NFdlSjNtLUJ1YURGeUtZUUpkaV90VS0tUjktSEJnV09wdWt1Q0U1SFBZOGJ2X1RpdHdLR2pfWnRTdw?oc=5",
-      "published_at": "2026-11-10T22:45:00+00:00",
-      "summary": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises SiliconANGLE",
-      "tags": [
-        "agents",
-        "evals",
-        "news"
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "f59b45186e070879",
+      "id": "ce5b3eaddb2abcb6",
       "section": "news",
       "source": "AI Coding Tools News",
-      "title": "From Wearable Agent To Heavy Coding: Top AI Releases From Meta, Google, OpenAI, And Anthropic - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNaUdHVVl3YWd4cWF6RmpDc2RZLTh3REJteGNkSDRQaVdMRVJRSFZsSjdzNExfMlhnR3VQSFgzWG5CZk9qbElDaERHMFQ5blhIWFpOM05pdm9ueHhMSmY0dERtdTVicDVyN1VXSXRMUEVKZVRMN2toeDRLSEhkdGp4VUxtYXZDX0d5OGRLa3hXdlk3Ums3ZlRNMmc3SGNYMmZGZmZvNXJtVmpxckRqeGFxV21meVhMWjRDdFgtSHZ0MzRoSVhDQkxzQnBFYnJ0NTlSWkNfZ3RTRTNTVWdUR2RaUTBZQ0ZaXzVlTW1PeXJQSWRIT2hNcjNScTNELXdwQm1aUFE?oc=5",
-      "published_at": "2026-11-10T08:48:36+00:00",
-      "summary": "From Wearable Agent To Heavy Coding: Top AI Releases From Meta, Google, OpenAI, And Anthropic ETV Bharat",
+      "title": "Best AI Testing Agent, Amikoo, Takes E2E Testing Beyond AI Code Review So Teams Can Verify Every Pull Request - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUjBOSE81bV93Smpkejc4NmRiNHJ3SFFfa3I4d3JTcHpzN01HYzVWUDAzOVVvT1liTmJVRXVCMEpVQ2Z6cmh2cmtXM002a3NTZXc4eTBPZ045dm5HcEVYZ24tRFQ5Mnd1MHBpWEQ1Vlc1SnRhanFjQUtOSmtrZlJBeWhBMEJnbzFqM0V4akRRUkgwMlVtMDlPd09tWXpaY1M1MDM1N2ZWU1phdzhyYlhKTVlOMTROZ09VTmUyZWVkREFUQ2pvRldpTlFIQ241RnJNU3BURHdNOEdfMkwwN2x6SVkyUHBWSVhpa1pGWlJZdVo?oc=5",
+      "published_at": "2026-11-12T01:44:12+00:00",
+      "summary": "Best AI Testing Agent, Amikoo, Takes E2E Testing Beyond AI Code Review So Teams Can Verify Every Pull Request USA Today",
       "tags": [
         "agents",
         "ai_coding",
@@ -376,16 +391,61 @@
       "relevance_score": 8
     },
     {
-      "id": "4eb268b245ab77ba",
+      "id": "3240f450bd90f249",
       "section": "news",
       "source": "AI Agents News",
-      "title": "Cisco Unveils Frontier AI Red Teaming and Agent Observability to Secure the Agentic Enterprise - Cisco Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN1UtandEUlhfbENTWGRCV3QtT2x1cVFiaXR0MXpQZnc5N0NaMTdCa3RrSFlVZm9abTY1d1lZWnVDTU9IcjBWTGJHbklnSlpHa2JIRFJ2dmp2eWoyVGlTUW4wTlRQWnQ1RUZUNnVlVVg5VG9vZ1kwUFR6S1BWSUNaWldEVzZBcm5pN3NTZGVrTEdtck1lOVFtTFVaLWcydmxhbWhKU3RDb3d3YzJUOF96ekFNMXY4NE1GUktPbms3ejd6V1ItMXdNYTVtWWtqSXFEVDVMVEZFSnBjLUd6UXdrcnZhX2wybHBXZHZoTFVB?oc=5",
-      "published_at": "2026-11-09T19:59:49+00:00",
-      "summary": "Cisco Unveils Frontier AI Red Teaming and Agent Observability to Secure the Agentic Enterprise Cisco Newsroom",
+      "title": "Build a data foundation for agentic AI on AWS: From lakehouse to MCP - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVM2aEFOYUFTSjc5cGNpMktlWlRTR1Y2WlV4cWx2YXUtd0lhU08yamIwMzdUQThHRDNEbkY0amhrMFBnTWQ0NlF4LUNfSnZlUE1aTmF5alhYbU9HaGhWNjlseHFRNm1qbHFLUld3T3MwUnFBcWRrVGQweHpRcWdBMzlySzRoOThTbGdCbzNDWXdycVNjYjVobkFMLXViNnltQ2tzV2pjR3Uydw?oc=5",
+      "published_at": "2026-11-11T21:03:43+00:00",
+      "summary": "Build a data foundation for agentic AI on AWS: From lakehouse to MCP Amazon Web Services (AWS)",
       "tags": [
         "agents",
-        "evals",
+        "mcp",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "6905dd02c4725e1f",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "Cybersecurity Strategies for Low-Code vs. High-Code Agent Development - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXFjMF9XWTU0bWx0bjZNbkk4dngtUi1BOWdEalViYTFjdENLUDhpVkpzX3ZwYVVMVk1BSWFlRlIycHVoSHB2cUF5a0laVEw4QTVmS09xRVE1N1E4NmgzT0lsZGszOGE2Nzl3Y2tNdUdDZ0RHZmxsaEY2dXRNS1ViWnJWM3pOU3Vael92NXdDOWdnM29S?oc=5",
+      "published_at": "2026-11-11T16:57:26+00:00",
+      "summary": "Cybersecurity Strategies for Low-Code vs. High-Code Agent Development Unite.AI",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "86c6182394ecbac7",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "Orca Security adds visibility into AI-generated code and agent risks - Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hdHV4M1FvaDlYdjB1VUI4Y3VkVEgwNi1IMEdjS0FZd2ctZTVxYVBJcWdSRC1KQWx5Wk9kMEFPQzhWWXNBVmZ0aGt3d0tLT2NJcXR3ZUx2aEI2VkZGUTkwYmhkOUt4bjhPVThvWEZrRVFiVnVCcHh6cw?oc=5",
+      "published_at": "2026-11-11T09:05:46+00:00",
+      "summary": "Orca Security adds visibility into AI-generated code and agent risks Help Net Security",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "id": "224c66eff7706081",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "From Wearable Agent To Heavy Coding: Top AI Releases From Meta, Google, OpenAI, And Anthropic - ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNaUdHVVl3YWd4cWF6RmpDc2RZLTh3REJteGNkSDRQaVdMRVJRSFZsSjdzNExfMlhnR3VQSFgzWG5CZk9qbElDaERHMFQ5blhIWFpOM05pdm9ueHhMSmY0dERtdTVicDVyN1VXSXRMUEVKZVRMN2toeDRLSEhkdGp4VUxtYXZDX0d5OGRLa3hXdlk3Ums3ZlRNMmc3SGNYMmZGZmZvNXJtVmpxckRqeGFxV21meVhMWjRDdFgtSHZ0MzRoSVhDQkxzQnBFYnJ0NTlSWkNfZ3RTRTNTVWdUR2RaUTBZQ0ZaXzVlTW1PeXJQSWRIT2hNcjNScTNELXdwQm1aUFHSAYcCQVVfeXFMUG5wc1RKc29lcmpDdjhYTkIxWGVFdTRqUTl3WkJsbXdXNF9yVy1HQkhoaEhtOFdXcE0zMmZySXdXSE80VjdfeVRTUzdzTURYOVc1ME9rUk12MVlEUFlHbldiN3hvbEV4QnhSc0NvTGRQLWxOX1IybTZaeWRWamJHU2RvY2ZUNnV4bWpCMWFMR3NKX050X3RuY2k3Tk5hWHNPakszR0I3N3hZZWZicERiYTlpajFSMGcyXy13c0JMSjJKM0FuejNlUDN5TUV4blRnbnI5b3MyNTN5ZG5VUmJJSUtDOFR0RThQSVFjaG5nMTYxV1BzWTRMeW1CVHFXQkE1RmRBVVBRYWM?oc=5",
+      "published_at": "2026-11-10T08:48:36+00:00",
+      "summary": "From Wearable Agent To Heavy Coding: Top AI Releases From Meta, Google, OpenAI, And Anthropic ETV Bharat",
+      "tags": [
+        "agents",
+        "ai_coding",
         "news"
       ],
       "relevance_score": 8
@@ -404,103 +464,45 @@
         "news"
       ],
       "relevance_score": 8
-    },
-    {
-      "id": "9563ef6496366e5d",
-      "section": "news",
-      "source": "AI Model Releases",
-      "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJKXy1xWWNFX3hLZktkaW5tZ2Q3cHoyZ3FnTDRHM2hQSlFjRVJ5X253RUNmZTg5VjJtOUFnMlhpZHN5VU5meVFGTWRFbWprUnBrb3pnMjl1bjJIUWdjQ2ZXa0w5V2g0X3E4ODloa0FmTXc3MTlHMDBQZFh6LXpYbTUwbVBYcTZSMEh1MXRQbFdyRFdBbzhPbmFn?oc=5",
-      "published_at": "2026-09-30T07:00:00+00:00",
-      "summary": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns The Guardian",
-      "tags": [
-        "agents",
-        "models",
-        "news"
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "613b93abf8fd96c5",
-      "section": "news",
-      "source": "AI Coding Tools News",
-      "title": "We’re bringing governed agent loops to the AI-Native SDLC - Atlassian",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtWmVoNk9RRGhkek5YVXlGNkYwek5laXRNSFV0ZkdVWnVJdUY4d0dyUUhNWHV2ZWw4TEdvSGk4YldpMXhpNlFEWm16SHZZMUJtMnQzblhEOGk5dW54S1JsaE5HQVNwUUE?oc=5",
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "summary": "We’re bringing governed agent loops to the AI-Native SDLC Atlassian",
-      "tags": [
-        "agents",
-        "ai_coding",
-        "news"
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "1adcc9836038a973",
-      "section": "news",
-      "source": "AI Coding Tools News",
-      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2c?oc=5",
-      "published_at": "2026-08-05T07:00:00+00:00",
-      "summary": "Meta debuts first AI coding agent to take on Anthropic and OpenAI CNBC",
-      "tags": [
-        "agents",
-        "ai_coding",
-        "news"
-      ],
-      "relevance_score": 8
-    },
-    {
-      "id": "c37b615112751ee9",
-      "section": "news",
-      "source": "AI Coding Tools News",
-      "title": "ServiceNow Build Agent now works inside every major AI coding tool, governed by default - ServiceNow",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZS1lSWhkUW1kb3dmckQ3cDNRNVJ0MFFBN0VjVnhQR1EtWlNjZDJXc0tRdFV1cU9LVy1oT2xtaWI2Z2ZfTl9ySG5ITjJYcW5NWF8zOG5jOXVoZFBsMUpIdV9XS3l3ODhZN2FIVC1DZkxzaGg1eG45alUtUnNmOFZCcEhUZndzNjM5TUlNLWJCT0JJRHhYTnRQU1gxZWdlTkZ3QUVMZmdGemlCTXhEYXRhYURjOWl2RGtoMk84ZkplZ0g2dGNIbEJZSjBRcURwRTFaRjVfTlNSYnJPSjZ3RUdCOGk5NXNLanlfWWJpcloybk0?oc=5",
-      "published_at": "2026-05-06T07:00:00+00:00",
-      "summary": "ServiceNow Build Agent now works inside every major AI coding tool, governed by default ServiceNow",
-      "tags": [
-        "agents",
-        "ai_coding",
-        "news"
-      ],
-      "relevance_score": 8
     }
   ],
   "github_repos": [
     {
-      "id": "51d7d526a9e3f054",
+      "id": "49f39e417455755b",
       "section": "github_repos",
       "source": "GitHub LLM Repositories",
-      "title": "langwatch/langwatch",
-      "url": "https://github.com/langwatch/langwatch",
-      "published_at": "2026-11-11T05:24:08+00:00",
-      "summary": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assistant in the company.",
+      "title": "dataelement/bisheng",
+      "url": "https://github.com/dataelement/bisheng",
+      "published_at": "2026-11-12T06:24:33+00:00",
+      "summary": "BISHENG is an open-source enterprise Agent platform for building, deploying, and managing AI applications. It combines AI agents, workflows, RAG and knowledge management, desktop agent integration, and vibecoding app hosting with unified model management, evaluation, observability, access control, and enterprise administration.",
       "tags": [
-        "agent-testing",
+        "agent",
         "agents",
         "ai",
-        "ai_coding",
-        "analytics",
-        "datasets",
-        "dspy",
+        "chatbot",
+        "dsh",
+        "dsh-plugin",
+        "enterprise",
         "evals",
-        "evaluation",
+        "finetune",
+        "genai",
         "github",
         "gpt",
+        "langchian",
         "llm",
-        "llm-ops",
+        "llmdevops",
         "llmops",
-        "low-code",
-        "observability",
-        "observability-platform",
+        "ocr",
         "openai",
-        "prompt-engineering",
-        "simulation-testing"
+        "orchestration",
+        "python",
+        "rag",
+        "workflow"
       ],
-      "relevance_score": 16,
-      "repo": "langwatch/langwatch",
-      "stars": 5023,
-      "language": "TypeScript"
+      "relevance_score": 17,
+      "repo": "dataelement/bisheng",
+      "stars": 12269,
+      "language": "Python"
     },
     {
       "id": "d783ebd33395316f",
@@ -508,7 +510,7 @@
       "source": "GitHub RAG Repositories",
       "title": "headroomlabs-ai/headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
-      "published_at": "2026-11-11T05:21:07+00:00",
+      "published_at": "2026-11-12T06:25:07+00:00",
       "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "tags": [
         "agent",
@@ -536,104 +538,16 @@
       ],
       "relevance_score": 16,
       "repo": "headroomlabs-ai/headroom",
-      "stars": 79326,
+      "stars": 79405,
       "language": "Python"
-    },
-    {
-      "id": "898a80bfe91e0dc7",
-      "section": "github_repos",
-      "source": "GitHub RAG Repositories",
-      "title": "amitshekhariitbhu/ai-engineering-course",
-      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
-      "published_at": "2026-11-11T04:49:27+00:00",
-      "summary": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
-      "tags": [
-        "ai-course",
-        "ai-engineering",
-        "ai-engineering-course",
-        "ai-engineering-curriculum",
-        "ai_infra",
-        "evals",
-        "fine_tuning",
-        "github",
-        "large-language-models",
-        "llmops",
-        "rag"
-      ],
-      "relevance_score": 15,
-      "repo": "amitshekhariitbhu/ai-engineering-course",
-      "stars": 707,
-      "language": "Markdown"
-    },
-    {
-      "id": "92332a2dc8210fed",
-      "section": "github_repos",
-      "source": "GitHub LLM Repositories",
-      "title": "comet-ml/opik",
-      "url": "https://github.com/comet-ml/opik",
-      "published_at": "2026-11-11T05:24:36+00:00",
-      "summary": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
-      "tags": [
-        "agents",
-        "evals",
-        "evaluation",
-        "github",
-        "hacktoberfest",
-        "hacktoberfest2025",
-        "langchain",
-        "llama-index",
-        "llm",
-        "llm-evaluation",
-        "llm-observability",
-        "llmops",
-        "open-source",
-        "openai",
-        "playground",
-        "prompt-engineering",
-        "rag"
-      ],
-      "relevance_score": 14,
-      "repo": "comet-ml/opik",
-      "stars": 23325,
-      "language": "Python"
-    },
-    {
-      "id": "7699ead083dace74",
-      "section": "github_repos",
-      "source": "GitHub LLM Repositories",
-      "title": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "published_at": "2026-11-11T05:22:03+00:00",
-      "summary": "An open-source AI coding agent that lives in your terminal.",
-      "tags": [
-        "agentic",
-        "agents",
-        "ai",
-        "ai-agent",
-        "ai-coding",
-        "ai_coding",
-        "cli",
-        "coding-agent",
-        "developer-tools",
-        "github",
-        "llm",
-        "mcp",
-        "qwen",
-        "terminal",
-        "typescript"
-      ],
-      "relevance_score": 14,
-      "repo": "QwenLM/qwen-code",
-      "stars": 29220,
-      "language": "TypeScript"
     },
     {
       "id": "8f2db0354e045f5e",
       "section": "github_repos",
-      "source": "GitHub RAG Repositories",
+      "source": "GitHub LLM Repositories",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "published_at": "2026-11-11T04:52:23+00:00",
+      "published_at": "2026-11-12T06:28:28+00:00",
       "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "tags": [
         "agent",
@@ -661,75 +575,70 @@
       ],
       "relevance_score": 14,
       "repo": "langgenius/dify",
-      "stars": 160920,
+      "stars": 161006,
       "language": "Python"
     },
     {
-      "id": "3072b7fcdadcfd6e",
+      "id": "7699ead083dace74",
       "section": "github_repos",
-      "source": "GitHub RAG Repositories",
-      "title": "amitshekhariitbhu/ai-engineering-interview-questions",
-      "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
-      "published_at": "2026-11-11T04:22:50+00:00",
-      "summary": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
+      "source": "GitHub LLM Repositories",
+      "title": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "published_at": "2026-11-12T06:25:47+00:00",
+      "summary": "An open-source AI coding agent that lives in your terminal.",
       "tags": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "ai-engineering",
-        "fine-tuning",
-        "github",
-        "interview",
-        "interview-preparation",
-        "interview-questions",
-        "llm",
-        "llm-inference",
-        "mcp",
-        "quantization",
-        "questions-and-answers",
-        "rag"
-      ],
-      "relevance_score": 13,
-      "repo": "amitshekhariitbhu/ai-engineering-interview-questions",
-      "stars": 3631,
-      "language": "Markdown"
-    },
-    {
-      "id": "e6a371696af72087",
-      "section": "github_repos",
-      "source": "GitHub AI Repositories",
-      "title": "holaboss-ai/holaOS",
-      "url": "https://github.com/holaboss-ai/holaOS",
-      "published_at": "2026-11-11T04:20:31+00:00",
-      "summary": "Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, not months. Local-first: your data never leaves your machines.",
-      "tags": [
-        "agent",
-        "agent-harness",
-        "agent-os",
         "agentic",
         "agents",
         "ai",
         "ai-agent",
-        "ai-agents",
-        "artificial-intelligence",
-        "claude-code",
-        "codex",
-        "electron",
+        "ai-coding",
+        "ai_coding",
+        "cli",
+        "coding-agent",
+        "developer-tools",
         "github",
-        "holaboss",
-        "holaos",
         "llm",
         "mcp",
-        "memory",
-        "model-context-protocol",
-        "runtime",
-        "typescript",
-        "workspace"
+        "qwen",
+        "terminal",
+        "typescript"
       ],
-      "relevance_score": 13,
-      "repo": "holaboss-ai/holaOS",
-      "stars": 11443,
+      "relevance_score": 14,
+      "repo": "QwenLM/qwen-code",
+      "stars": 29494,
       "language": "TypeScript"
+    },
+    {
+      "id": "92332a2dc8210fed",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "comet-ml/opik",
+      "url": "https://github.com/comet-ml/opik",
+      "published_at": "2026-11-12T06:23:31+00:00",
+      "summary": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+      "tags": [
+        "agents",
+        "evals",
+        "evaluation",
+        "github",
+        "hacktoberfest",
+        "hacktoberfest2025",
+        "langchain",
+        "llama-index",
+        "llm",
+        "llm-evaluation",
+        "llm-observability",
+        "llmops",
+        "open-source",
+        "openai",
+        "playground",
+        "prompt-engineering",
+        "rag"
+      ],
+      "relevance_score": 14,
+      "repo": "comet-ml/opik",
+      "stars": 23355,
+      "language": "Python"
     },
     {
       "id": "1dd40fc5ece12f99",
@@ -737,7 +646,7 @@
       "source": "GitHub AI Repositories",
       "title": "xorbitsai/inference",
       "url": "https://github.com/xorbitsai/inference",
-      "published_at": "2026-11-11T04:00:30+00:00",
+      "published_at": "2026-11-12T06:06:08+00:00",
       "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
       "tags": [
         "ai",
@@ -768,45 +677,134 @@
       ],
       "relevance_score": 13,
       "repo": "xorbitsai/inference",
-      "stars": 9652,
+      "stars": 9653,
       "language": "Python"
     },
     {
-      "id": "f6f30e4a21cb668b",
+      "id": "69b4daa2a283770b",
       "section": "github_repos",
-      "source": "GitHub Agent Repositories",
-      "title": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "published_at": "2026-11-11T05:24:08+00:00",
-      "summary": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "source": "GitHub RAG Repositories",
+      "title": "Atmosphere/atmosphere",
+      "url": "https://github.com/Atmosphere/atmosphere",
+      "published_at": "2026-11-12T05:51:52+00:00",
+      "summary": "Portable AI agent runtime for the JVM. One @Agent class runs on Spring AI, LangChain4j, Anthropic, or 9 more behind one SPI. Token streaming, tool calls, human approvals, and governance over WebSocket, SSE, gRPC, or WebTransport/HTTP3. Speaks MCP, A2A, and AG-UI.",
       "tags": [
+        "a2a",
+        "acp",
+        "agentic-ai",
         "agents",
-        "ai",
         "ai-agents",
-        "chatbot",
-        "crm",
-        "customer-support",
+        "anthropic",
+        "crewai",
+        "embabel",
+        "event-driven",
         "github",
-        "kommo-alternative",
-        "lgpd",
+        "java",
+        "koog",
+        "langchain4j",
+        "llm",
         "mcp",
-        "nextjs",
-        "nuvemshop",
-        "open-source",
-        "open-source-crm",
+        "multiagent",
+        "quarkus",
         "rag",
-        "sales-automation",
-        "self-hosted",
-        "supabase",
-        "waha",
-        "whatsapp",
-        "whatsapp-api",
-        "whatsapp-crm"
+        "spring-ai",
+        "spring-boot",
+        "sse",
+        "websocket"
+      ],
+      "relevance_score": 13,
+      "repo": "Atmosphere/atmosphere",
+      "stars": 3833,
+      "language": "Java"
+    },
+    {
+      "id": "1505348ff667795f",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "DemonDamon/AgenticX",
+      "url": "https://github.com/DemonDamon/AgenticX",
+      "published_at": "2026-11-12T05:47:03+00:00",
+      "summary": "AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).",
+      "tags": [
+        "agent-framework",
+        "agentic-workflows",
+        "agents",
+        "ai-agent",
+        "ai-orchestration",
+        "chatbot",
+        "desktop-app",
+        "electron",
+        "fastapi",
+        "github",
+        "graphrag",
+        "llm",
+        "mcp",
+        "multi-agent-system",
+        "python",
+        "rag",
+        "tool-use"
+      ],
+      "relevance_score": 13,
+      "repo": "DemonDamon/AgenticX",
+      "stars": 1039,
+      "language": "Python"
+    },
+    {
+      "id": "865db4cf204a3ff3",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "shibing624/agentica",
+      "url": "https://github.com/shibing624/agentica",
+      "published_at": "2026-11-12T05:55:49+00:00",
+      "summary": "One person, a team of agents: CLI, Web, Desktop & Python SDK with multi-session collaboration, persistent memory, and self-evolving skills. 一个人，一支 Agent 团队：支持多终端协作、持久记忆与技能自进化的 AI Agent 框架。",
+      "tags": [
+        "agent",
+        "agent-framework",
+        "agentica",
+        "agents",
+        "ai-agent",
+        "cli",
+        "github",
+        "langchain",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "rag",
+        "self-evolving",
+        "workflow"
       ],
       "relevance_score": 12,
-      "repo": "melgarafael/DeskcommCRM",
-      "stars": 5345,
-      "language": "TypeScript"
+      "repo": "shibing624/agentica",
+      "stars": 364,
+      "language": "Python"
+    },
+    {
+      "id": "1f0ca83809b0fb3d",
+      "section": "github_repos",
+      "source": "GitHub AI Repositories",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "published_at": "2026-11-12T06:19:48+00:00",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "tags": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "artificial-intelligence",
+        "autonomous-agents",
+        "claude",
+        "github",
+        "gpt",
+        "llama-api",
+        "llm",
+        "multimodal",
+        "openai",
+        "python"
+      ],
+      "relevance_score": 11,
+      "repo": "Significant-Gravitas/AutoGPT",
+      "stars": 187998,
+      "language": "Python"
     }
   ],
   "knowledge_trends": [
@@ -819,7 +817,7 @@
         "tool use",
         "function calling"
       ],
-      "evidence_count": 29,
+      "evidence_count": 32,
       "evidence": [
         {
           "title": "Senior Back-end Developer",
@@ -840,35 +838,6 @@
       "status": "daily_evidence"
     },
     {
-      "name": "LLM evaluation and observability",
-      "summary": "Testing, scoring, tracing, and monitoring production LLM behavior.",
-      "keywords": [
-        "evaluation",
-        "eval",
-        "observability",
-        "benchmark"
-      ],
-      "evidence_count": 17,
-      "evidence": [
-        {
-          "title": "Software Engineer",
-          "section": "jobs",
-          "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685"
-        },
-        {
-          "title": "Software Engineer, AI Coding Tasks",
-          "section": "jobs",
-          "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158"
-        },
-        {
-          "title": "Full-Stack Developer",
-          "section": "jobs",
-          "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165"
-        }
-      ],
-      "status": "daily_evidence"
-    },
-    {
       "name": "AI coding workflows",
       "summary": "AI-assisted software development workflows across IDEs, CLIs, and review tools.",
       "keywords": [
@@ -877,7 +846,7 @@
         "developer tool",
         "ide"
       ],
-      "evidence_count": 17,
+      "evidence_count": 19,
       "evidence": [
         {
           "title": "Senior Back-end Developer",
@@ -906,7 +875,7 @@
         "vector",
         "embedding"
       ],
-      "evidence_count": 10,
+      "evidence_count": 11,
       "evidence": [
         {
           "title": "Senior Back-end Developer",
@@ -927,28 +896,57 @@
       "status": "daily_evidence"
     },
     {
+      "name": "LLM evaluation and observability",
+      "summary": "Testing, scoring, tracing, and monitoring production LLM behavior.",
+      "keywords": [
+        "evaluation",
+        "eval",
+        "observability",
+        "benchmark"
+      ],
+      "evidence_count": 11,
+      "evidence": [
+        {
+          "title": "Software Engineer",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685"
+        },
+        {
+          "title": "Software Engineer, AI Coding Tasks",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158"
+        },
+        {
+          "title": "Full-Stack Developer",
+          "section": "jobs",
+          "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165"
+        }
+      ],
+      "status": "daily_evidence"
+    },
+    {
       "name": "Model Context Protocol",
       "summary": "A tool and context integration pattern for connecting AI apps to external systems.",
       "keywords": [
         "mcp",
         "model context protocol"
       ],
-      "evidence_count": 6,
+      "evidence_count": 8,
       "evidence": [
+        {
+          "title": "Scaling AI agents with open standards: Kurtis Van Gent on MCP and Agent Skills joining the AAIF - Google Open Source Blog",
+          "section": "news",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXlxSDV0VVBJcFBBRDhuaVM0TDRCeUh3UXJuVlctTlBqNXYydlRFc2YwWmxKYU9aV1AtWndHQTBFLXpIVl9iSTlmZjVnalVWRXJSREgzM243Y2ZVejYtUlBiV3FfZDJ6bUVJWnh1U1JLUGVIWGhYR1Y4VzkzUjB5YlBsSmdMbGVQUVMwQVlibW84dw?oc=5"
+        },
+        {
+          "title": "Build a data foundation for agentic AI on AWS: From lakehouse to MCP - Amazon Web Services (AWS)",
+          "section": "news",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVM2aEFOYUFTSjc5cGNpMktlWlRTR1Y2WlV4cWx2YXUtd0lhU08yamIwMzdUQThHRDNEbkY0amhrMFBnTWQ0NlF4LUNfSnZlUE1aTmF5alhYbU9HaGhWNjlseHFRNm1qbHFLUld3T3MwUnFBcWRrVGQweHpRcWdBMzlySzRoOThTbGdCbzNDWXdycVNjYjVobkFMLXViNnltQ2tzV2pjR3Uydw?oc=5"
+        },
         {
           "title": "headroomlabs-ai/headroom",
           "section": "github_repos",
           "url": "https://github.com/headroomlabs-ai/headroom"
-        },
-        {
-          "title": "QwenLM/qwen-code",
-          "section": "github_repos",
-          "url": "https://github.com/QwenLM/qwen-code"
-        },
-        {
-          "title": "langgenius/dify",
-          "section": "github_repos",
-          "url": "https://github.com/langgenius/dify"
         }
       ],
       "status": "daily_evidence"
@@ -983,15 +981,6 @@
       "insight": "AI 基础设施同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
     },
     {
-      "tag": "evals",
-      "sections": [
-        "github_repos",
-        "jobs",
-        "news"
-      ],
-      "insight": "评测与可观测性同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
-    },
-    {
       "tag": "llmops",
       "sections": [
         "github_repos",
@@ -999,6 +988,14 @@
         "news"
       ],
       "insight": "LLMOps同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
+    },
+    {
+      "tag": "evals",
+      "sections": [
+        "github_repos",
+        "jobs"
+      ],
+      "insight": "评测与可观测性同时出现在GitHub 项目、岗位中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
     }
   ],
   "errors": [],
