@@ -1,4 +1,4 @@
-# AI 岗位趋势 - 2026-11-12
+# AI 岗位趋势 - 2026-11-13
 
 岗位覆盖：9/5（达标）
 
@@ -12,17 +12,6 @@
 - 关注点：该岗位信号与智能体、AI 编程、LLMOps、AI 基础设施 相关，显示 Lemon.io 在 Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia 对相关 AI 能力有招聘需求。
 - JD 原文摘录：Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. Currently, we have a few open positions from our client, an AI-native cloud company. AI teams use its platform to run inference on open-source models, fine-tune them and rent large...
 - JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、JavaScript、Agents、Kubernetes；岗位范围为 东南亚 Remote；发布方为 Lemon.io。
-
-### [Forward Deployed Engineer Agentic Platform](https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611)
-- 公司：Cohere
-- 地区：未知
-- 来源：RemoteOK AI Jobs
-- 匹配范围：Global Remote
-- 标签：智能体、RAG、AI 编程、小模型与端侧 AI
-- 技能点：Python、RAG、Agents
-- 关注点：该岗位信号与智能体、RAG、AI 编程、小模型与端侧 AI 相关，显示 Cohere 在 未标明地区 对相关 AI 能力有招聘需求。
-- JD 原文摘录：Who are we? Our mission is to scale intelligence to serve humanity. We’re training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI. We obsess over what we build. Each one of us is responsible for contributing to...
-- JD 中文解读：该岗位要求的核心技能包括 Python、RAG、Agents；岗位范围为 Global Remote；发布方为 Cohere。
 
 ### [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685)
 - 公司：Claims
@@ -67,6 +56,17 @@
 - 关注点：该岗位信号与评测与可观测性、LLMOps、远程岗位 相关，显示 Fluence International, Inc. 在 Worldwide 对相关 AI 能力有招聘需求。
 - JD 原文摘录：We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental health. You’ll work closely with and report to our Senior AI & Design Lead to turn product requirements into robust, secure, and well-documented applications, as well as maintain existing ones. What you’ll do...
 - JD 中文解读：该岗位要求的核心技能包括 TypeScript、JavaScript、评测、可观测性、Docker；岗位范围为 Global Remote；发布方为 Fluence International, Inc.。
+
+### [Senior React Full-stack Developer](https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136)
+- 公司：Lemon.io
+- 地区：LATAM, Europe, USA, Canada, APAC
+- 来源：Remotive AI Jobs
+- 匹配范围：Global Remote
+- 标签：智能体、远程岗位
+- 技能点：Python、TypeScript、JavaScript、Agents
+- 关注点：该岗位信号与智能体、远程岗位 相关，显示 Lemon.io 在 LATAM, Europe, USA, Canada, APAC 对相关 AI 能力有招聘需求。
+- JD 原文摘录：Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You...
+- JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、JavaScript、Agents；岗位范围为 Global Remote；发布方为 Lemon.io。
 
 ### [Operations Expert with Python for AI Supply Chain Task Design](https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690)
 - 公司：Toptal
