@@ -1,6 +1,6 @@
-# AI 岗位趋势 - 2026-11-13
+# AI 岗位趋势 - 2026-11-14
 
-岗位覆盖：9/5（达标）
+岗位覆盖：10/5（达标）
 
 ### [Senior Back-end Developer](https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135)
 - 公司：Lemon.io
@@ -56,6 +56,17 @@
 - 关注点：该岗位信号与评测与可观测性、LLMOps、远程岗位 相关，显示 Fluence International, Inc. 在 Worldwide 对相关 AI 能力有招聘需求。
 - JD 原文摘录：We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental health. You’ll work closely with and report to our Senior AI & Design Lead to turn product requirements into robust, secure, and well-documented applications, as well as maintain existing ones. What you’ll do...
 - JD 中文解读：该岗位要求的核心技能包括 TypeScript、JavaScript、评测、可观测性、Docker；岗位范围为 Global Remote；发布方为 Fluence International, Inc.。
+
+### [Senior Data Engineer](https://remotive.com/remote-jobs/data/senior-data-engineer-2091137)
+- 公司：Lemon.io
+- 地区：LATAM, Europe, USA, Canada, APAC
+- 来源：Remotive AI Jobs
+- 匹配范围：Global Remote
+- 标签：智能体、远程岗位
+- 技能点：Python、TypeScript、JavaScript、Agents、SQL
+- 关注点：该岗位信号与智能体、远程岗位 相关，显示 Lemon.io 在 LATAM, Europe, USA, Canada, APAC 对相关 AI 能力有招聘需求。
+- JD 原文摘录：Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You...
+- JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、JavaScript、Agents、SQL；岗位范围为 Global Remote；发布方为 Lemon.io。
 
 ### [Senior React Full-stack Developer](https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136)
 - 公司：Lemon.io
