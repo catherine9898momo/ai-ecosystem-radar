@@ -1,16 +1,10 @@
-# AI 新闻动态 - 2026-11-14
+# AI 新闻动态 - 2026-11-15
 
 新闻覆盖：10/5（达标）
 
-### [Schwab surprises analysts with extra rapid launch of own MCP servers, also leaping from read-only to agentic (get stuff done) AI; it leaves RIAs out for now, and makes Anthropic's days numbered as Schwab's exclusive LLM - RIABiz](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPMlUyZXktN0NpY0lBbjdtSERpbzIxZjdfNk9VRjhoS29TSkc0QWpQSG54U2otWWdiekdJei1tSDY3RFlvN1k1UExIVnpDSnJ5dkJPM2FNZWNER1VoXzVRSVRPNzBJSFc0Qk9XOWxTMWxEZ0lLX3lxOFAwOTg0WTFoelk1Y0tNY2NhTnRrR3g2a2IzMTE0a3hqUmlybGdFQjBBckl5M01CWjFLR3dUZWpVVUNmT0RXR1R4R2dqS2NsMWNOYmE4VHJmLS0teXN0N2NPWjJMbjU3NzZZOTdLS2xmNGRrOWEzdlRJUWZpRnhHWU1iZjJkSHdCUVMyUmptVWJISDdwSDlaVlp1OF92Tkw1WDFfQ1dMWGFHZWR0UURfcEREZG1NMVJjRjNWSDQxQXk1N1NjZmV3VElKMDVHNkk5WElyWTk2WHFTa0RvWHhaQ294Wmp0ekktc3NWeDg1eFZ4UGc?oc=5)
-- 来源：AI Model Releases
-- 发布时间：2026-11-13T07:59:27+00:00
-- 标签：智能体、MCP、模型发布
-- 摘要：这条动态与智能体、MCP、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [Scaling AI agents with open standards: Kurtis Van Gent on MCP and Agent Skills joining the AAIF - Google Open Source Blog](https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXlxSDV0VVBJcFBBRDhuaVM0TDRCeUh3UXJuVlctTlBqNXYydlRFc2YwWmxKYU9aV1AtWndHQTBFLXpIVl9iSTlmZjVnalVWRXJSREgzM243Y2ZVejYtUlBiV3FfZDJ6bUVJWnh1U1JLUGVIWGhYR1Y4VzkzUjB5YlBsSmdMbGVQUVMwQVlibW84dw?oc=5)
+### [Tipalti Launches AP Agent with MCP Links to Enterprise AI Tools - The Fintech Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0ZBZHNzOHFiUWVZWkhKT3hmcVZEZDBnbkpua2FNa0hkR0hZcHI4OWxLS3ZCRFRMYjJrX0pGNGhmSWpZZkN3OE9QUzkxQndfVHNVNUJYX2Rqb05hUGk2NXg4dWRNT3ZTWlJoT25FZnhJUHhBcVR5NjJ3c3RNY3phUlk5REs5SUlscHZkWHk3R0NSdDZINHlB?oc=5)
 - 来源：AI Agents News
-- 发布时间：2026-11-11T19:31:54+00:00
+- 发布时间：2026-11-15T01:00:45+00:00
 - 标签：智能体、MCP
 - 摘要：这条动态与智能体、MCP相关，可能反映相关产品、技术或监管方向的新变化。
 
@@ -57,6 +51,12 @@
 - 摘要：这条动态与智能体、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
 ### [Secure AI Coding: Governing every agent, artifact, and identity - Palo Alto Networks](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1V1REVSZTJlaFBrTzBpcE9JLTlXeTVhcEFaVm1aeGUyRUlIaWVneHlGUC1xMFIzOUhmVngxU2hXeDdUN3pjOTM1X19OcXpOYzEzNFhEYldwMjhxMFBlT19CbUpHVlpJWEtyZFVxQ3R6R0JvRkFWdDJaejdZd0FlWS1VYnJqM1Rsa2lJSGtZd0s0NjJXZ3MwbV9yNmYwVGpvV2hFT1dHdkZLS0U?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-09-10T07:00:00+00:00
+- 标签：智能体、AI 编程
+- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [We’re bringing governed agent loops to the AI-Native SDLC - Atlassian](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtWmVoNk9RRGhkek5YVXlGNkYwek5laXRNSFV0ZkdVWnVJdUY4d0dyUUhNWHV2ZWw4TEdvSGk4YldpMXhpNlFEWm16SHZZMUJtMnQzblhEOGk5dW54S1JsaE5HQVNwUUE?oc=5)
 - 来源：AI Coding Tools News
 - 发布时间：2026-09-10T07:00:00+00:00
 - 标签：智能体、AI 编程

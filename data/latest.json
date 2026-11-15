@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "timezone": "Asia/Shanghai",
-  "generated_at": "2026-11-14T05:38:59.646418+00:00",
+  "generated_at": "2026-11-15T05:37:37.032524+00:00",
   "coverage": {
     "jobs": {
       "count": 10,
@@ -25,11 +25,11 @@
     }
   },
   "summary": [
-    "agents 在 22 条记录中出现，中文主题可理解为：智能体。",
-    "ai_coding 在 8 条记录中出现，中文主题可理解为：AI 编程。",
-    "llmops 在 8 条记录中出现，中文主题可理解为：LLMOps。",
-    "ai 在 7 条记录中出现，中文主题可理解为：ai。",
-    "llm 在 7 条记录中出现，中文主题可理解为：大模型。"
+    "agents 在 21 条记录中出现，中文主题可理解为：智能体。",
+    "llm 在 10 条记录中出现，中文主题可理解为：大模型。",
+    "mcp 在 10 条记录中出现，中文主题可理解为：MCP。",
+    "ai_coding 在 9 条记录中出现，中文主题可理解为：AI 编程。",
+    "llmops 在 8 条记录中出现，中文主题可理解为：LLMOps。"
   ],
   "jobs": [
     {
@@ -272,7 +272,7 @@
       "relevance_score": 10,
       "company": "Toptal",
       "location": "Anywhere in the World",
-      "jd": "Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities • Design expert-level Terminal-Bench tasks by turning a real supply chain task from your work into a challenge an AI agent solves end to end. • Define the files, data exports and systems each task runs on, such as ERP, MES and WMS extracts, so the scenario reflects realistic planning conditions. • Write a working solution for each task, for example a 5-day production plan, and confirm it can be solved in 60 to 75 minutes. • Build the automated check that proves the result is correct, using tests or scripts that accept valid answers and catch planning errors objectively. • Document the written rules, constraints and SOPs that decide each case, along with realistic edge cases, data inconsistencies and common planner errors from your process. • Iterate on tasks based on reviewer feedback, keeping instructions unambiguous, data consistent and the solution and verification reproducible in a command-line environment. Skills/Experience • 3+ years of hands-on supply chain or production planning work (not only studying, selling or managing it), or a PhD with active research in the subfield • Did the work within the last 3 years and can name the systems, tools, data and rules used • Personally executed a process where each case is decided by written rules such as SOPs, planning rules or constraints • Worked inside systems of record (ERP, WMS) and with their exports or reports • Can describe edge cases, data inconsistencies and common planner errors, and how a mistake would be caught • Technical fluency in Python or another language and the command line, plus files, CSV/JSON, APIs or databases • Available to start around November 4, 2026 Nice-to-have • Automated or audited the process with scripts, SQL, RPA or rules engines • 5+ years in the same process family • Docker, Git and experience writing tests • Hands-on experience with SAP or other ERPs and TMS/WMS platforms • Advanced Excel skills Process • Task-based engagement paid per task, with each task taking about 60 to 75 minutes • Vetting task instead of a live interview • Tasks are reviewed by the client before approval Please mention the word **EXELLENT** and tag RNC4xNDkuMjM2LjI0OQ== when applying to show you read the job post completely (#RNC4xNDkuMjM2LjI0OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.*** Responsibilities • Design expert-level Terminal-Bench tasks by turning a real supply chain task from your work into a challenge an AI agent solves end to end. • Define the files, data exports and systems each task runs on, such as ERP, MES and WMS extracts, so the scenario reflects realistic planning conditions. • Write a working solution for each task, for example a 5-day production plan, and confirm it can be solved in 60 to 75 minutes. • Build the automated check that proves the result is correct, using tests or scripts that accept valid answers and catch planning errors objectively. • Document the written rules, constraints and SOPs that decide each case, along with realistic edge cases, data inconsistencies and common planner errors from your process. • Iterate on tasks based on reviewer feedback, keeping instructions unambiguous, data consistent and the solution and verification reproducible in a command-line environment. Skills/Experience • 3+ years of hands-on supply chain or production planning work (not only studying, selling or managing it), or a PhD with active research in the subfield • Did the work within the last 3 years and can name the systems, tools, data and rules used • Personally executed a process where each case is decided by written rules such as SOPs, planning rules or constraints • Worked inside systems of record (ERP, WMS) and with their exports or reports • Can describe edge cases, data inconsistencies and common planner errors, and how a mistake would be caught • Technical fluency in Python or another language and the command line, plus files, CSV/JSON, APIs or databases • Available to start around November 4, 2026 Nice-to-have • Automated or audited the process with scripts, SQL, RPA or rules engines • 5+ years in the same process family • Docker, Git and experience writing tests • Hands-on experience with SAP or other ERPs and TMS/WMS platforms • Advanced Excel skills Process • Task-based engagement paid per task, with each task taking about 60 to 75 minutes • Vetting task instead of a live interview • Tasks are reviewed by the client before approval Please mention the word **EXELLENT** and tag RNTIuMTkwLjE0MS4zNA== when applying to show you read the job post completely (#RNTIuMTkwLjE0MS4zNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE...",
       "jd_language": "en",
       "skills": [
@@ -302,7 +302,7 @@
       "relevance_score": 8,
       "company": "CertiK",
       "location": "",
-      "jd": "About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions including smart contract audits, penetration testing, on-chain monitoring, incident response, and compliance services for some of the largest projects in the digital asset ecosystem. Today, CertiK supports thousands of enterprise clients and Web3 projects globally, with a distributed international team spanning North America, Asia, and Europe. The company is backed by leading investors including Coatue, Goldman Sachs, Insight Partners, and Sequoia Capital, and has been recognized by organizations such as the World Economic Forum and CB Insights for its contributions to blockchain security innovation. About This Role Weâre looking for a passionate and proactive Business Development professional to help expand CertiKâs presence in the Web3 ecosystem. Youâll connect with founders and decision makers, identify new business opportunities, build lasting relationships, and drive deals from initial conversations to closing. We value people who take initiative, stay curious, and are eager to learn and grow alongside our global team. \\n Responsibilities Research and open new Web3 projects across DeFi, infrastructure, L1/L2 ecosystems and exchanges. Reach decision makers such as founders, CTOs and heads of security. Drive deals from first contact to signed contract. Build partnerships and referral channels with projects, VCs, launchpads and ecosystems Stay on top of market trends and developments, identify new business opportunities, and translate market insights into actionable feedback. Requirements Has experience in business development, sales, partnerships or consulting Web3 native, or a fast learner who can show how you got up to speed on something new Self-motivated, hard-working and responsive Fluent in English Based in Europe, the UAE or North America Nice to Have An existing network among Web3 founders, VCs, launchpads or exchanges Technical curiosity about smart contracts, DeFi mechanics and security Experience in a startup or in a role with a commission component What We Offer Base salary plus uncapped commission A security engineer mentor and support from senior BDs from day one Fully remote work with a global team across North America, Asia and Europe \\n This role must be performed outside the United States. We are unable to consider candidates who will work from within the U.S. Please mention the word **STEADY** and tag RNC4xNDkuMjM2LjI0OQ== when applying to show you read the job post completely (#RNC4xNDkuMjM2LjI0OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions including smart contract audits, penetration testing, on-chain monitoring, incident response, and compliance services for some of the largest projects in the digital asset ecosystem. Today, CertiK supports thousands of enterprise clients and Web3 projects globally, with a distributed international team spanning North America, Asia, and Europe. The company is backed by leading investors including Coatue, Goldman Sachs, Insight Partners, and Sequoia Capital, and has been recognized by organizations such as the World Economic Forum and CB Insights for its contributions to blockchain security innovation. About This Role Weâre looking for a passionate and proactive Business Development professional to help expand CertiKâs presence in the Web3 ecosystem. Youâll connect with founders and decision makers, identify new business opportunities, build lasting relationships, and drive deals from initial conversations to closing. We value people who take initiative, stay curious, and are eager to learn and grow alongside our global team. \\n Responsibilities Research and open new Web3 projects across DeFi, infrastructure, L1/L2 ecosystems and exchanges. Reach decision makers such as founders, CTOs and heads of security. Drive deals from first contact to signed contract. Build partnerships and referral channels with projects, VCs, launchpads and ecosystems Stay on top of market trends and developments, identify new business opportunities, and translate market insights into actionable feedback. Requirements Has experience in business development, sales, partnerships or consulting Web3 native, or a fast learner who can show how you got up to speed on something new Self-motivated, hard-working and responsive Fluent in English Based in Europe, the UAE or North America Nice to Have An existing network among Web3 founders, VCs, launchpads or exchanges Technical curiosity about smart contracts, DeFi mechanics and security Experience in a startup or in a role with a commission component What We Offer Base salary plus uncapped commission A security engineer mentor and support from senior BDs from day one Fully remote work with a global team across North America, Asia and Europe \\n This role must be performed outside the United States. We are unable to consider candidates who will work from within the U.S. Please mention the word **STEADY** and tag RNTIuMTkwLjE0MS4zNA== when applying to show you read the job post completely (#RNTIuMTkwLjE0MS4zNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powered technology. Founded in 2017 and headquartered in New York City, CertiK provides end-to-end security solutions...",
       "jd_language": "en",
       "skills": [
@@ -328,7 +328,7 @@
       "relevance_score": 8,
       "company": "Docusketch",
       "location": "",
-      "jd": "The fastest-growing European SaaS company is searching for an AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing software vendors in the rapidly expanding property tech sector. Our enthusiastic customer base is located across Europe and North America. DocuSketch's groundbreaking digital technology greatly facilitates real estate companies and building restoration companies to digitize, visualize, and virtualize real estate properties. Our solutions help our clients realize tremendous cost-saving potentials, process optimization, and revenue growth. You’ll be working in a team that drives the company's AI development to develop algorithms for a variety of different use cases. This includes e.g. working with equirectangular, phone, or satellite images to detect doors, windows, or other objects inside of buildings or finding facets on the roof. You’ll be challenged by solving complex 3D geometry problems and working closely with our labeling team to ensure the best possible data quality. Responsibilities and Duties: · Research, train and deploy state-of-the-art machine learning models for object detection and 3D perception on equirectangular images · Quickly prototype new ideas/technologies to create proof of concept and demos Qualifications: · Bachelor’s Degree in Computer Science or equivalent experience · Excellent math skills · Experience with 3D computer vision algorithms · Preferably 5+ years of experience developing and training machine learning models · Strong Experience with Deep ML frameworks (PyTorch) · Strong Experience in Python · Self-motivated and energetic team player with a strong work ethic and cooperative attitude · Excellent communication and organizational skills Plus: · Familiarity with building big data systems · Training very large models using multiple GPUs in the cloud · Experience with training machine learning models on equirectangular images We are seeking a performance-driven, high-energy personality who has several years of experience in the field. Since you will work intensely with teams from many countries solid command of the English language is a prerequisite. We offer attractive compensation, unlimited career opportunities, and the possibility to work in one of the most exciting software companies in the industry. The position will be remote in any location of choice in Europe (outside Russia, Belarus, and Ukraine). Our headquarters are in Berlin, Germany, with major offices in Belgrade, Serbia, Lakeland, Florida, and in Canada. We look forward to receiving your application! Please mention the word **REGAL** and tag RNC4xNDkuMjM2LjI0OQ== when applying to show you read the job post completely (#RNC4xNDkuMjM2LjI0OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "jd": "The fastest-growing European SaaS company is searching for an AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing software vendors in the rapidly expanding property tech sector. Our enthusiastic customer base is located across Europe and North America. DocuSketch's groundbreaking digital technology greatly facilitates real estate companies and building restoration companies to digitize, visualize, and virtualize real estate properties. Our solutions help our clients realize tremendous cost-saving potentials, process optimization, and revenue growth. You’ll be working in a team that drives the company's AI development to develop algorithms for a variety of different use cases. This includes e.g. working with equirectangular, phone, or satellite images to detect doors, windows, or other objects inside of buildings or finding facets on the roof. You’ll be challenged by solving complex 3D geometry problems and working closely with our labeling team to ensure the best possible data quality. Responsibilities and Duties: · Research, train and deploy state-of-the-art machine learning models for object detection and 3D perception on equirectangular images · Quickly prototype new ideas/technologies to create proof of concept and demos Qualifications: · Bachelor’s Degree in Computer Science or equivalent experience · Excellent math skills · Experience with 3D computer vision algorithms · Preferably 5+ years of experience developing and training machine learning models · Strong Experience with Deep ML frameworks (PyTorch) · Strong Experience in Python · Self-motivated and energetic team player with a strong work ethic and cooperative attitude · Excellent communication and organizational skills Plus: · Familiarity with building big data systems · Training very large models using multiple GPUs in the cloud · Experience with training machine learning models on equirectangular images We are seeking a performance-driven, high-energy personality who has several years of experience in the field. Since you will work intensely with teams from many countries solid command of the English language is a prerequisite. We offer attractive compensation, unlimited career opportunities, and the possibility to work in one of the most exciting software companies in the industry. The position will be remote in any location of choice in Europe (outside Russia, Belarus, and Ukraine). Our headquarters are in Berlin, Germany, with major offices in Belgrade, Serbia, Lakeland, Florida, and in Canada. We look forward to receiving your application! Please mention the word **REGAL** and tag RNTIuMTkwLjE0MS4zNA== when applying to show you read the job post completely (#RNTIuMTkwLjE0MS4zNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "jd_excerpt": "The fastest-growing European SaaS company is searching for an AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital real estate economy. With our product brands Immoviewer and DocuSketch, we have become one of the most successful and fastest-growing software vendors in the...",
       "jd_language": "en",
       "skills": [
@@ -342,35 +342,19 @@
   ],
   "news": [
     {
-      "id": "013875c774f30ab0",
-      "section": "news",
-      "source": "AI Model Releases",
-      "title": "Schwab surprises analysts with extra rapid launch of own MCP servers, also leaping from read-only to agentic (get stuff done) AI; it leaves RIAs out for now, and makes Anthropic's days numbered as Schwab's exclusive LLM - RIABiz",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPMlUyZXktN0NpY0lBbjdtSERpbzIxZjdfNk9VRjhoS29TSkc0QWpQSG54U2otWWdiekdJei1tSDY3RFlvN1k1UExIVnpDSnJ5dkJPM2FNZWNER1VoXzVRSVRPNzBJSFc0Qk9XOWxTMWxEZ0lLX3lxOFAwOTg0WTFoelk1Y0tNY2NhTnRrR3g2a2IzMTE0a3hqUmlybGdFQjBBckl5M01CWjFLR3dUZWpVVUNmT0RXR1R4R2dqS2NsMWNOYmE4VHJmLS0teXN0N2NPWjJMbjU3NzZZOTdLS2xmNGRrOWEzdlRJUWZpRnhHWU1iZjJkSHdCUVMyUmptVWJISDdwSDlaVlp1OF92Tkw1WDFfQ1dMWGFHZWR0UURfcEREZG1NMVJjRjNWSDQxQXk1N1NjZmV3VElKMDVHNkk5WElyWTk2WHFTa0RvWHhaQ294Wmp0ekktc3NWeDg1eFZ4UGc?oc=5",
-      "published_at": "2026-11-13T07:59:27+00:00",
-      "summary": "Schwab surprises analysts with extra rapid launch of own MCP servers, also leaping from read-only to agentic (get stuff done) AI; it leaves RIAs out for now, and makes Anthropic's days numbered as Schwab's exclusive LLM RIABiz",
-      "tags": [
-        "agents",
-        "mcp",
-        "models",
-        "news"
-      ],
-      "relevance_score": 11
-    },
-    {
-      "id": "762a50fde55d8156",
+      "id": "61c524b3ae314264",
       "section": "news",
       "source": "AI Agents News",
-      "title": "Scaling AI agents with open standards: Kurtis Van Gent on MCP and Agent Skills joining the AAIF - Google Open Source Blog",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXlxSDV0VVBJcFBBRDhuaVM0TDRCeUh3UXJuVlctTlBqNXYydlRFc2YwWmxKYU9aV1AtWndHQTBFLXpIVl9iSTlmZjVnalVWRXJSREgzM243Y2ZVejYtUlBiV3FfZDJ6bUVJWnh1U1JLUGVIWGhYR1Y4VzkzUjB5YlBsSmdMbGVQUVMwQVlibW84dw?oc=5",
-      "published_at": "2026-11-11T19:31:54+00:00",
-      "summary": "Scaling AI agents with open standards: Kurtis Van Gent on MCP and Agent Skills joining the AAIF Google Open Source Blog",
+      "title": "Tipalti Launches AP Agent with MCP Links to Enterprise AI Tools - The Fintech Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0ZBZHNzOHFiUWVZWkhKT3hmcVZEZDBnbkpua2FNa0hkR0hZcHI4OWxLS3ZCRFRMYjJrX0pGNGhmSWpZZkN3OE9QUzkxQndfVHNVNUJYX2Rqb05hUGk2NXg4dWRNT3ZTWlJoT25FZnhJUHhBcVR5NjJ3c3RNY3phUlk5REs5SUlscHZkWHk3R0NSdDZINHlB?oc=5",
+      "published_at": "2026-11-15T01:00:45+00:00",
+      "summary": "Tipalti Launches AP Agent with MCP Links to Enterprise AI Tools The Fintech Times",
       "tags": [
         "agents",
         "mcp",
         "news"
       ],
-      "relevance_score": 10
+      "relevance_score": 9
     },
     {
       "id": "33b752aa9fbedfc6",
@@ -493,16 +477,31 @@
         "news"
       ],
       "relevance_score": 8
+    },
+    {
+      "id": "613b93abf8fd96c5",
+      "section": "news",
+      "source": "AI Coding Tools News",
+      "title": "We’re bringing governed agent loops to the AI-Native SDLC - Atlassian",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtWmVoNk9RRGhkek5YVXlGNkYwek5laXRNSFV0ZkdVWnVJdUY4d0dyUUhNWHV2ZWw4TEdvSGk4YldpMXhpNlFEWm16SHZZMUJtMnQzblhEOGk5dW54S1JsaE5HQVNwUUE?oc=5",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "summary": "We’re bringing governed agent loops to the AI-Native SDLC Atlassian",
+      "tags": [
+        "agents",
+        "ai_coding",
+        "news"
+      ],
+      "relevance_score": 8
     }
   ],
   "github_repos": [
     {
       "id": "d783ebd33395316f",
       "section": "github_repos",
-      "source": "GitHub LLM Repositories",
+      "source": "GitHub RAG Repositories",
       "title": "headroomlabs-ai/headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
-      "published_at": "2026-11-14T04:01:30+00:00",
+      "published_at": "2026-11-15T05:37:16+00:00",
       "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "tags": [
         "agent",
@@ -530,71 +529,70 @@
       ],
       "relevance_score": 16,
       "repo": "headroomlabs-ai/headroom",
-      "stars": 79614,
+      "stars": 79683,
       "language": "Python"
     },
     {
-      "id": "898a80bfe91e0dc7",
+      "id": "0098cbbd90db01f2",
       "section": "github_repos",
       "source": "GitHub RAG Repositories",
-      "title": "amitshekhariitbhu/ai-engineering-course",
-      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
-      "published_at": "2026-11-13T18:26:42+00:00",
-      "summary": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
+      "title": "SourceWeft/SourceWeft",
+      "url": "https://github.com/SourceWeft/SourceWeft",
+      "published_at": "2026-11-15T04:57:24+00:00",
+      "summary": "Open-source, self-hostable alternative to ChatGPT and NotebookLM — agents, skills, MCP, and cited knowledge in one AI workstation. Your models, your infrastructure. Includes public MCP server and agent skills directories.",
       "tags": [
-        "ai-course",
-        "ai-engineering",
-        "ai-engineering-course",
-        "ai-engineering-curriculum",
-        "ai_infra",
-        "evals",
-        "fine_tuning",
-        "github",
-        "large-language-models",
-        "llmops",
-        "rag"
-      ],
-      "relevance_score": 15,
-      "repo": "amitshekhariitbhu/ai-engineering-course",
-      "stars": 731,
-      "language": "Markdown"
-    },
-    {
-      "id": "5867b44135a1fb02",
-      "section": "github_repos",
-      "source": "GitHub RAG Repositories",
-      "title": "Pinvou/pinvou-agent",
-      "url": "https://github.com/Pinvou/pinvou-agent",
-      "published_at": "2026-11-14T05:07:03+00:00",
-      "summary": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-      "tags": [
-        "agent-client-protocol",
-        "agent-skills",
         "agentic-ai",
+        "agentic-rag",
         "agents",
         "ai",
-        "ai-agent",
         "ai-agents",
-        "ai-assistant",
-        "coding-agent",
-        "desktop-app",
+        "chatbot",
+        "generative-ai",
         "github",
         "knowledge-base",
         "llm",
-        "local-first",
-        "local-llm",
         "mcp",
-        "mcp-client",
-        "ollama",
+        "multi-agent",
+        "notebooklm",
         "rag",
-        "rust",
-        "tauri",
-        "workflow-automation"
+        "self-hosted",
+        "skills",
+        "workbuddy"
+      ],
+      "relevance_score": 15,
+      "repo": "SourceWeft/SourceWeft",
+      "stars": 483,
+      "language": "TypeScript"
+    },
+    {
+      "id": "7699ead083dace74",
+      "section": "github_repos",
+      "source": "GitHub LLM Repositories",
+      "title": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "published_at": "2026-11-15T05:25:17+00:00",
+      "summary": "An open-source AI coding agent that lives in your terminal.",
+      "tags": [
+        "agentic",
+        "agents",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "ai_coding",
+        "cli",
+        "coding-agent",
+        "developer-tools",
+        "github",
+        "llm",
+        "mcp",
+        "qwen",
+        "terminal",
+        "typescript"
       ],
       "relevance_score": 14,
-      "repo": "Pinvou/pinvou-agent",
-      "stars": 3016,
-      "language": "Rust"
+      "repo": "QwenLM/qwen-code",
+      "stars": 30407,
+      "language": "TypeScript"
     },
     {
       "id": "8f2db0354e045f5e",
@@ -602,7 +600,7 @@
       "source": "GitHub RAG Repositories",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "published_at": "2026-11-14T04:08:08+00:00",
+      "published_at": "2026-11-15T05:02:11+00:00",
       "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "tags": [
         "agent",
@@ -630,186 +628,216 @@
       ],
       "relevance_score": 14,
       "repo": "langgenius/dify",
-      "stars": 161128,
+      "stars": 161177,
       "language": "Python"
     },
     {
-      "id": "3013fbaa13121b87",
+      "id": "5867b44135a1fb02",
       "section": "github_repos",
       "source": "GitHub RAG Repositories",
-      "title": "poco-ai/Agentero",
-      "url": "https://github.com/poco-ai/Agentero",
-      "published_at": "2026-11-14T03:58:19+00:00",
-      "summary": "Unified research workspace for humans & agents — PDF Q&A with citations, Vault, writing. 为人与 Agent 协作的科研工作台；补齐 Zotero 时代的人机上下文断点。",
+      "title": "Pinvou/pinvou-agent",
+      "url": "https://github.com/Pinvou/pinvou-agent",
+      "published_at": "2026-11-15T04:47:04+00:00",
+      "summary": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
       "tags": [
-        "academic",
-        "agents",
-        "ai-agents",
-        "citations",
-        "desktop-app",
-        "dsh-plugin",
-        "github",
-        "knowledge-base",
-        "literature-review",
-        "llm",
-        "mcp",
-        "pdf",
-        "rag",
-        "research",
-        "research-assistant",
-        "tauri",
-        "typescript",
-        "writing-assistant"
-      ],
-      "relevance_score": 12,
-      "repo": "poco-ai/Agentero",
-      "stars": 2493,
-      "language": "TypeScript"
-    },
-    {
-      "id": "1f0ca83809b0fb3d",
-      "section": "github_repos",
-      "source": "GitHub AI Repositories",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "published_at": "2026-11-14T04:38:23+00:00",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "tags": [
+        "agent-client-protocol",
+        "agent-skills",
         "agentic-ai",
         "agents",
         "ai",
-        "artificial-intelligence",
-        "autonomous-agents",
-        "claude",
+        "ai-agent",
+        "ai-agents",
+        "ai-assistant",
+        "coding-agent",
+        "desktop-app",
         "github",
-        "gpt",
-        "llama-api",
+        "knowledge-base",
         "llm",
-        "multimodal",
-        "openai",
-        "python"
-      ],
-      "relevance_score": 11,
-      "repo": "Significant-Gravitas/AutoGPT",
-      "stars": 188019,
-      "language": "Python"
-    },
-    {
-      "id": "9be157da9398b249",
-      "section": "github_repos",
-      "source": "GitHub RAG Repositories",
-      "title": "onyx-dot-app/onyx",
-      "url": "https://github.com/onyx-dot-app/onyx",
-      "published_at": "2026-11-14T04:36:52+00:00",
-      "summary": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "tags": [
-        "ai",
-        "ai-chat",
-        "chatgpt",
-        "chatui",
-        "enterprise-search",
-        "gen-ai",
-        "github",
-        "information-retrieval",
-        "llm",
-        "llm-ui",
-        "nextjs",
-        "python",
+        "local-first",
+        "local-llm",
+        "mcp",
+        "mcp-client",
+        "ollama",
         "rag",
-        "self-hosted",
-        "vector-search"
+        "rust",
+        "tauri",
+        "workflow-automation"
       ],
-      "relevance_score": 11,
-      "repo": "onyx-dot-app/onyx",
-      "stars": 33385,
-      "language": "Python"
-    },
-    {
-      "id": "b81f0002c992515f",
-      "section": "github_repos",
-      "source": "GitHub Agent Repositories",
-      "title": "ExplosiveCoderflome/AI-Novel-Writing-Assistant",
-      "url": "https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant",
-      "published_at": "2026-11-14T02:46:01+00:00",
-      "summary": "面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-driven workflows.",
-      "tags": [
-        "agent-workflow",
-        "agents",
-        "ai",
-        "creative-writing",
-        "github",
-        "long-form-fiction",
-        "narrative-engine",
-        "novel-writing",
-        "rag",
-        "story-generation",
-        "worldbuilding",
-        "writing-assistant"
-      ],
-      "relevance_score": 11,
-      "repo": "ExplosiveCoderflome/AI-Novel-Writing-Assistant",
-      "stars": 3467,
-      "language": "TypeScript"
-    },
-    {
-      "id": "cfb99e98a400fdcf",
-      "section": "github_repos",
-      "source": "GitHub Agent Repositories",
-      "title": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "published_at": "2026-11-14T05:37:37+00:00",
-      "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "tags": [
-        "agent-skills",
-        "agents",
-        "ai",
-        "ai_coding",
-        "anti-slop",
-        "design",
-        "github",
-        "slop"
-      ],
-      "relevance_score": 10,
-      "repo": "pbakaus/impeccable",
-      "stars": 109732,
+      "relevance_score": 14,
+      "repo": "Pinvou/pinvou-agent",
+      "stars": 3026,
       "language": "Rust"
     },
     {
-      "id": "02e527d2e44deca4",
+      "id": "1dd40fc5ece12f99",
       "section": "github_repos",
-      "source": "GitHub LLM Repositories",
-      "title": "mdiri-ai/SoduWork",
-      "url": "https://github.com/mdiri-ai/SoduWork",
-      "published_at": "2026-11-14T05:30:50+00:00",
-      "summary": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
+      "source": "GitHub AI Repositories",
+      "title": "xorbitsai/inference",
+      "url": "https://github.com/xorbitsai/inference",
+      "published_at": "2026-11-14T22:22:37+00:00",
+      "summary": "Open-source inference platform for language, vision, embedding, reranking, image, audio, and video models. Deploy with multiple engines across heterogeneous hardware, from a laptop to a distributed cluster. Serve models through OpenAI-compatible APIs.",
       "tags": [
+        "ai",
+        "ai_infra",
+        "artificial-intelligence",
+        "diffusers",
+        "gemma",
+        "github",
+        "glm",
+        "glm-5-3",
+        "inference",
+        "kimi",
+        "kimi-k3",
+        "llama-cpp",
+        "llamacpp",
+        "llm",
+        "llmops",
+        "machine-learning",
+        "mlx",
+        "multimodal",
+        "openai-api",
+        "pytorch",
+        "qwen",
+        "rag",
+        "sglang",
+        "transformers",
+        "vllm",
+        "whisper"
+      ],
+      "relevance_score": 14,
+      "repo": "xorbitsai/inference",
+      "stars": 9656,
+      "language": "Python"
+    },
+    {
+      "id": "e6a371696af72087",
+      "section": "github_repos",
+      "source": "GitHub AI Repositories",
+      "title": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "published_at": "2026-11-14T23:24:58+00:00",
+      "summary": "Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, not months. Local-first: your data never leaves your machines.",
+      "tags": [
+        "agent",
         "agent-harness",
-        "agent-orchestration",
-        "agent-workflows",
+        "agent-os",
+        "agentic",
         "agents",
+        "ai",
+        "ai-agent",
         "ai-agents",
-        "ai-workflows",
-        "anti-slop",
+        "artificial-intelligence",
         "claude-code",
         "codex",
-        "deepseek",
         "electron",
-        "fastapi",
         "github",
-        "harness",
-        "human-in-the-loop",
+        "holaboss",
+        "holaos",
+        "llm",
+        "mcp",
+        "memory",
+        "model-context-protocol",
+        "runtime",
+        "typescript",
+        "workspace"
+      ],
+      "relevance_score": 13,
+      "repo": "holaboss-ai/holaOS",
+      "stars": 11441,
+      "language": "TypeScript"
+    },
+    {
+      "id": "6949355b8cb70eec",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "SylphxAI/anymd",
+      "url": "https://github.com/SylphxAI/anymd",
+      "published_at": "2026-11-14T07:47:45+00:00",
+      "summary": "Any file → clean Markdown for AI agents: PDF, Word, PowerPoint, Excel, EPUB, HTML and web pages, images (OCR), audio and video (metadata, subtitles, transcripts). A fast Rust MCP server and CLI that runs on your machine. No API key.",
+      "tags": [
+        "ai-agents",
+        "cli",
+        "document-conversion",
+        "docx",
+        "docx-to-markdown",
+        "epub",
+        "github",
+        "html-to-markdown",
+        "llm",
+        "markdown",
+        "markitdown-alternative",
+        "mcp",
+        "model-context-protocol",
+        "multimodal",
+        "ocr",
+        "pdf",
+        "pdf-to-markdown",
+        "pptx",
+        "rag",
+        "rust",
+        "transcription",
+        "xlsx"
+      ],
+      "relevance_score": 12,
+      "repo": "SylphxAI/anymd",
+      "stars": 1070,
+      "language": "Rust"
+    },
+    {
+      "id": "865db4cf204a3ff3",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "shibing624/agentica",
+      "url": "https://github.com/shibing624/agentica",
+      "published_at": "2026-11-12T13:58:23+00:00",
+      "summary": "One person, a team of agents: CLI, Web, Desktop & Python SDK with multi-session collaboration, persistent memory, and self-evolving skills. 一个人，一支 Agent 团队：支持多终端协作、持久记忆与技能自进化的 AI Agent 框架。",
+      "tags": [
+        "agent",
+        "agent-framework",
+        "agentica",
+        "agents",
+        "ai-agent",
+        "cli",
+        "github",
+        "langchain",
         "llm",
         "mcp",
         "multi-agent",
-        "opencode",
-        "plugin-system",
-        "self-hosted",
-        "team-collaboration"
+        "rag",
+        "self-evolving",
+        "workflow"
       ],
-      "relevance_score": 10,
-      "repo": "mdiri-ai/SoduWork",
-      "stars": 710,
-      "language": "JavaScript"
+      "relevance_score": 12,
+      "repo": "shibing624/agentica",
+      "stars": 364,
+      "language": "Python"
+    },
+    {
+      "id": "b739aff01790b161",
+      "section": "github_repos",
+      "source": "GitHub RAG Repositories",
+      "title": "Sibyl-Labs/Sibyl-Memory",
+      "url": "https://github.com/Sibyl-Labs/Sibyl-Memory",
+      "published_at": "2026-11-12T11:19:15+00:00",
+      "summary": "Durable, file-based long-term memory for AI agents. Five-package plugin family: SDK, CLI, MCP server, Hermes adapter, and a LangGraph BaseStore. No vector database, no embeddings.",
+      "tags": [
+        "agent-memory",
+        "ai-agents",
+        "claude",
+        "fine_tuning",
+        "github",
+        "langgraph",
+        "llm",
+        "long-term-memory",
+        "mcp",
+        "rag",
+        "retrieval",
+        "sqlite"
+      ],
+      "relevance_score": 12,
+      "repo": "Sibyl-Labs/Sibyl-Memory",
+      "stars": 177,
+      "language": "Python"
     }
   ],
   "knowledge_trends": [
@@ -822,7 +850,7 @@
         "tool use",
         "function calling"
       ],
-      "evidence_count": 28,
+      "evidence_count": 30,
       "evidence": [
         {
           "title": "Senior Back-end Developer",
@@ -851,7 +879,7 @@
         "developer tool",
         "ide"
       ],
-      "evidence_count": 16,
+      "evidence_count": 17,
       "evidence": [
         {
           "title": "Senior Back-end Developer",
@@ -880,7 +908,7 @@
         "vector",
         "embedding"
       ],
-      "evidence_count": 12,
+      "evidence_count": 15,
       "evidence": [
         {
           "title": "Senior Back-end Developer",
@@ -901,57 +929,57 @@
       "status": "daily_evidence"
     },
     {
-      "name": "LLM evaluation and observability",
-      "summary": "Testing, scoring, tracing, and monitoring production LLM behavior.",
-      "keywords": [
-        "evaluation",
-        "eval",
-        "observability",
-        "benchmark"
-      ],
-      "evidence_count": 10,
-      "evidence": [
-        {
-          "title": "Software Engineer",
-          "section": "jobs",
-          "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685"
-        },
-        {
-          "title": "Software Engineer, AI Coding Tasks",
-          "section": "jobs",
-          "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158"
-        },
-        {
-          "title": "Full-Stack Developer",
-          "section": "jobs",
-          "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165"
-        }
-      ],
-      "status": "daily_evidence"
-    },
-    {
       "name": "Model Context Protocol",
       "summary": "A tool and context integration pattern for connecting AI apps to external systems.",
       "keywords": [
         "mcp",
         "model context protocol"
       ],
-      "evidence_count": 7,
+      "evidence_count": 10,
       "evidence": [
         {
-          "title": "Schwab surprises analysts with extra rapid launch of own MCP servers, also leaping from read-only to agentic (get stuff done) AI; it leaves RIAs out for now, and makes Anthropic's days numbered as Schwab's exclusive LLM - RIABiz",
+          "title": "Tipalti Launches AP Agent with MCP Links to Enterprise AI Tools - The Fintech Times",
           "section": "news",
-          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPMlUyZXktN0NpY0lBbjdtSERpbzIxZjdfNk9VRjhoS29TSkc0QWpQSG54U2otWWdiekdJei1tSDY3RFlvN1k1UExIVnpDSnJ5dkJPM2FNZWNER1VoXzVRSVRPNzBJSFc0Qk9XOWxTMWxEZ0lLX3lxOFAwOTg0WTFoelk1Y0tNY2NhTnRrR3g2a2IzMTE0a3hqUmlybGdFQjBBckl5M01CWjFLR3dUZWpVVUNmT0RXR1R4R2dqS2NsMWNOYmE4VHJmLS0teXN0N2NPWjJMbjU3NzZZOTdLS2xmNGRrOWEzdlRJUWZpRnhHWU1iZjJkSHdCUVMyUmptVWJISDdwSDlaVlp1OF92Tkw1WDFfQ1dMWGFHZWR0UURfcEREZG1NMVJjRjNWSDQxQXk1N1NjZmV3VElKMDVHNkk5WElyWTk2WHFTa0RvWHhaQ294Wmp0ekktc3NWeDg1eFZ4UGc?oc=5"
-        },
-        {
-          "title": "Scaling AI agents with open standards: Kurtis Van Gent on MCP and Agent Skills joining the AAIF - Google Open Source Blog",
-          "section": "news",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXlxSDV0VVBJcFBBRDhuaVM0TDRCeUh3UXJuVlctTlBqNXYydlRFc2YwWmxKYU9aV1AtWndHQTBFLXpIVl9iSTlmZjVnalVWRXJSREgzM243Y2ZVejYtUlBiV3FfZDJ6bUVJWnh1U1JLUGVIWGhYR1Y4VzkzUjB5YlBsSmdMbGVQUVMwQVlibW84dw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0ZBZHNzOHFiUWVZWkhKT3hmcVZEZDBnbkpua2FNa0hkR0hZcHI4OWxLS3ZCRFRMYjJrX0pGNGhmSWpZZkN3OE9QUzkxQndfVHNVNUJYX2Rqb05hUGk2NXg4dWRNT3ZTWlJoT25FZnhJUHhBcVR5NjJ3c3RNY3phUlk5REs5SUlscHZkWHk3R0NSdDZINHlB?oc=5"
         },
         {
           "title": "headroomlabs-ai/headroom",
           "section": "github_repos",
           "url": "https://github.com/headroomlabs-ai/headroom"
+        },
+        {
+          "title": "SourceWeft/SourceWeft",
+          "section": "github_repos",
+          "url": "https://github.com/SourceWeft/SourceWeft"
+        }
+      ],
+      "status": "daily_evidence"
+    },
+    {
+      "name": "Multimodal AI",
+      "summary": "Models and applications that combine text, image, audio, and video inputs.",
+      "keywords": [
+        "multimodal",
+        "vision",
+        "audio",
+        "video"
+      ],
+      "evidence_count": 8,
+      "evidence": [
+        {
+          "title": "AI ML Engineer",
+          "section": "jobs",
+          "url": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619"
+        },
+        {
+          "title": "xorbitsai/inference",
+          "section": "github_repos",
+          "url": "https://github.com/xorbitsai/inference"
+        },
+        {
+          "title": "SylphxAI/anymd",
+          "section": "github_repos",
+          "url": "https://github.com/SylphxAI/anymd"
         }
       ],
       "status": "daily_evidence"
@@ -986,15 +1014,6 @@
       "insight": "AI 基础设施同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
     },
     {
-      "tag": "evals",
-      "sections": [
-        "github_repos",
-        "jobs",
-        "news"
-      ],
-      "insight": "评测与可观测性同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
-    },
-    {
       "tag": "llmops",
       "sections": [
         "github_repos",
@@ -1002,6 +1021,14 @@
         "news"
       ],
       "insight": "LLMOps同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
+    },
+    {
+      "tag": "evals",
+      "sections": [
+        "jobs",
+        "news"
+      ],
+      "insight": "评测与可观测性同时出现在岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。"
     }
   ],
   "errors": [],
