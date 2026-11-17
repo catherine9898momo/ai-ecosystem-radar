@@ -1,6 +1,6 @@
-# AI 岗位趋势 - 2026-11-16
+# AI 岗位趋势 - 2026-11-17
 
-岗位覆盖：9/5（达标）
+岗位覆盖：10/5（达标）
 
 ### [Senior Back-end Developer](https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135)
 - 公司：Lemon.io
@@ -23,6 +23,17 @@
 - 关注点：该岗位信号与智能体、评测与可观测性、LLMOps、远程岗位 相关，显示 Claims 在 未标明地区 对相关 AI 能力有招聘需求。
 - JD 原文摘录：🚀 Build the data layer AI needs to do science Application deadline: 16 Nov 2026 23:59 CET About Claims AI ate the Internet, but it can't digest science yet. A paper is thousands of words of prose written for humans, but an AI agent doing research needs to know what was claimed, what evidence supports it, and how far to trust it. Claims turns the scientific literature into exactly that: every claim, tied to its...
 - JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、JavaScript、Agents、评测、可观测性、Docker、FastAPI；岗位范围为 Global Remote；发布方为 Claims。
+
+### [Tech Lead Full-Stack Rails Engineer](https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746)
+- 公司：Mitre Media
+- 地区：USA, Canada, USA timezones
+- 来源：Remotive AI Jobs
+- 匹配范围：Global Remote
+- 标签：LLMOps、小模型与端侧 AI、AI 基础设施、远程岗位
+- 技能点：JavaScript、LangChain、Docker、Kubernetes、SQL
+- 关注点：该岗位信号与LLMOps、小模型与端侧 AI、AI 基础设施、远程岗位 相关，显示 Mitre Media 在 USA, Canada, USA timezones 对相关 AI 能力有招聘需求。
+- JD 原文摘录：About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and...
+- JD 中文解读：该岗位要求的核心技能包括 JavaScript、LangChain、Docker、Kubernetes、SQL；岗位范围为 Global Remote；发布方为 Mitre Media。
 
 ### [Software Engineer, AI Coding Tasks](https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158)
 - 公司：Askable
