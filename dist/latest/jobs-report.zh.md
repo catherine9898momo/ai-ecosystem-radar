@@ -1,6 +1,6 @@
-# AI 岗位趋势 - 2026-11-17
+# AI 岗位趋势 - 2026-11-18
 
-岗位覆盖：10/5（达标）
+岗位覆盖：9/5（达标）
 
 ### [Senior Back-end Developer](https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135)
 - 公司：Lemon.io
@@ -34,17 +34,6 @@
 - 关注点：该岗位信号与LLMOps、小模型与端侧 AI、AI 基础设施、远程岗位 相关，显示 Mitre Media 在 USA, Canada, USA timezones 对相关 AI 能力有招聘需求。
 - JD 原文摘录：About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and...
 - JD 中文解读：该岗位要求的核心技能包括 JavaScript、LangChain、Docker、Kubernetes、SQL；岗位范围为 Global Remote；发布方为 Mitre Media。
-
-### [Software Engineer, AI Coding Tasks](https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158)
-- 公司：Askable
-- 地区：Worldwide
-- 来源：Remotive AI Jobs
-- 匹配范围：Global Remote
-- 标签：智能体、评测与可观测性、AI 编程、远程岗位
-- 技能点：Python、TypeScript、Agents、评测、Docker
-- 关注点：该岗位信号与智能体、评测与可观测性、AI 编程、远程岗位 相关，显示 Askable 在 Worldwide 对相关 AI 能力有招聘需求。
-- JD 原文摘录：We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote, any location....
-- JD 中文解读：该岗位要求的核心技能包括 Python、TypeScript、Agents、评测、Docker；岗位范围为 Global Remote；发布方为 Askable。
 
 ### [Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165)
 - 公司：Fluence International, Inc.

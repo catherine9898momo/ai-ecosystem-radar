@@ -1,63 +1,63 @@
-# AI 新闻动态 - 2026-11-17
+# AI 新闻动态 - 2026-11-18
 
 新闻覆盖：10/5（达标）
 
-### [Helping AI coding agents work smarter, for less - Microsoft](https://news.google.com/rss/articles/CBMixgFBVV95cUxQMC1vbDhQcGpubTdvZG5BUmhZOHRidDFKMTdTLXo2SWk5RDg3THlEc2p2S3dCMXUtb28taWo1aERsNUJBRnlfUE1SeERkMFZVY01aVWh5NHpvR0dRdEpsQk9DQnNrODBQLXpnVklkUnB1Wm9ydjVZbnc1SVVReGVFQ0Z0UV9aRTVzNFBiTTZHMXdFb0dfcE04WXQ1V2xwY2QxWG1ZQms0SVhIcVp2X1VuY3dxRnNJN3pBNkJfT3gteWFfWW9vdGc?oc=5)
+### [Codenotary Expands Open-Source AgentMon Live AI Agent Monitoring to OpenAI Codex and AWS Kiro - 01net](https://news.google.com/rss/articles/CBMitgFBVV95cUxPUUlnRW1IRm40UHNSMnRPNEdaWm51aFBLa19tbE9qT3MteDg3NmtxRnplUWV6STlMNlQ2M3JWelJ0T1U3WjRmNThTanBzVDJZVmNJdW5lRHpLMjNFTEZnQXFwZEF0NVRLbmxhNUhmM3NqdjA2T1ZMS0FSWmpJUWhfZFpnd2VnaHN0UW5Qc2o0Yk5xMk1CLWhhOUF1MVF6MmgtQjJVdGEtTEc2RmQ5U1kxY21ISVo1QQ?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-11-17T19:51:00+00:00
+- 标签：智能体、AI 编程、LLMOps
+- 摘要：这条动态与智能体、AI 编程、LLMOps相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom](https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR?oc=5)
+- 来源：AI Model Releases
+- 发布时间：2026-09-28T07:00:00+00:00
+- 标签：智能体、LLMOps、模型发布
+- 摘要：这条动态与智能体、LLMOps、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI](https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5)
+- 来源：AI Model Releases
+- 发布时间：2026-06-24T07:00:00+00:00
+- 标签：LLMOps、AI 基础设施、模型发布
+- 摘要：这条动态与LLMOps、AI 基础设施、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [Kaseya Expands Agentic IT Platform With MCP Servers, AI Skills - CRN](https://news.google.com/rss/articles/CBMimgFBVV95cUxNSm1wdjhDSW1GRVQzejFWUHFMN2U5YXJ6bnJIYnFSRWxCOGdjUW5WbXQ2cnJSSV92MEJ0VkRBVWdzQjVURlZVbWFhbnJPSmloVmZieTd2a2RPSW5HSzBHN25YUnBMbWVNTmdMR19MS3g4R3NiZFlkY1hreF9YSy1vVTlKRmlhSWEyVVdSRXhqT2QwaktsNlhiVTNB?oc=5)
 - 来源：AI Agents News
-- 发布时间：2026-11-16T17:01:35+00:00
+- 发布时间：2026-11-17T20:21:00+00:00
+- 标签：智能体、MCP
+- 摘要：这条动态与智能体、MCP相关，可能反映相关产品、技术或监管方向的新变化。
+
+### [Google Unveils Ask AdMob and AI Agent Tools for App Monetization - Unite.AI](https://news.google.com/rss/articles/CBMijwFBVV95cUxONHJoTk8xM0JpcUV0MlhNYmd0cDQ0YzJveGU0UXdzN3ZMQkRDcjQzYnk3TlRyRzk5dHBXUHlkTzYxc2lFTjVlc2dkdUx2Z2FhNnA3NnBFc0l3Q3haT01PWC1lTFJZZzVMc2RoOHNwWE5XcVdBcXBpOGlZM0c1eFJyMGZiZUw4NEhkX0xBdWJIcw?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-11-16T17:27:02+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [StudioX AI Brings Agent Interoperability to Air-Gapped Networks - The Detroit News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZHBBMEF3eTdkaEM3Y1l6QU81V1E1X01vUlhTY1hZQ0EyU25RWnY0ZFRLMU9aRjFDZkc2eFBFbkZCeHAwTGt2cEZGYkZTTS1UbFY3QTBoN0tPSzdCeXRnSkJPYjl6YndBX2VlS0xOZU1UVHBBOWpCMXNsTDNpT3NSQmJiamFoMVluNUxKanFFUjZRZGV0RmFrQ3FzRkk1MDJERTVZRllIZzRGRjNvNkVRNU04b2VDQXRRQTBn?oc=5)
-- 来源：AI Agents News
-- 发布时间：2026-11-17T05:22:31+00:00
-- 标签：智能体
-- 摘要：这条动态与智能体相关，可能反映相关产品、技术或监管方向的新变化。
+### [UiPath Launches AI Coding Agent, Integrates Claude Code and Codex to Target Development Automation - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE1XOC0zY09sVnNSLVlDOXhfeF9xeUhBcFM3QVIyd2dmOHhmYW05WkxDR3ZXM3k4cDU1WXF3UEszVDVSdEZyaFlqbTdBQmlzb1M3YmFzOWpTSzBmOHdkRVlTZHFxWm5LUS1CWTNQWUI3RXNoaXFwWVE?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-11-16T03:05:00+00:00
+- 标签：智能体、AI 编程
+- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [Salesforce joins the Personal Agent Protocol to help brands meet shoppers’ AI agents - Salesforce](https://news.google.com/rss/articles/CBMifkFVX3lxTFAxX2llNUV2RzU4VEFfcnRwM2E1Nno3VTV3UmhfN1M5OHFQdjk1TVRNd1pjak1EbVFSb2VGNmIwUUNUdmpjSkF4VGRSSFVfbmNWVUxKbHJweEgyV1NyRVJJWUJXTVBxbWVLSzRhNkVVMHhyYW5XSTRDRlZPTGNWQQ?oc=5)
-- 来源：AI Agents News
-- 发布时间：2026-11-17T01:59:30+00:00
-- 标签：智能体
-- 摘要：这条动态与智能体相关，可能反映相关产品、技术或监管方向的新变化。
+### [OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJKXy1xWWNFX3hLZktkaW5tZ2Q3cHoyZ3FnTDRHM2hQSlFjRVJ5X253RUNmZTg5VjJtOUFnMlhpZHN5VU5meVFGTWRFbWprUnBrb3pnMjl1bjJIUWdjQ2ZXa0w5V2g0X3E4ODloa0FmTXc3MTlHMDBQZFh6LXpYbTUwbVBYcTZSMEh1MXRQbFdyRFdBbzhPbmFn?oc=5)
+- 来源：AI Model Releases
+- 发布时间：2026-09-30T07:00:00+00:00
+- 标签：智能体、模型发布
+- 摘要：这条动态与智能体、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [Open AI hit with lawsuit in California over Hugging Face rogue agent incident - SiliconANGLE](https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXJNYm9lRUt5Q3pTQUt4bTVZLVROdldSUmJObllCRWpEb1g1WkVUNC1SR0tvc3d0M0k3dnI1SldIcXBLZlFpUTVFS0I3SUdtNUxWeDlIMFJaVFpOMEVhSnpwa2daTzAyaUFOQmJ6TE8xZFZyZ1VKVzcycTZSaWdqM2RDcEphOEVjQTRKMWdsZGItLWlMdWthNV92QnZtTDhDdjVVdDFidkFoMEhnR2VkZWhXQ0E?oc=5)
-- 来源：AI Agents News
-- 发布时间：2026-11-17T01:56:00+00:00
-- 标签：智能体
-- 摘要：这条动态与智能体相关，可能反映相关产品、技术或监管方向的新变化。
+### [AI Coding Agents Are Leaking Credentials: Cursor, Claude Code, Copilot, and MCP - GitGuardian Blog](https://news.google.com/rss/articles/CBMidEFVX3lxTE8yb2tvM1FOMGQtLTFlbnNEc3FUeWt1Z2VkY1VyN2duZHFxeVhLZ2hLM2ZscmJNMGxvazhRWVRfODF0VlBMaHQyQTFmY1BmM0d3UGd1TlZhOEE5MUZGdG1COU42VEE2S1ZBOElfMkVqYTluMGEy?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-09-25T07:00:00+00:00
+- 标签：MCP、AI 编程
+- 摘要：这条动态与MCP、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [PayPal Tracks $53 Billion in Treasury Cash With an AI Agent - PYMNTS.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVkxUmxqLTV3RXBTbXJTUTJtUVVlYmlDaW5YTC1EWm5yZ3VFeE1QdWU0V3ltZ09jUHIwdXR6RGo3LXJkUU5EaDJpUFZ0Q3hSd2FBY2VDemRxSUk1S0lZWGN5VUxnenUwWUFwdnAxM0RKX2xZaXJsUG9wOFpnVVRtRjN6Q09Md1NPTlo2YkpHZFhOWm1HeDJJa1hEMDN5bFZhd21WVDBIaHZPcHlaZHp5azY4OVZ4QUE?oc=5)
-- 来源：AI Agents News
-- 发布时间：2026-11-16T23:39:50+00:00
-- 标签：智能体
-- 摘要：这条动态与智能体相关，可能反映相关产品、技术或监管方向的新变化。
+### [Secure AI Coding: Governing every agent, artifact, and identity - Palo Alto Networks](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1V1REVSZTJlaFBrTzBpcE9JLTlXeTVhcEFaVm1aeGUyRUlIaWVneHlGUC1xMFIzOUhmVngxU2hXeDdUN3pjOTM1X19OcXpOYzEzNFhEYldwMjhxMFBlT19CbUpHVlpJWEtyZFVxQ3R6R0JvRkFWdDJaejdZd0FlWS1VYnJqM1Rsa2lJSGtZd0s0NjJXZ3MwbV9yNmYwVGpvV2hFT1dHdkZLS0U?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-09-10T07:00:00+00:00
+- 标签：智能体、AI 编程
+- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [Introducing the Wiz AI Security Agent: Find Hidden Risks - wiz.io](https://news.google.com/rss/articles/CBMiaEFVX3lxTE83ZHlWVE85QUdxdF9tNDRxbFR1bVdTQU9jZkd3TmlGUkFKTFVQTDV0RWRhZERDT1ByYTI1bUlLZXNyYnpGdFhEWWs0TENnNkQwYVBlYzVOdmZFbXk0amZFTmw5NnZFYWlm?oc=5)
-- 来源：AI Agents News
-- 发布时间：2026-11-16T17:02:41+00:00
-- 标签：智能体
-- 摘要：这条动态与智能体相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys - The Hacker News](https://news.google.com/rss/articles/CBMifEFVX3lxTFBOYlpIS0J3MVBzZnhFbjZtTmx1TlBnRE9BOGpwelVBSUJDQi1YU3ZTclJFUGgxV1FpcDdQQXlRTl9Tald1LVRZeVpkb282ZHBSX0tXemdCWlkzbkxWc1lZczlJTGxhTXFHclVJOHpEbG9hNUdILVYzU1NHeU4?oc=5)
-- 来源：AI Agents News
-- 发布时间：2026-11-16T07:34:00+00:00
-- 标签：智能体
-- 摘要：这条动态与智能体相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [macOS 27.3 Full Disk Access: 2 New Settings for AI Agents - shattered.io](https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2NDNXg5blY2cDlwUjh2aFJTVzVJZnpQTUhQb0lYWEhaekdQOTlYUmZJa0lWQ3V6NTB5NlZIOElXUTRNc203a3pDeWxaTXl2S0Zzd1A4ME9QYnlnN1ZVQ00zSHZ0TzRSQlV6WWNNRG5wV1VvVXVKSkxxRjB3VXhDOTFB?oc=5)
-- 来源：AI Agents News
-- 发布时间：2026-11-17T07:03:56+00:00
-- 标签：智能体
-- 摘要：这条动态与智能体相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [Ask an AI expert: How to automate with AI agents - intheblack](https://news.google.com/rss/articles/CBMilgFBVV95cUxQV0NLZ1RDY0o2R0pRTkhZbjhSaTdLeDNraGJCNmszYk9ISk9VY1hjYl9Lc1lXRFhSN1FXU0dFbEVnaXljSllJd29zZGNINFFXSjVWNEVNWmxEZkRXYjBVV05GUGJJNWVCQ3hmQk9OcUI2UkFhSmlWZHFZSjU1bklMSGM2SVI0cTAyRlVlMHNmV09WMHB0NUE?oc=5)
-- 来源：AI Agents News
-- 发布时间：2026-11-17T06:26:57+00:00
-- 标签：智能体
-- 摘要：这条动态与智能体相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [Apple Adds New Disk Controls To Prevent AI Agents From Running Amok - Engadget](https://news.google.com/rss/articles/CBMiowFBVV95cUxQWEpMNmZBV09aZ0I1ek1pbDhhUjBzSUJ6Z2FDa2FsRGZmbEhfeWIyS0pNelQyZ2taSS1yMDVTY183RmRZczZ6UUlJdEJvS1JwNnZRWVEydHAyY1lwNjBwT0JPN3VwUVhMMGV1bkR5SmpDLVdtTjJnWjJVcXloaXZla3c4Q0Z1TWVmRmFLWHRXNWtGYTZDTHNPMUdDRl9RN2FTbHln?oc=5)
-- 来源：AI Agents News
-- 发布时间：2026-11-17T06:22:11+00:00
-- 标签：智能体
-- 摘要：这条动态与智能体相关，可能反映相关产品、技术或监管方向的新变化。
+### [We’re bringing governed agent loops to the AI-Native SDLC - Atlassian](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtWmVoNk9RRGhkek5YVXlGNkYwek5laXRNSFV0ZkdVWnVJdUY4d0dyUUhNWHV2ZWw4TEdvSGk4YldpMXhpNlFEWm16SHZZMUJtMnQzblhEOGk5dW54S1JsaE5HQVNwUUE?oc=5)
+- 来源：AI Coding Tools News
+- 发布时间：2026-09-10T07:00:00+00:00
+- 标签：智能体、AI 编程
+- 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
