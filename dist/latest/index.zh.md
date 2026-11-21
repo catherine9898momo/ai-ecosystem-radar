@@ -1,38 +1,44 @@
-# AI Ecosystem Radar - 2026-11-20
+# AI Ecosystem Radar - 2026-11-21
 
 ## 今日摘要
 
-- agents 在 22 条记录中出现，中文主题可理解为：智能体。
-- ai_coding 在 9 条记录中出现，中文主题可理解为：AI 编程。
-- llm 在 8 条记录中出现，中文主题可理解为：大模型。
+- agents 在 21 条记录中出现，中文主题可理解为：智能体。
+- mcp 在 10 条记录中出现，中文主题可理解为：MCP。
+- llm 在 9 条记录中出现，中文主题可理解为：大模型。
+- ai_coding 在 8 条记录中出现，中文主题可理解为：AI 编程。
 - llmops 在 8 条记录中出现，中文主题可理解为：LLMOps。
-- rag 在 8 条记录中出现，中文主题可理解为：RAG。
 
 ## 分报告
 
-- [AI 岗位趋势](./2026-11-20-jobs-report.zh.md)
-- [AI 新闻动态](./2026-11-20-news-report.zh.md)
-- [GitHub 热门项目](./2026-11-20-github-report.zh.md)
+- [AI 岗位趋势](./2026-11-21-jobs-report.zh.md)
+- [AI 新闻动态](./2026-11-21-news-report.zh.md)
+- [GitHub 热门项目](./2026-11-21-github-report.zh.md)
 
 ## 知识框架与趋势
 
 ### Agentic workflows
 - 状态：今日有直接证据
-- 证据数量：27
+- 证据数量：28
 - 说明：智能体工作流关注模型如何规划任务、调用工具并完成多步骤工作。
 - 证据：Senior Back-end Developer；Software Engineer；Senior Data Engineer
 
+### Retrieval-Augmented Generation
+- 状态：今日有直接证据
+- 证据数量：16
+- 说明：RAG 关注如何把外部知识检索、向量库和引用证据接入大模型应用。
+- 证据：Senior Back-end Developer；Tech Lead Full-Stack Rails Engineer；Full-Stack Developer
+
 ### AI coding workflows
 - 状态：今日有直接证据
-- 证据数量：17
+- 证据数量：16
 - 说明：AI 编程工作流关注 IDE、CLI、代码审查和自动化开发中的模型协作方式。
 - 证据：Senior Back-end Developer；Software Engineer；Tech Lead Full-Stack Rails Engineer
 
-### Retrieval-Augmented Generation
+### Model Context Protocol
 - 状态：今日有直接证据
-- 证据数量：14
-- 说明：RAG 关注如何把外部知识检索、向量库和引用证据接入大模型应用。
-- 证据：Senior Back-end Developer；Tech Lead Full-Stack Rails Engineer；Full-Stack Developer
+- 证据数量：10
+- 说明：MCP 关注 AI 应用如何用标准化方式连接工具、数据源和外部系统。
+- 证据：Connect AI Agents to Oracle Autonomous AI Database with MCP and A2A - Oracle Blogs；AI Coding Agents Are Leaking Credentials: Cursor, Claude Code, Copilot, and MCP - GitGuardian Blog；HsienW/chat-gun
 
 ### LLM evaluation and observability
 - 状态：今日有直接证据
@@ -40,19 +46,13 @@
 - 说明：评测与可观测性关注如何测试、追踪和监控生产环境中的大模型行为。
 - 证据：Software Engineer；Full-Stack Developer；Operations Expert with Python for AI Supply Chain Task Design
 
-### Model Context Protocol
-- 状态：今日有直接证据
-- 证据数量：7
-- 说明：MCP 关注 AI 应用如何用标准化方式连接工具、数据源和外部系统。
-- 证据：AI Coding Agents Are Leaking Credentials: Cursor, Claude Code, Copilot, and MCP - GitGuardian Blog；HsienW/chat-gun；mrbizarro/Phosphene
-
 ## 交叉信号
 
 - 智能体同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。
 - AI 编程同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。
-- AI 基础设施同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。
+- LLMOps同时出现在GitHub 项目、岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。
+- AI 基础设施同时出现在岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。
 - 评测与可观测性同时出现在GitHub 项目、岗位中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。
-- LLMOps同时出现在岗位、新闻中，说明主题已经同时出现在多个生态信号里，值得持续跟踪。
 
 ## 数据覆盖情况
 
