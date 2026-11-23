@@ -1,4 +1,4 @@
-# AI 新闻动态 - 2026-11-22
+# AI 新闻动态 - 2026-11-23
 
 新闻覆盖：10/5（达标）
 
@@ -56,8 +56,8 @@
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [Build Better AI Agents: 5 Developer Tips from the Agent Bake-Off - Google for Developers Blog](https://news.google.com/rss/articles/CBMinwFBVV95cUxOX05MY1JSUVQwUUdXaDQyeHlwSnlOQjVIbmx3SjVqeEN4VFpDZTI1aWExRnhDUEQ1MDljRjZVMldwbkJVMHoxY3AyX1NNMDhRdm9BN1hkR0txV2RESDItNTVNSGlNY0VwWXNfOFBxejQyMjZ5RXh5bEd5QWNkVzhLVEVYa0dEenkzcVlBNnNBZnF5Q2pEb2tqaUJzOThVT28?oc=5)
+### [Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue - Tom's Hardware](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNOV9rbkhHM2dJQnFiRFMzMjdfSDVPZkd2ZmtpNU9YVUphNXY2VHB5MEFzMXdyVVhEX01pNjNfQ3ktSEQzd0pVMGM0X1FpQ2VhS0VEMThVd0p1N0gzam5JMlIzNVRmb0pIdlptYWJwQkZQYU5IOGl2VlZOYmNwMFBsUHdnYm50MG5Tbmh6TDJSbFAyYnZYUzByc3d2cWJtRVoySmZvNXZIMW9Hc1JDQktaaWJHQTk0QnhwZjc3OFZvTmpRS05PWFVfcmM4Q2JVWk96aU4zRzRhZXF6MkowczBTUWNtSUkxcm1pWTZ0Zmg1T0lMUGYzMnkwcTlvRGxxYXEydWNwdFJMWTBaXzkyU2VXSEZ4UkNrMnVlZ2NDZ3Q0cloxckZtY09TcFhGZ2E2TTM4TlVmV2V5djVlT1k?oc=5)
 - 来源：AI Coding Tools News
-- 发布时间：2026-04-14T07:00:00+00:00
+- 发布时间：2026-04-27T07:00:00+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
