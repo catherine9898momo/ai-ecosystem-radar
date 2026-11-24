@@ -1,8 +1,8 @@
-# AI 岗位趋势 - 2026-11-23
+# AI 岗位趋势 - 2026-11-24
 
 岗位覆盖：9/5（达标）
 
-### [Senior Back-end Developer](https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135)
+### [Senior Back-end Developerusa](https://remotive.com/remote-jobs/software-development/senior-back-end-developerusa-2091135)
 - 公司：Lemon.io
 - 地区：Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia
 - 来源：Remotive AI Jobs

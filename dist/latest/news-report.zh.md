@@ -1,12 +1,12 @@
-# AI 新闻动态 - 2026-11-23
+# AI 新闻动态 - 2026-11-24
 
 新闻覆盖：10/5（达标）
 
-### [NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom](https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR?oc=5)
+### [Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5)
 - 来源：AI Model Releases
-- 发布时间：2026-09-28T07:00:00+00:00
-- 标签：智能体、LLMOps、模型发布
-- 摘要：这条动态与智能体、LLMOps、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
+- 发布时间：2026-08-05T07:00:00+00:00
+- 标签：智能体、AI 编程、模型发布
+- 摘要：这条动态与智能体、AI 编程、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
 ### [OpenAI and Broadcom unveil LLM-optimized inference chip - OpenAI](https://news.google.com/rss/articles/CBMic0FVX3lxTE5IcjFBSWc3NkotMVUzaDNHaWJBcWVtQXZHbnhpUVZrekpPWENRNEZrQ2hOdTFnejg2WTdvWFNQeFI3RGJnRE9qTFI3czJQX28tQUd3OC1ncFlEMnJtQmdONE8ya1NOa1BVOHhVTGNjdUkxbDg?oc=5)
 - 来源：AI Model Releases
@@ -14,50 +14,50 @@
 - 标签：LLMOps、AI 基础设施、模型发布
 - 摘要：这条动态与LLMOps、AI 基础设施、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
 
+### [Sionic AI Says It Has Made LLM Serving Five Times Faster, Launches OpenGateway - 코리아스타트업포스트](https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwSmxTc2h3cGRrUkpjWlc0Y21PWEY2a2tzb1UxT3JiNGI5RmNrR05WLTBmV21qUTZjNDRXb1lPeXlOWGh6X2lFVUhaT2o4MzNpbjBMNg?oc=5)
+- 来源：AI Model Releases
+- 发布时间：2026-11-24T05:29:30+00:00
+- 标签：AI 基础设施、模型发布
+- 摘要：这条动态与AI 基础设施、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
+
 ### [Apple reportedly developing AI agent for coding, app control - TechGig](https://news.google.com/rss/articles/CBMingFBVV95cUxOb3hUSE5SQTRzejdhSThPRWFMcjhCT0FFWHJLc2hJZUVOUFZhRS1McjgxNGs2SE9hcEpDaWRNUlZsNE5xQmFsZk04d3paY0V4OEJvQTNDZlRhcUlWNTlNQmc1UlVzNDRTTVNmOVltdHh2VlBnYzJUS2l6NEhtbnF6TGlpb0F1bHBEdFMtYVlpbk40cV9LaS1yekgyV3FxUdIBowFBVV95cUxQNXIxMVYzcmRfYzZKdnpLcXZrVVB0cmF6ZWF2SGw2OTlRWnNPRFNhOGtRc2lwZUwxU1h3Qm1xZjBmRktpdC1BSkxDUmRrZHhxZDM5OXJqUlZUYjNLbTVQLVV1aGwwaXhxRzJDX1lUTldOekQxbmRudUhjbWNMUFFpN2NTSUQtV3h1SXlMNDdVOTZldW9SY0hOQk5tWXpmWVhNWm0w?oc=5)
 - 来源：AI Coding Tools News
 - 发布时间：2026-11-21T07:05:46+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m - Sifted](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xMnNRVlVnQm9vQldtWEw1X0JhZ3FBX0NCLWIzMDF0b2xHYTZsenNsR3AwcUVKRkZMdDZ2dm9LVjFMbG81RmhSSm9IdjJXNndZT19sWmdBWjBHTkRCOFl3ZFdUdkMxZzA?oc=5)
+### [Apple Working on Own AI Agent to Rival OpenAI and Anthropic - Bloomberg.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzRPX3FrZlMybjdvY2FJVWhVOHU5M2lTTGNPazZYUW0zVlA3ZkVRcWxERk9XM2FvXzgzVDVUaTYwTzVzOXg0TGQtN25fOE9aeTRtUXhqTGE2Q01zQ21iTUg1dmFTNGZQRV9hTDVBV3BjWW4tUzYxXzBVTzA1UzkyOEtySVhfbWZlbmRXSFd1bVZLZElzSThUMmlQVnAyOHJIWUs0YTBNVTBIM29HV2ZieUtzQ1d0SDVIVTA2VTRTYk4?oc=5)
 - 来源：AI Coding Tools News
-- 发布时间：2026-11-20T17:22:46+00:00
+- 发布时间：2026-11-19T21:44:56+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJKXy1xWWNFX3hLZktkaW5tZ2Q3cHoyZ3FnTDRHM2hQSlFjRVJ5X253RUNmZTg5VjJtOUFnMlhpZHN5VU5meVFGTWRFbWprUnBrb3pnMjl1bjJIUWdjQ2ZXa0w5V2g0X3E4ODloa0FmTXc3MTlHMDBQZFh6LXpYbTUwbVBYcTZSMEh1MXRQbFdyRFdBbzhPbmFn?oc=5)
-- 来源：AI Model Releases
-- 发布时间：2026-09-30T07:00:00+00:00
-- 标签：智能体、模型发布
-- 摘要：这条动态与智能体、模型发布相关，可能反映相关产品、技术或监管方向的新变化。
-
-### [Secure AI Coding: Governing every agent, artifact, and identity - Palo Alto Networks](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1V1REVSZTJlaFBrTzBpcE9JLTlXeTVhcEFaVm1aeGUyRUlIaWVneHlGUC1xMFIzOUhmVngxU2hXeDdUN3pjOTM1X19OcXpOYzEzNFhEYldwMjhxMFBlT19CbUpHVlpJWEtyZFVxQ3R6R0JvRkFWdDJaejdZd0FlWS1VYnJqM1Rsa2lJSGtZd0s0NjJXZ3MwbV9yNmYwVGpvV2hFT1dHdkZLS0U?oc=5)
+### [xAI prioritizes AI coding tools and its Grok Bot agent product - Crypto Briefing](https://news.google.com/rss/articles/CBMib0FVX3lxTE5JajZVajVuWGxZRW55Z0ZSaHFGZFFSNXc4R3pRSmttbjRWNjN2ZnUzTzNnZzYwMUZKa0hyNGU0cEE4b01rN1oxUFU1TmRBa21KbkR4TU0zclFvWlBWeXhLaEVyd0V1WHU1TkhwOHBGRQ?oc=5)
 - 来源：AI Coding Tools News
-- 发布时间：2026-09-10T07:00:00+00:00
+- 发布时间：2026-11-13T08:00:00+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [We’re bringing governed agent loops to the AI-Native SDLC - Atlassian](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtWmVoNk9RRGhkek5YVXlGNkYwek5laXRNSFV0ZkdVWnVJdUY4d0dyUUhNWHV2ZWw4TEdvSGk4YldpMXhpNlFEWm16SHZZMUJtMnQzblhEOGk5dW54S1JsaE5HQVNwUUE?oc=5)
+### [Cybersecurity Strategies for Low-Code vs. High-Code Agent Development - Unite.AI](https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXFjMF9XWTU0bWx0bjZNbkk4dngtUi1BOWdEalViYTFjdENLUDhpVkpzX3ZwYVVMVk1BSWFlRlIycHVoSHB2cUF5a0laVEw4QTVmS09xRVE1N1E4NmgzT0lsZGszOGE2Nzl3Y2tNdUdDZ0RHZmxsaEY2dXRNS1ViWnJWM3pOU3Vael92NXdDOWdnM29S?oc=5)
 - 来源：AI Coding Tools News
-- 发布时间：2026-09-10T07:00:00+00:00
+- 发布时间：2026-11-11T16:57:26+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXpCdFJVQk9lTzZ1WFk5cENzSWRNa3hkYVRfMy1vZXMxekkzQXRja2xKX0E5dzRFQXVRUDgwWDFOSWEwRWJnQU55UjVQUms0b2NuOGl1NlpUT2FqUVFPMm9WWkRqZkhWX3lyQnIxck5vZDU0RE5zdXBUalY0THd1dm5qLS1VSG1FVzh4dWNFYWQ5SFlXM2fSAZsBQVVfeXFMUDRqYXFzVEpSNHM5N24zTDBlYmd6bDRlM0FmUnB2dldBNGRIMlo2cHd3Zm5kZXVaS1k4NVFZb1hUOXhuRnh4cFlabUFmQ0NDdmE2U0F0ZHBfdnJSajBWcXowZnE1a1RhMmsydzZ2YmoyMUpyYTdlRVRBSnBxX3haUkRWOVEzOFY5aDhmVUhYNzZJdDJjdWtaRXpJNUk?oc=5)
+### [Meta Acquires Conductor to Expand Into Multi-Agent AI Coding Tools - THE ELEC, Korea Electronics Industry Media](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83VU01REtnMFM3cXRBdlRJcUhtX0ZQQ3M0c1RSM3E3VVFmZDJUc1dnd0ZTRVZWcmgtVUNZeDYxV0lfWXVIOHdsM3NSS0xCczZaeGRhcGo5M3ZMdzFpcHlPbDBkWklwYW8?oc=5)
 - 来源：AI Coding Tools News
-- 发布时间：2026-08-05T07:00:00+00:00
+- 发布时间：2026-11-06T08:00:00+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [ServiceNow Build Agent now works inside every major AI coding tool, governed by default - ServiceNow](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZS1lSWhkUW1kb3dmckQ3cDNRNVJ0MFFBN0VjVnhQR1EtWlNjZDJXc0tRdFV1cU9LVy1oT2xtaWI2Z2ZfTl9ySG5ITjJYcW5NWF8zOG5jOXVoZFBsMUpIdV9XS3l3ODhZN2FIVC1DZkxzaGg1eG45alUtUnNmOFZCcEhUZndzNjM5TUlNLWJCT0JJRHhYTnRQU1gxZWdlTkZ3QUVMZmdGemlCTXhEYXRhYURjOWl2RGtoMk84ZkplZ0g2dGNIbEJZSjBRcURwRTFaRjVfTlNSYnJPSjZ3RUdCOGk5NXNLanlfWWJpcloybk0?oc=5)
+### [Meta acquires Conductor as AI coding shifts toward multi-agent development - InfoWorld](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2F1YXA0MWRNeWxFOVR1bkUxa2MwYVFwTG4zZ2hhNUhKRVdaWFlUR1pSVUpoZ3p2MHpxa3Z4VUdMMG13VjR0WktFYk1JVWRSeGQ2QWwzMkNzNkpHb3lMTXNVSXh5d19nWmxFSWxPcUlBQnhqaWMza0tLZEhhOWlKaE1LcXFPdy00S1AwVllkNzFiZmxxNHlGdjVZN3FsOWVnQ3N5V1lFbWVCVDZZdXFFcUowVFF4UzlOVkFJMUZB?oc=5)
 - 来源：AI Coding Tools News
-- 发布时间：2026-05-06T07:00:00+00:00
+- 发布时间：2026-11-05T08:00:00+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
 
-### [Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue - Tom's Hardware](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNOV9rbkhHM2dJQnFiRFMzMjdfSDVPZkd2ZmtpNU9YVUphNXY2VHB5MEFzMXdyVVhEX01pNjNfQ3ktSEQzd0pVMGM0X1FpQ2VhS0VEMThVd0p1N0gzam5JMlIzNVRmb0pIdlptYWJwQkZQYU5IOGl2VlZOYmNwMFBsUHdnYm50MG5Tbmh6TDJSbFAyYnZYUzByc3d2cWJtRVoySmZvNXZIMW9Hc1JDQktaaWJHQTk0QnhwZjc3OFZvTmpRS05PWFVfcmM4Q2JVWk96aU4zRzRhZXF6MkowczBTUWNtSUkxcm1pWTZ0Zmg1T0lMUGYzMnkwcTlvRGxxYXEydWNwdFJMWTBaXzkyU2VXSEZ4UkNrMnVlZ2NDZ3Q0cloxckZtY09TcFhGZ2E2TTM4TlVmV2V5djVlT1k?oc=5)
+### [Meta Acquires Conductor to Support Multi-Agent AI Coding - DevOps.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxQclVLTUIxVFZjc2oyUzJyenNzWkJjUFlib2QwZmxlV3E3bVdGdUFLUUhjalkyenRTV3JOQVU4a1FjQTZocktyX051ekEtVExOREFDYkRNMkpPSTI3LS00N014MnRuLTMzWFdKX01XczlBREVEdDZZc3NWOHJ2WUE1TA?oc=5)
 - 来源：AI Coding Tools News
-- 发布时间：2026-04-27T07:00:00+00:00
+- 发布时间：2026-11-05T08:00:00+00:00
 - 标签：智能体、AI 编程
 - 摘要：这条动态与智能体、AI 编程相关，可能反映相关产品、技术或监管方向的新变化。
