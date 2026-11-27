@@ -1,63 +1,63 @@
-# GitHub 热门项目 - 2026-11-26
+# GitHub 热门项目 - 2026-11-27
 
 GitHub 项目覆盖：10/5（达标）
 
-### [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
-- Stars：27115
+### [dataelement/bisheng](https://github.com/dataelement/bisheng)
+- Stars：12441
 - Language：Python
-- 标签：智能体、RAG、MCP、多模态
-- 简介：这个项目与智能体、RAG、MCP、多模态 相关，目前约 27115 stars，主要语言为 Python，可作为开源生态热度线索。
-
-### [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
-- Stars：80889
-- Language：Python
-- 标签：RAG、MCP、AI 编程、大模型
-- 简介：这个项目与RAG、MCP、AI 编程、大模型 相关，目前约 80889 stars，主要语言为 Python，可作为开源生态热度线索。
-
-### [SourceWeft/SourceWeft](https://github.com/SourceWeft/SourceWeft)
-- Stars：577
-- Language：TypeScript
-- 标签：智能体、RAG、MCP、大模型
-- 简介：这个项目与智能体、RAG、MCP、大模型 相关，目前约 577 stars，主要语言为 TypeScript，可作为开源生态热度线索。
-
-### [vstorm-co/agenticos](https://github.com/vstorm-co/agenticos)
-- Stars：883
-- Language：Python
-- 标签：智能体、RAG、MCP、大模型
-- 简介：这个项目与智能体、RAG、MCP、大模型 相关，目前约 883 stars，主要语言为 Python，可作为开源生态热度线索。
+- 标签：智能体、RAG、评测与可观测性、LLMOps
+- 简介：这个项目与智能体、RAG、评测与可观测性、LLMOps 相关，目前约 12441 stars，主要语言为 Python，可作为开源生态热度线索。
 
 ### [langgenius/dify](https://github.com/langgenius/dify)
-- Stars：161931
+- Stars：161982
 - Language：Python
 - 标签：智能体、RAG、MCP、大模型
-- 简介：这个项目与智能体、RAG、MCP、大模型 相关，目前约 161931 stars，主要语言为 Python，可作为开源生态热度线索。
+- 简介：这个项目与智能体、RAG、MCP、大模型 相关，目前约 161982 stars，主要语言为 Python，可作为开源生态热度线索。
 
-### [xorbitsai/inference](https://github.com/xorbitsai/inference)
-- Stars：9672
-- Language：Python
-- 标签：RAG、多模态、LLMOps、AI 基础设施
-- 简介：这个项目与RAG、多模态、LLMOps、AI 基础设施 相关，目前约 9672 stars，主要语言为 Python，可作为开源生态热度线索。
-
-### [ashishsinha1602/schemagate](https://github.com/ashishsinha1602/schemagate)
-- Stars：127
+### [vstorm-co/agenticos](https://github.com/vstorm-co/agenticos)
+- Stars：899
 - Language：Python
 - 标签：智能体、RAG、MCP、大模型
-- 简介：这个项目与智能体、RAG、MCP、大模型 相关，目前约 127 stars，主要语言为 Python，可作为开源生态热度线索。
+- 简介：这个项目与智能体、RAG、MCP、大模型 相关，目前约 899 stars，主要语言为 Python，可作为开源生态热度线索。
 
-### [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)
-- Stars：5348
-- Language：Swift
-- 标签：智能体、MCP、多模态、大模型
-- 简介：这个项目与智能体、MCP、多模态、大模型 相关，目前约 5348 stars，主要语言为 Swift，可作为开源生态热度线索。
-
-### [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-- Stars：150012
-- Language：Python
+### [oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub)
+- Stars：4495
+- Language：Jupyter Notebook
 - 标签：智能体、RAG、大模型
-- 简介：这个项目与智能体、RAG、大模型 相关，目前约 150012 stars，主要语言为 Python，可作为开源生态热度线索。
+- 简介：这个项目与智能体、RAG、大模型 相关，目前约 4495 stars，主要语言为 Jupyter Notebook，可作为开源生态热度线索。
+
+### [DemonDamon/AgenticX](https://github.com/DemonDamon/AgenticX)
+- Stars：1238
+- Language：Python
+- 标签：智能体、RAG、MCP、大模型
+- 简介：这个项目与智能体、RAG、MCP、大模型 相关，目前约 1238 stars，主要语言为 Python，可作为开源生态热度线索。
+
+### [poco-ai/Agentero](https://github.com/poco-ai/Agentero)
+- Stars：2940
+- Language：TypeScript
+- 标签：智能体、RAG、MCP、大模型
+- 简介：这个项目与智能体、RAG、MCP、大模型 相关，目前约 2940 stars，主要语言为 TypeScript，可作为开源生态热度线索。
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
-- Stars：12513
+- Stars：12521
 - Language：TypeScript
 - 标签：RAG、MCP、大模型
-- 简介：这个项目与RAG、MCP、大模型 相关，目前约 12513 stars，主要语言为 TypeScript，可作为开源生态热度线索。
+- 简介：这个项目与RAG、MCP、大模型 相关，目前约 12521 stars，主要语言为 TypeScript，可作为开源生态热度线索。
+
+### [ongridio/ongrid](https://github.com/ongridio/ongrid)
+- Stars：1303
+- Language：Go
+- 标签：智能体、RAG、MCP、大模型
+- 简介：这个项目与智能体、RAG、MCP、大模型 相关，目前约 1303 stars，主要语言为 Go，可作为开源生态热度线索。
+
+### [Tencent/LoopForge](https://github.com/Tencent/LoopForge)
+- Stars：6051
+- Language：Go
+- 标签：智能体、MCP、AI 编程、大模型
+- 简介：这个项目与智能体、MCP、AI 编程、大模型 相关，目前约 6051 stars，主要语言为 Go，可作为开源生态热度线索。
+
+### [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)
+- Stars：6230
+- Language：TypeScript
+- 标签：智能体、RAG、MCP、大模型
+- 简介：这个项目与智能体、RAG、MCP、大模型 相关，目前约 6230 stars，主要语言为 TypeScript，可作为开源生态热度线索。
